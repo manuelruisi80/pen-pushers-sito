@@ -1,7 +1,1 @@
-  aziende-tecniche-horeca-commesse: 200 https://images.unsplash.com/photo-1790156591731-09dbf6aee75a?w=2000&q=85&fm=jpg image/jpeg
-OK aziende-tecniche-horeca-commesse (2000, 1333)
-  sito-aziendale-perde-clienti: 200 https://images.unsplash.com/photo-1751200065697-4461cc2b43cb?w=2000&q=85&fm=jpg image/jpeg
-OK sito-aziendale-perde-clienti (1126, 2000)
-  trovare-clienti-b2b: 200 https://images.unsplash.com/photo-1758518730384-be3d205838e8?w=2000&q=85&fm=jpg image/jpeg
-OK trovare-clienti-b2b (2000, 1125)
-foto scaricate: 3, errori: 0
+foto scaricate: 0, errori: 0
