@@ -294,7 +294,7 @@ def header(current):
   <div class="wrap">
     <a href="/" class="logo">PEN-PUSHERS<span>PUBLISHING</span></a>
     <nav class="nav mono" aria-label="Principale">
-      <a href="/#creazione">Servizi</a>
+      <a href="/servizi/">Servizi</a>
       <a href="/#sistemi">Sistemi</a>
       <a href="/#progetti">Progetti</a>
       <a href="/insights/"{cur}>Insights</a>
