@@ -1,0 +1,15 @@
+Options -Indexes
+DirectoryIndex index.html
+
+# file di lavoro della redazione: non accessibili dal web
+RedirectMatch 404 ^/insights/_src(/.*)?$
+RedirectMatch 404 ^/insights/\.git(/.*)?$
+RedirectMatch 404 ^/insights/README\.md$
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/jpeg "access plus 30 days"
+  ExpiresByType text/css "access plus 7 days"
+  ExpiresByType application/json "access plus 10 minutes"
+  ExpiresByType text/html "access plus 10 minutes"
+</IfModule>

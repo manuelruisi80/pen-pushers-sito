@@ -1,0 +1,45 @@
+{
+ "version": "https://jsonfeed.org/version/1.1",
+ "title": "Insights · Pen-Pushers Publishing",
+ "home_page_url": "https://pen-pushers.com/insights/",
+ "feed_url": "https://pen-pushers.com/insights/feed.json",
+ "language": "it",
+ "items": [
+  {
+   "id": "https://pen-pushers.com/insights/aziende-tecniche-horeca-commesse.html",
+   "url": "https://pen-pushers.com/insights/aziende-tecniche-horeca-commesse.html",
+   "title": "Cucine professionali, refrigerazione e HVAC: come acquisire più commesse da ristoranti e hotel",
+   "summary": "Le aziende che installano e mantengono cucine professionali, refrigerazione e climatizzazione hanno clienti identificabili e bisogni ricorrenti. Tre leve per acquisire più commesse.",
+   "image": "https://pen-pushers.com/insights/img/covers/aziende-tecniche-horeca-commesse.jpg",
+   "date_published": "2026-10-05",
+   "tags": [
+    "Settori · Ho.Re.Ca. tecnico"
+   ],
+   "_mins": 6
+  },
+  {
+   "id": "https://pen-pushers.com/insights/sito-aziendale-perde-clienti.html",
+   "url": "https://pen-pushers.com/insights/sito-aziendale-perde-clienti.html",
+   "title": "Il tuo sito aziendale ti fa perdere clienti? 7 segnali da controllare oggi",
+   "summary": "Un sito può essere online e non lavorare per te. Sette controlli semplici, da fare anche da soli, per capire se il tuo sito aziendale ti sta facendo perdere richieste.",
+   "image": "https://pen-pushers.com/insights/img/covers/sito-aziendale-perde-clienti.jpg",
+   "date_published": "2026-10-05",
+   "tags": [
+    "Siti web & SEO"
+   ],
+   "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/trovare-clienti-b2b.html",
+   "url": "https://pen-pushers.com/insights/trovare-clienti-b2b.html",
+   "title": "Come trovare nuovi clienti B2B senza ripartire da zero ogni mattina",
+   "summary": "Il passaparola non basta più e le liste comprate non funzionano. Ecco un metodo in quattro passi per trovare, qualificare e contattare le aziende giuste.",
+   "image": "https://pen-pushers.com/insights/img/covers/trovare-clienti-b2b.jpg",
+   "date_published": "2026-10-05",
+   "tags": [
+    "Lead generation B2B"
+   ],
+   "_mins": 6
+  }
+ ]
+}
