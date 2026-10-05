@@ -8,7 +8,7 @@ aggiorna da solo a ogni push sul branch main).
 Uso:  python3 _src/build.py
 Legge  _src/articles/*.json  e rigenera:
   index.html, <slug>.html, feed.json, sitemap.xml, insights.css,
-  img/covers/<slug>.jpg (1200x630), img/social/<slug>.jpg (1080x1350)
+  img/covers/<slug>.jpg (1200x630), img/social/<slug>.jpg (1080x1350), img/stories/<slug>.jpg (1080x1920)
 """
 import os, json, glob, html, math, re, shutil
 from datetime import date
@@ -272,6 +272,32 @@ def make_social(a, path, seed):
     im.save(path, quality=88, optimize=True, progressive=True)
 
 
+def make_story(a, path, seed):
+    """Storia Instagram 1080x1920: testi dentro la zona sicura (lontani da 250 px in alto e in basso)."""
+    W, H = 1080, 1920
+    im = Image.new('RGB', (W, H), BG)
+    pp = photo_path(a)
+    if pp:
+        ph = gold_photo(pp, (W, 1180), a['photo'].get('focus', 0.5))
+        im.paste(ph, (0, 0))
+        fade(im, (0, 0, W, 420), 'down', 220, 0)
+        fade(im, (0, 680, W, 1181), 'up', 255, 0)
+    else:
+        glow(im, 780, 700, 420, 70)
+        draw_motif(im, a['motif'], 760, 680, 520, seed)
+    d = ImageDraw.Draw(im)
+    brand(d, 72, 260, 1.15)
+    d.text((72, 1080), a['cat'].upper(), font=font('mono', 28), fill=GOLD)
+    f, lines = fit_text(d, a['ig_hook'], 'black', 936, 4, 96, 58)
+    y = 1132
+    for ln in lines:
+        d.text((72, y), ln, font=f, fill=WHITE); y += int(f.size * 1.04)
+    d.text((72, 1520), 'NUOVO ARTICOLO', font=font('mono', 24), fill=MUTED)
+    d.rounded_rectangle([72, 1562, 72 + 470, 1636], radius=37, fill=GOLD)
+    d.text((106, 1582), "Leggi l'articolo · link in bio", font=font('bold', 28), fill=BG)
+    im.save(path, quality=88, optimize=True, progressive=True)
+
+
 # ------------------------------------------------------------------ pagine
 HEAD_COMMON = '''<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400..900&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap">
@@ -294,7 +320,7 @@ def header(current):
   <div class="wrap">
     <a href="/" class="logo">PEN-PUSHERS<span>PUBLISHING</span></a>
     <nav class="nav mono" aria-label="Principale">
-      <a href="/#creazione">Servizi</a>
+      <a href="/servizi/">Servizi</a>
       <a href="/#sistemi">Sistemi</a>
       <a href="/#progetti">Progetti</a>
       <a href="/insights/"{cur}>Insights</a>
@@ -484,11 +510,13 @@ def main():
     ver = max(a['date'] for a in arts).replace('-', '') if arts else '1'
     os.makedirs(os.path.join(ROOT, 'img', 'covers'), exist_ok=True)
     os.makedirs(os.path.join(ROOT, 'img', 'social'), exist_ok=True)
+    os.makedirs(os.path.join(ROOT, 'img', 'stories'), exist_ok=True)
     shutil.copy(os.path.join(SRC, 'insights.css'), os.path.join(ROOT, 'insights.css'))
     for i, a in enumerate(arts):
         seed = sum(map(ord, a['slug']))
         make_cover(a, os.path.join(ROOT, 'img', 'covers', a['slug'] + '.jpg'), seed)
         make_social(a, os.path.join(ROOT, 'img', 'social', a['slug'] + '.jpg'), seed)
+        make_story(a, os.path.join(ROOT, 'img', 'stories', a['slug'] + '.jpg'), seed)
         with open(os.path.join(ROOT, a['slug'] + '.html'), 'w', encoding='utf-8') as fh:
             fh.write(article_page(a, related_for(a, arts), ver))
     with open(os.path.join(ROOT, 'index.html'), 'w', encoding='utf-8') as fh:

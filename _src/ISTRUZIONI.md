@@ -1,8 +1,9 @@
 # Redazione Insights · Pen-Pushers Publishing
 
 Questo repository È la cartella `/insights/` di pen-pushers.com.
-Hostinger pubblica automaticamente il branch **main**. Le bozze vanno sempre sul branch **bozze**:
-Manuel le approva facendo il merge di `bozze` in `main` su GitHub.
+Hostinger pubblica automaticamente il branch **main**. Dal 5 ottobre 2026 Manuel ha chiesto la **pubblicazione diretta, senza approvazione**:
+la redazione lavora sul branch **bozze** (per far generare le immagini a GitHub Actions), controlla le immagini e poi porta `bozze` in `main` e fa push.
+Se qualcosa non gli piace, Manuel lo cancella.
 
 ## Chi siamo (per scrivere con la voce giusta)
 - **Pen-Pushers Publishing**, Firenze, fondata da **Manuel Ruisi** (founder, product builder, growth consultant, 20+ anni nel digitale).
@@ -51,6 +52,12 @@ File: `_src/articles/AAAA-MM-GG-<slug>.json` con questi campi:
   - La foto la scarica GitHub Actions dopo il push (il nostro ambiente non raggiunge Unsplash): dopo il push aspetta il commit "Immagini aggiornate [automatico]" e controlla `_src/photos/registro.txt`.
 - facoltativi: `faq` (lista di `{q, a}`, 3–4 domande vere), `sources` (lista di `{title, url}`).
 
+## Collegamenti interni (importanti per Google)
+In ogni articolo inserisci nel body_html 1–2 link naturali alla pagina servizio pertinente e, se c'è, a un altro articolo Insights:
+- /servizi/sito-web-aziendale.html · /servizi/seo-google-business-profile.html · /servizi/brand-identity.html
+- /servizi/krelia-lead-generation-b2b.html · /servizi/innovation-automazioni-ai.html
+- /insights/<slug>.html per gli articoli già pubblicati
+
 ## Struttura consigliata del corpo
 1. Il problema (con un esempio concreto del settore)
 2. Perché succede / errori comuni
@@ -62,4 +69,6 @@ File: `_src/articles/AAAA-MM-GG-<slug>.json` con questi campi:
 ## Procedura
 1. `python3 _src/build.py` rigenera tutto (pagine, copertine, immagini Instagram, feed, sitemap). Deve stampare `OK`.
 2. Commit sul branch `bozze`, push.
-3. GitHub Actions scarica le foto e rigenera le immagini con la foto (commit "Immagini aggiornate [automatico]", 1–2 minuti). Fai `git pull` e controlla a occhio le immagini nuove in `img/covers/` e `img/social/`.
+3. GitHub Actions scarica le foto e rigenera le immagini con la foto (commit "Immagini aggiornate [automatico]", 1–2 minuti). Fai `git pull` e controlla a occhio le immagini nuove in `img/covers/`, `img/social/` (post 1080x1350) e `img/stories/` (storie 1080x1920).
+4. Pubblicazione: `git checkout main && git merge --ff-only bozze` (se non è possibile, `git merge bozze`) e `git push origin main`. Hostinger mette online in circa un minuto.
+5. Instagram (Metricool): post e storie programmati direttamente (`draft: false`), non in bozza.
