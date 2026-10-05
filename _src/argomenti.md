@@ -23,13 +23,11 @@
 - Dominio, hosting, email aziendale: cosa deve essere intestato all'azienda
 
 ## Brand identity
-- Logo o marchio registrato? Differenze spiegate a un imprenditore
 - Tone of voice: come far parlare l'azienda sempre allo stesso modo
 - Immagine coordinata: quali materiali servono a una PMI
 - Naming: come scegliere il nome di un nuovo servizio o prodotto
 
 ## AI & automazioni
-- Preventivi più veloci con l'automazione: da cosa partire
 - Promemoria di manutenzione automatici: come non perdere più una scadenza
 - AI in azienda: 5 usi concreti per una PMI che non richiedono un reparto IT
 - Moduli online collegati a fogli di calcolo: automazioni semplici con strumenti gratuiti
@@ -59,3 +57,7 @@
 - LinkedIn per titolari di PMI: profilo, pagina aziendale e cosa pubblicare
 - Instagram per aziende B2B: ha senso? Come usarlo davvero
 - Come scrivere la pagina "Chi siamo" di un'azienda tecnica
+
+## Fatti
+- Logo o marchio registrato? Differenze spiegate a un imprenditore [fatto 2026-10-05]
+- Preventivi più veloci con l'automazione: da cosa partire [fatto 2026-10-05]

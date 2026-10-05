@@ -6,6 +6,18 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/preventivi-veloci-automazione.html",
+   "url": "https://pen-pushers.com/insights/preventivi-veloci-automazione.html",
+   "title": "Preventivi più veloci con l'automazione: da cosa partire in un'azienda tecnica",
+   "summary": "Dal sopralluogo al PDF senza perdere giorni: sei passi concreti per automatizzare i preventivi di un'azienda tecnica, partendo da strumenti semplici.",
+   "image": "https://pen-pushers.com/insights/img/covers/preventivi-veloci-automazione.jpg",
+   "date_published": "2026-10-05",
+   "tags": [
+    "AI & automazioni"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/aziende-tecniche-horeca-commesse.html",
    "url": "https://pen-pushers.com/insights/aziende-tecniche-horeca-commesse.html",
    "title": "Cucine professionali, refrigerazione e HVAC: come acquisire più commesse da ristoranti e hotel",
@@ -28,6 +40,18 @@
     "Siti web & SEO"
    ],
    "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/logo-o-marchio-registrato.html",
+   "url": "https://pen-pushers.com/insights/logo-o-marchio-registrato.html",
+   "title": "Logo o marchio registrato? Le differenze spiegate a un imprenditore",
+   "summary": "Avere un logo non vuol dire averlo protetto. Cosa cambia tra logo e marchio registrato, gli errori da evitare e i passi da fare prima del deposito.",
+   "image": "https://pen-pushers.com/insights/img/covers/logo-o-marchio-registrato.jpg",
+   "date_published": "2026-10-05",
+   "tags": [
+    "Brand identity"
+   ],
+   "_mins": 6
   },
   {
    "id": "https://pen-pushers.com/insights/trovare-clienti-b2b.html",
