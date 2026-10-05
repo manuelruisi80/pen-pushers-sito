@@ -52,6 +52,12 @@ File: `_src/articles/AAAA-MM-GG-<slug>.json` con questi campi:
   - La foto la scarica GitHub Actions dopo il push (il nostro ambiente non raggiunge Unsplash): dopo il push aspetta il commit "Immagini aggiornate [automatico]" e controlla `_src/photos/registro.txt`.
 - facoltativi: `faq` (lista di `{q, a}`, 3–4 domande vere), `sources` (lista di `{title, url}`).
 
+## Collegamenti interni (importanti per Google)
+In ogni articolo inserisci nel body_html 1–2 link naturali alla pagina servizio pertinente e, se c'è, a un altro articolo Insights:
+- /servizi/sito-web-aziendale.html · /servizi/seo-google-business-profile.html · /servizi/brand-identity.html
+- /servizi/krelia-lead-generation-b2b.html · /servizi/innovation-automazioni-ai.html
+- /insights/<slug>.html per gli articoli già pubblicati
+
 ## Struttura consigliata del corpo
 1. Il problema (con un esempio concreto del settore)
 2. Perché succede / errori comuni
