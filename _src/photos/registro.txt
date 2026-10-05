@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  logo-o-marchio-registrato: 200 https://images.unsplash.com/photo-1649688066826-947419c66e5c?w=2000&q=85&fm=jpg image/jpeg
+OK logo-o-marchio-registrato (1333, 2000)
+  preventivi-veloci-automazione: 200 https://images.unsplash.com/photo-1762341104168-63ddb56e9805?w=2000&q=85&fm=jpg image/jpeg
+OK preventivi-veloci-automazione (2000, 1333)
+foto scaricate: 2, errori: 0
