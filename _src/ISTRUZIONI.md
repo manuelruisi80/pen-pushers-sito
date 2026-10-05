@@ -1,8 +1,9 @@
 # Redazione Insights · Pen-Pushers Publishing
 
 Questo repository È la cartella `/insights/` di pen-pushers.com.
-Hostinger pubblica automaticamente il branch **main**. Le bozze vanno sempre sul branch **bozze**:
-Manuel le approva facendo il merge di `bozze` in `main` su GitHub.
+Hostinger pubblica automaticamente il branch **main**. Dal 5 ottobre 2026 Manuel ha chiesto la **pubblicazione diretta, senza approvazione**:
+la redazione lavora sul branch **bozze** (per far generare le immagini a GitHub Actions), controlla le immagini e poi porta `bozze` in `main` e fa push.
+Se qualcosa non gli piace, Manuel lo cancella.
 
 ## Chi siamo (per scrivere con la voce giusta)
 - **Pen-Pushers Publishing**, Firenze, fondata da **Manuel Ruisi** (founder, product builder, growth consultant, 20+ anni nel digitale).
@@ -62,4 +63,6 @@ File: `_src/articles/AAAA-MM-GG-<slug>.json` con questi campi:
 ## Procedura
 1. `python3 _src/build.py` rigenera tutto (pagine, copertine, immagini Instagram, feed, sitemap). Deve stampare `OK`.
 2. Commit sul branch `bozze`, push.
-3. GitHub Actions scarica le foto e rigenera le immagini con la foto (commit "Immagini aggiornate [automatico]", 1–2 minuti). Fai `git pull` e controlla a occhio le immagini nuove in `img/covers/` e `img/social/`.
+3. GitHub Actions scarica le foto e rigenera le immagini con la foto (commit "Immagini aggiornate [automatico]", 1–2 minuti). Fai `git pull` e controlla a occhio le immagini nuove in `img/covers/`, `img/social/` (post 1080x1350) e `img/stories/` (storie 1080x1920).
+4. Pubblicazione: `git checkout main && git merge --ff-only bozze` (se non è possibile, `git merge bozze`) e `git push origin main`. Hostinger mette online in circa un minuto.
+5. Instagram (Metricool): post e storie programmati direttamente (`draft: false`), non in bozza.
