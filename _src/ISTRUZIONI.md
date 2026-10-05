@@ -41,6 +41,14 @@ File: `_src/articles/AAAA-MM-GG-<slug>.json` con questi campi:
 - `ig_caption`: testo del post Instagram (gancio, 3–6 punti, invito "Articolo completo su pen-pushers.com/insights (link in bio)", 6–10 hashtag italiani pertinenti + #PenPushersPublishing). Max 2000 caratteri.
 - `cta_title`, `cta_text`: invito finale collegato al servizio giusto.
 - `body_html`: corpo in HTML semplice: `<h2>`, `<h3>`, `<p>`, `<ul>/<ol>/<li>`, `<strong>`, `<blockquote>`, `<div class="box"><span class="mono">Titolo</span>…</div>`. 900–1400 parole. Niente `<h1>`, niente stili inline, niente immagini.
+- `photo` (obbligatoria): foto di riferimento da Unsplash o Pexels, virata automaticamente in oro e verde.
+  `{"url": "https://images.unsplash.com/photo-XXXXXXXXXXXXX-xxxxxxxxxxxx?w=2000&q=85&fm=jpg", "author": "Nome Fotografo", "source": "Unsplash", "page": "https://unsplash.com/photos/...", "focus": 0.5}`
+  - Solo foto **gratuite** (Unsplash License o Pexels License). MAI le foto "Unsplash+" (premium, firmate spesso Getty Images).
+  - Soggetto coerente col tema e realistico (persone al lavoro, uffici, cucine professionali, impianti, cantieri…). Niente loghi, marchi o persone riconoscibili in pose imbarazzanti.
+  - Non riusare una foto già usata da un altro articolo.
+  - Come trovarla: WebSearch con `allowed_domains: ["unsplash.com"]` (o pexels.com), poi WebFetch della pagina della foto chiedendo: licenza (gratuita o Unsplash+), nome del fotografo e URL esatto del meta tag og:image. Da quell'URL tieni solo la parte `https://images.unsplash.com/photo-...` (prima del `?`) e aggiungi `?w=2000&q=85&fm=jpg`. Per Pexels: `https://images.pexels.com/photos/<id>/pexels-photo-<id>.jpeg?auto=compress&cs=tinysrgb&w=2000`.
+  - `focus` (0–1) sposta il ritaglio verticale: 0.3 tiene la parte alta, 0.7 la parte bassa.
+  - La foto la scarica GitHub Actions dopo il push (il nostro ambiente non raggiunge Unsplash): dopo il push aspetta il commit "Immagini aggiornate [automatico]" e controlla `_src/photos/registro.txt`.
 - facoltativi: `faq` (lista di `{q, a}`, 3–4 domande vere), `sources` (lista di `{title, url}`).
 
 ## Struttura consigliata del corpo
@@ -53,5 +61,5 @@ File: `_src/articles/AAAA-MM-GG-<slug>.json` con questi campi:
 
 ## Procedura
 1. `python3 _src/build.py` rigenera tutto (pagine, copertine, immagini Instagram, feed, sitemap). Deve stampare `OK`.
-2. Controlla a occhio le immagini nuove in `img/covers/` e `img/social/`.
-3. Commit sul branch `bozze`, push.
+2. Commit sul branch `bozze`, push.
+3. GitHub Actions scarica le foto e rigenera le immagini con la foto (commit "Immagini aggiornate [automatico]", 1–2 minuti). Fai `git pull` e controlla a occhio le immagini nuove in `img/covers/` e `img/social/`.
