@@ -179,6 +179,44 @@ def draw_motif(im, kind, cx, cy, S, seed):
         d.ellipse([cx - rr, cy + S * .5, cx + rr, cy + S * .5 + 2 * rr], fill=GOLD_HI)
 
 
+def photo_path(a):
+    p = os.path.join(SRC, 'photos', a['slug'] + '.jpg')
+    return p if a.get('photo') and os.path.exists(p) else None
+
+
+def gold_photo(path, size, focus=0.5):
+    """Foto ritagliata a 'size' e virata nei colori del brand: ombre verde scuro, luci oro."""
+    from PIL import ImageOps, ImageEnhance
+    im = Image.open(path).convert('RGB')
+    W, H = size
+    r = max(W / im.width, H / im.height)
+    im = im.resize((max(W, round(im.width * r)), max(H, round(im.height * r))), Image.LANCZOS)
+    x = int((im.width - W) * 0.5); y = int((im.height - H) * focus)
+    im = im.crop((x, y, x + W, y + H))
+    g = ImageOps.autocontrast(im.convert('L'), cutoff=1)
+    g = ImageEnhance.Contrast(g).enhance(1.12)
+    return ImageOps.colorize(g, black=(2, 12, 6), mid=(96, 76, 38), white=(238, 212, 156), midpoint=110)
+
+
+def fade(im, box, direction, start_alpha=255, end_alpha=0):
+    """Sfuma il colore di fondo sopra una zona della foto (per leggere il testo)."""
+    x0, y0, x1, y1 = box
+    w, h = x1 - x0, y1 - y0
+    grad = Image.new('L', (w, h))
+    gd = ImageDraw.Draw(grad)
+    n = w if direction in ('right', 'left') else h
+    for i in range(n):
+        t = i / max(1, n - 1)
+        a = int(start_alpha + (end_alpha - start_alpha) * (t ** 1.4))
+        if direction == 'right':
+            gd.line([(i, 0), (i, h)], fill=a)
+        elif direction == 'down':
+            gd.line([(0, i), (w, i)], fill=a)
+        elif direction == 'up':
+            gd.line([(0, h - 1 - i), (w, h - 1 - i)], fill=a)
+    im.paste(Image.new('RGB', (w, h), BG), (x0, y0), grad)
+
+
 def brand(d, x, y, scale=1.0):
     d.text((x, y), 'PEN-PUSHERS', font=font('black', int(30 * scale)), fill=GOLD)
     d.text((x + 2, y + int(34 * scale)), 'P U B L I S H I N G', font=font('bold', int(13 * scale)), fill=WHITE)
@@ -186,9 +224,17 @@ def brand(d, x, y, scale=1.0):
 
 def make_cover(a, path, seed):
     W, H = 1200, 630
-    im = Image.new('RGB', (W, H), BG)
-    glow(im, 930, 315, 330, 60)
-    draw_motif(im, a['motif'], 930, 315, 400, seed)
+    pp = photo_path(a)
+    if pp:
+        im = Image.new('RGB', (W, H), BG)
+        ph = gold_photo(pp, (700, H), a['photo'].get('focus', 0.5))
+        im.paste(ph, (W - 700, 0))
+        fade(im, (W - 700, 0, W - 700 + 380, H), 'right')
+        fade(im, (0, H - 140, W, H), 'up', 200, 0)
+    else:
+        im = Image.new('RGB', (W, H), BG)
+        glow(im, 930, 315, 330, 60)
+        draw_motif(im, a['motif'], 930, 315, 400, seed)
     d = ImageDraw.Draw(im)
     brand(d, 64, 56)
     d.text((64, 170), a['cat'].upper(), font=font('mono', 20), fill=GOLD)
@@ -204,8 +250,15 @@ def make_cover(a, path, seed):
 def make_social(a, path, seed):
     W, H = 1080, 1350
     im = Image.new('RGB', (W, H), BG)
-    glow(im, 780, 420, 380, 70)
-    draw_motif(im, a['motif'], 760, 400, 460, seed)
+    pp = photo_path(a)
+    if pp:
+        ph = gold_photo(pp, (W, 820), a['photo'].get('focus', 0.5))
+        im.paste(ph, (0, 0))
+        fade(im, (0, 0, W, 220), 'down', 210, 0)
+        fade(im, (0, 420, W, 821), 'up', 255, 0)
+    else:
+        glow(im, 780, 420, 380, 70)
+        draw_motif(im, a['motif'], 760, 400, 460, seed)
     d = ImageDraw.Draw(im)
     brand(d, 72, 72, 1.15)
     d.text((72, 720), a['cat'].upper(), font=font('mono', 26), fill=GOLD)
@@ -295,6 +348,11 @@ def article_page(a, related, ver):
     if a.get('sources'):
         sources = '<div class="box"><span class="mono">Fonti</span><ul>' + ''.join(
             f'<li><a href="{e(s["url"])}" rel="noopener" target="_blank">{e(s["title"])}</a></li>' for s in a['sources']) + '</ul></div>'
+    credit = ''
+    if a.get('photo') and a['photo'].get('author'):
+        ph = a['photo']
+        credit = (f'<p class="credit mono">Foto di <a href="{e(ph.get("page", ph["url"]))}" rel="noopener" target="_blank">{e(ph["author"])}</a>'
+                  f' su {e(ph.get("source", "Unsplash"))}</p>')
     more = '\n'.join(card(o) for o in related)
     return f'''<!doctype html>
 <html lang="it">
@@ -331,6 +389,7 @@ def article_page(a, related, ver):
       <div class="byline mono"><span>Di Manuel Ruisi</span><span><time datetime="{a["date"]}">{date_it(a["date"])}</time></span><span>{a["mins"]} min di lettura</span></div>
     </header>
     <img class="art-cover rise d2" src="/insights/img/covers/{a["slug"]}.jpg" alt="{e(a["title"])}" width="1200" height="630">
+    {credit}
     <article class="body">
 {a["body_html"].strip()}
 {faq_html}

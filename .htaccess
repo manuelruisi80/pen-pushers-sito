@@ -5,6 +5,7 @@ DirectoryIndex index.html
 RedirectMatch 404 ^/insights/_src(/.*)?$
 RedirectMatch 404 ^/insights/\.git(/.*)?$
 RedirectMatch 404 ^/insights/README\.md$
+RedirectMatch 404 ^/insights/\.github(/.*)?$
 
 <IfModule mod_expires.c>
   ExpiresActive On

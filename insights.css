@@ -99,3 +99,4 @@ a{color:var(--gold-l)}a:hover{color:#fff}
   .thumb,.card.featured .thumb{width:calc(100% + 48px);margin:-24px -24px 4px}
   .card.featured{padding:24px}
 }
+.credit{margin:10px 0 0;color:var(--mut);font-size:11px}.credit a{color:var(--mut)}
