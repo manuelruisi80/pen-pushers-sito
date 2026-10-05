@@ -13,6 +13,9 @@ os.makedirs(OUT, exist_ok=True)
 ALLOWED = ('https://unsplash.com/', 'https://images.unsplash.com/', 'https://images.pexels.com/', 'https://www.pexels.com/')
 
 ok = err = 0
+LOG = []
+def log(m):
+    print(m); LOG.append(m)
 for f in sorted(glob.glob(os.path.join(SRC, 'articles', '*.json'))):
     a = json.load(open(f, encoding='utf-8'))
     p = a.get('photo')
@@ -23,14 +26,17 @@ for f in sorted(glob.glob(os.path.join(SRC, 'articles', '*.json'))):
         continue
     url = p['url']
     if not url.startswith(ALLOWED):
-        print(f'SALTATA {a["slug"]}: fonte non ammessa {url}'); err += 1; continue
+        log(f'SALTATA {a["slug"]}: fonte non ammessa {url}'); err += 1; continue
     try:
         req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (PenPushers Insights builder)'})
-        data = urllib.request.urlopen(req, timeout=60).read()
+        resp = urllib.request.urlopen(req, timeout=60)
+        log(f'  {a["slug"]}: {resp.status} {resp.geturl()[:120]} {resp.headers.get("content-type")}')
+        data = resp.read()
         im = Image.open(io.BytesIO(data)).convert('RGB')
         im.thumbnail((2000, 2000))
         im.save(dest, quality=88)
-        print(f'OK {a["slug"]} {im.size}'); ok += 1
+        log(f'OK {a["slug"]} {im.size}'); ok += 1
     except Exception as ex:
-        print(f'ERRORE {a["slug"]}: {ex}'); err += 1
-print(f'foto scaricate: {ok}, errori: {err}')
+        log(f'ERRORE {a["slug"]}: {ex}'); err += 1
+log(f'foto scaricate: {ok}, errori: {err}')
+open(os.path.join(OUT, 'registro.txt'), 'w').write('\n'.join(LOG) + '\n')
