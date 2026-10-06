@@ -1,7 +1,6 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Cliente ideale B2B: come descriverlo in una pagina (con esempio per un'azienda tecnica)
 - Telefonata a freddo o email? Come scegliere il primo contatto con un'azienda
 - Follow-up commerciale: quante volte ricontattare senza diventare insistenti
 - CRM per PMI: cosa serve davvero e cosa è superfluo
@@ -11,7 +10,6 @@
 - GDPR e contatti B2B: cosa si può fare con i dati pubblici delle aziende (taglio prudente, fonti ufficiali)
 
 ## Siti web & SEO
-- SEO locale: come comparire su Google Maps nella tua città
 - Google Business Profile: guida passo per passo per aziende tecniche
 - Recensioni Google: come chiederle ai clienti e come rispondere
 - Una pagina per ogni servizio: perché un sito "tutto in una pagina" non si trova su Google
@@ -61,3 +59,5 @@
 ## Fatti
 - Logo o marchio registrato? Differenze spiegate a un imprenditore [fatto 2026-10-05]
 - Preventivi più veloci con l'automazione: da cosa partire [fatto 2026-10-05]
+- Cliente ideale B2B: come descriverlo in una pagina (con esempio per un'azienda tecnica) [fatto 2026-10-06]
+- SEO locale: come comparire su Google Maps nella tua città [fatto 2026-10-06]
