@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  cliente-ideale-b2b-come-descriverlo: 200 https://images.unsplash.com/photo-1758873268998-2f77c2d38862?w=2000&q=85&fm=jpg image/jpeg
+OK cliente-ideale-b2b-come-descriverlo (2000, 1125)
+  seo-locale-google-maps-aziende-tecniche: 200 https://images.unsplash.com/photo-1619468129361-605ebea04b44?w=2000&q=85&fm=jpg image/jpeg
+OK seo-locale-google-maps-aziende-tecniche (2000, 1333)
+foto scaricate: 2, errori: 0
