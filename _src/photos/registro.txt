@@ -1,5 +1,1 @@
-  linkedin-titolari-pmi-profilo-pagina-aziendale: 200 https://images.unsplash.com/photo-1537511446984-935f663eb1f4?w=2000&q=85&fm=jpg image/jpeg
-OK linkedin-titolari-pmi-profilo-pagina-aziendale (2000, 1333)
-  primo-messaggio-potenziale-cliente-b2b: 200 https://images.unsplash.com/photo-1713947501966-34897f21162e?w=2000&q=85&fm=jpg image/jpeg
-OK primo-messaggio-potenziale-cliente-b2b (2000, 1125)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
