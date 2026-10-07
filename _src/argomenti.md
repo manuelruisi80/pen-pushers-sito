@@ -43,7 +43,6 @@
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
 
 ## Crescita & vendite
-- Il primo messaggio a un potenziale cliente: modello e errori da evitare
 - Obiezione "costa troppo": come rispondere senza fare sconti
 - Obiezione "abbiamo già un sito": cosa chiedere invece di criticare
 - Come calcolare quanto vale un nuovo cliente per la tua azienda
@@ -52,7 +51,6 @@
 
 ## Guide pratiche
 - Checklist: 10 cose da controllare nella presenza online della tua azienda
-- LinkedIn per titolari di PMI: profilo, pagina aziendale e cosa pubblicare
 - Instagram per aziende B2B: ha senso? Come usarlo davvero
 - Come scrivere la pagina "Chi siamo" di un'azienda tecnica
 
@@ -61,3 +59,5 @@
 - Preventivi più veloci con l'automazione: da cosa partire [fatto 2026-10-05]
 - Cliente ideale B2B: come descriverlo in una pagina (con esempio per un'azienda tecnica) [fatto 2026-10-06]
 - SEO locale: come comparire su Google Maps nella tua città [fatto 2026-10-06]
+- Il primo messaggio a un potenziale cliente: modello e errori da evitare [fatto 2026-10-07]
+- LinkedIn per titolari di PMI: profilo, pagina aziendale e cosa pubblicare [fatto 2026-10-07]
