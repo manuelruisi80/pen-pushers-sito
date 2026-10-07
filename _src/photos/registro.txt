@@ -1,3 +1,1 @@
-  impatto-ambientale-sito-web-ai: 200 https://images.unsplash.com/photo-1752224543110-35faed040b91?w=2000&q=85&fm=jpg image/jpeg
-OK impatto-ambientale-sito-web-ai (1600, 2000)
-foto scaricate: 1, errori: 0
+foto scaricate: 0, errori: 0
