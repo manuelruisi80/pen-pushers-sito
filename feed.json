@@ -6,6 +6,18 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/impatto-ambientale-sito-web-ai.html",
+   "url": "https://pen-pushers.com/insights/impatto-ambientale-sito-web-ai.html",
+   "title": "Quanto inquina fare un sito web con l'AI? Il confronto con l'agenzia tradizionale",
+   "summary": "Energia e CO2 di un sito creato con agenti AI, confrontati con il lavoro tradizionale di un'agenzia: numeri verificati, ipotesi chiare e limiti.",
+   "image": "https://pen-pushers.com/insights/img/covers/impatto-ambientale-sito-web-ai.jpg",
+   "date_published": "2026-10-07",
+   "tags": [
+    "AI & automazioni"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/linkedin-titolari-pmi-profilo-pagina-aziendale.html",
    "url": "https://pen-pushers.com/insights/linkedin-titolari-pmi-profilo-pagina-aziendale.html",
    "title": "LinkedIn per titolari di PMI: profilo, pagina aziendale e cosa pubblicare",
