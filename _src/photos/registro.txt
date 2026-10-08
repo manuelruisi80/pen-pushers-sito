@@ -1,5 +1,1 @@
-  crm-per-pmi-cosa-serve-davvero: 200 https://images.unsplash.com/photo-1758874573348-bb585ae8e0f6?w=2000&q=85&fm=jpg image/jpeg
-OK crm-per-pmi-cosa-serve-davvero (2000, 1125)
-  recensioni-google-come-chiederle-rispondere: 200 https://images.unsplash.com/photo-1633613286991-611fe299c4be?w=2000&q=85&fm=jpg image/jpeg
-OK recensioni-google-come-chiederle-rispondere (2000, 1334)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
