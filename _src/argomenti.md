@@ -3,7 +3,6 @@
 ## Lead generation B2B
 - Telefonata a freddo o email? Come scegliere il primo contatto con un'azienda
 - Follow-up commerciale: quante volte ricontattare senza diventare insistenti
-- CRM per PMI: cosa serve davvero e cosa è superfluo
 - Come preparare una demo personalizzata che il cliente apre davvero
 - Lead scoring spiegato semplice: come decidere chi chiamare per primo
 - Passaparola e lead generation: come farli lavorare insieme
@@ -11,7 +10,6 @@
 
 ## Siti web & SEO
 - Google Business Profile: guida passo per passo per aziende tecniche
-- Recensioni Google: come chiederle ai clienti e come rispondere
 - Una pagina per ogni servizio: perché un sito "tutto in una pagina" non si trova su Google
 - Quanto costa un sito aziendale e da cosa dipende il prezzo
 - Sito lento: le cause più comuni e come capirlo in 2 minuti
@@ -61,3 +59,5 @@
 - SEO locale: come comparire su Google Maps nella tua città [fatto 2026-10-06]
 - Il primo messaggio a un potenziale cliente: modello e errori da evitare [fatto 2026-10-07]
 - LinkedIn per titolari di PMI: profilo, pagina aziendale e cosa pubblicare [fatto 2026-10-07]
+- CRM per PMI: cosa serve davvero e cosa è superfluo [fatto 2026-10-08]
+- Recensioni Google: come chiederle ai clienti e come rispondere [fatto 2026-10-08]
