@@ -19,12 +19,10 @@
 - Dominio, hosting, email aziendale: cosa deve essere intestato all'azienda
 
 ## Brand identity
-- Tone of voice: come far parlare l'azienda sempre allo stesso modo
 - Immagine coordinata: quali materiali servono a una PMI
 - Naming: come scegliere il nome di un nuovo servizio o prodotto
 
 ## AI & automazioni
-- Promemoria di manutenzione automatici: come non perdere più una scadenza
 - AI in azienda: 5 usi concreti per una PMI che non richiedono un reparto IT
 - Moduli online collegati a fogli di calcolo: automazioni semplici con strumenti gratuiti
 - Agenti AI: cosa sono e cosa possono fare (e non fare) per un'azienda
@@ -61,3 +59,5 @@
 - LinkedIn per titolari di PMI: profilo, pagina aziendale e cosa pubblicare [fatto 2026-10-07]
 - CRM per PMI: cosa serve davvero e cosa è superfluo [fatto 2026-10-08]
 - Recensioni Google: come chiederle ai clienti e come rispondere [fatto 2026-10-08]
+- Promemoria di manutenzione automatici: come non perdere più una scadenza [fatto 2026-10-09]
+- Tone of voice: come far parlare l'azienda sempre allo stesso modo [fatto 2026-10-09]
