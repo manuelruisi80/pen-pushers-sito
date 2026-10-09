@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  promemoria-manutenzione-automatici-scadenze: 200 https://images.unsplash.com/photo-1771902985060-6133bb4b2eb6?w=2000&q=85&fm=jpg image/jpeg
+OK promemoria-manutenzione-automatici-scadenze (1479, 2000)
+  tone-of-voice-aziendale-come-definirlo: 200 https://images.unsplash.com/photo-1758873269035-aae0e1fd3422?w=2000&q=85&fm=jpg image/jpeg
+OK tone-of-voice-aziendale-come-definirlo (2000, 1125)
+foto scaricate: 2, errori: 0
