@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  telefonata-a-freddo-o-email-primo-contatto-b2b: 200 https://images.unsplash.com/photo-1758876204242-787309002a8f?w=2000&q=85&fm=jpg image/jpeg
+OK telefonata-a-freddo-o-email-primo-contatto-b2b (2000, 1125)
+  una-pagina-per-ogni-servizio-sito-aziendale-seo: 200 https://images.unsplash.com/photo-1600132806608-231446b2e7af?w=2000&q=85&fm=jpg image/jpeg
+OK una-pagina-per-ogni-servizio-sito-aziendale-seo (2000, 1500)
+foto scaricate: 2, errori: 0
