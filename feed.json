@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/una-pagina-per-ogni-servizio-sito-aziendale-seo.html",
+   "url": "https://pen-pushers.com/insights/una-pagina-per-ogni-servizio-sito-aziendale-seo.html",
+   "title": "Una pagina per ogni servizio: perché un sito tutto in una pagina non si trova su Google",
+   "summary": "Perché un sito tutto in una pagina fatica su Google e come creare una pagina per ogni servizio: struttura, titoli, URL e collegamenti, in 5 passi.",
+   "image": "https://pen-pushers.com/insights/img/covers/una-pagina-per-ogni-servizio-sito-aziendale-seo.jpg",
+   "date_published": "2026-10-10",
+   "tags": [
+    "Siti web & SEO"
+   ],
+   "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/telefonata-a-freddo-o-email-primo-contatto-b2b.html",
+   "url": "https://pen-pushers.com/insights/telefonata-a-freddo-o-email-primo-contatto-b2b.html",
+   "title": "Telefonata a freddo o email? Come scegliere il primo contatto con un'azienda",
+   "summary": "Telefonata a freddo o email per il primo contatto B2B? Quando conviene l'una, quando l'altra e come usarle in sequenza, con un metodo in 5 passi.",
+   "image": "https://pen-pushers.com/insights/img/covers/telefonata-a-freddo-o-email-primo-contatto-b2b.jpg",
+   "date_published": "2026-10-10",
+   "tags": [
+    "Lead generation B2B"
+   ],
+   "_mins": 5
+  },
+  {
    "id": "https://pen-pushers.com/insights/tone-of-voice-aziendale-come-definirlo.html",
    "url": "https://pen-pushers.com/insights/tone-of-voice-aziendale-come-definirlo.html",
    "title": "Tone of voice aziendale: come far parlare l'azienda sempre allo stesso modo",

@@ -1,7 +1,6 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Telefonata a freddo o email? Come scegliere il primo contatto con un'azienda
 - Follow-up commerciale: quante volte ricontattare senza diventare insistenti
 - Come preparare una demo personalizzata che il cliente apre davvero
 - Lead scoring spiegato semplice: come decidere chi chiamare per primo
@@ -10,7 +9,6 @@
 
 ## Siti web & SEO
 - Google Business Profile: guida passo per passo per aziende tecniche
-- Una pagina per ogni servizio: perché un sito "tutto in una pagina" non si trova su Google
 - Quanto costa un sito aziendale e da cosa dipende il prezzo
 - Sito lento: le cause più comuni e come capirlo in 2 minuti
 - Pagina contatti che converte: cosa mettere e cosa togliere
@@ -61,3 +59,5 @@
 - Recensioni Google: come chiederle ai clienti e come rispondere [fatto 2026-10-08]
 - Promemoria di manutenzione automatici: come non perdere più una scadenza [fatto 2026-10-09]
 - Tone of voice: come far parlare l'azienda sempre allo stesso modo [fatto 2026-10-09]
+- Telefonata a freddo o email? Come scegliere il primo contatto con un'azienda [fatto 2026-10-10]
+- Una pagina per ogni servizio: perché un sito "tutto in una pagina" non si trova su Google [fatto 2026-10-10]
