@@ -17,11 +17,9 @@
 - Dominio, hosting, email aziendale: cosa deve essere intestato all'azienda
 
 ## Brand identity
-- Immagine coordinata: quali materiali servono a una PMI
 - Naming: come scegliere il nome di un nuovo servizio o prodotto
 
 ## AI & automazioni
-- AI in azienda: 5 usi concreti per una PMI che non richiedono un reparto IT
 - Moduli online collegati a fogli di calcolo: automazioni semplici con strumenti gratuiti
 - Agenti AI: cosa sono e cosa possono fare (e non fare) per un'azienda
 - Transizione 5.0 e digitalizzazione: domande da fare al commercialista prima di investire (solo fonti ufficiali)
@@ -61,3 +59,5 @@
 - Tone of voice: come far parlare l'azienda sempre allo stesso modo [fatto 2026-10-09]
 - Telefonata a freddo o email? Come scegliere il primo contatto con un'azienda [fatto 2026-10-10]
 - Una pagina per ogni servizio: perché un sito "tutto in una pagina" non si trova su Google [fatto 2026-10-10]
+- Immagine coordinata: quali materiali servono a una PMI [fatto 2026-10-11]
+- AI in azienda: 5 usi concreti per una PMI che non richiedono un reparto IT [fatto 2026-10-11]

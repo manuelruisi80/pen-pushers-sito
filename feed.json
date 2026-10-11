@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/ai-in-azienda-usi-concreti-pmi.html",
+   "url": "https://pen-pushers.com/insights/ai-in-azienda-usi-concreti-pmi.html",
+   "title": "AI in azienda: 5 usi concreti per una PMI che non ha un reparto IT",
+   "summary": "AI in azienda senza reparto IT: 5 usi concreti per una PMI, dalle email ai rapporti di sopralluogo, con le regole su dati e controllo da fissare prima.",
+   "image": "https://pen-pushers.com/insights/img/covers/ai-in-azienda-usi-concreti-pmi.jpg",
+   "date_published": "2026-10-11",
+   "tags": [
+    "AI & automazioni"
+   ],
+   "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/immagine-coordinata-aziendale-materiali-pmi.html",
+   "url": "https://pen-pushers.com/insights/immagine-coordinata-aziendale-materiali-pmi.html",
+   "title": "Immagine coordinata aziendale: quali materiali servono davvero a una PMI",
+   "summary": "Immagine coordinata per PMI: il kit minimo, l'ordine giusto per realizzarlo, i dati obbligatori da non dimenticare e gli errori che fanno sprecare budget.",
+   "image": "https://pen-pushers.com/insights/img/covers/immagine-coordinata-aziendale-materiali-pmi.jpg",
+   "date_published": "2026-10-11",
+   "tags": [
+    "Brand identity"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/una-pagina-per-ogni-servizio-sito-aziendale-seo.html",
    "url": "https://pen-pushers.com/insights/una-pagina-per-ogni-servizio-sito-aziendale-seo.html",
    "title": "Una pagina per ogni servizio: perché un sito tutto in una pagina non si trova su Google",
