@@ -1,1 +1,3 @@
-foto scaricate: 0, errori: 0
+  immagine-coordinata-aziendale-materiali-pmi: 200 https://images.unsplash.com/photo-1572044162444-ad60f128bdea?w=2000&q=85&fm=jpg image/jpeg
+OK immagine-coordinata-aziendale-materiali-pmi (2000, 1333)
+foto scaricate: 1, errori: 0
