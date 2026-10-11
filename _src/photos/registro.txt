@@ -1,5 +1,1 @@
-  ai-in-azienda-usi-concreti-pmi: 200 https://images.unsplash.com/photo-1758873271949-742d6648b6b0?w=2000&q=85&fm=jpg image/jpeg
-OK ai-in-azienda-usi-concreti-pmi (2000, 1125)
-  immagine-coordinata-aziendale-materiali-pmi: 200 https://images.unsplash.com/photo-1718670013921-2f144aba173a?w=2000&q=85&fm=jpg image/jpeg
-OK immagine-coordinata-aziendale-materiali-pmi (2000, 1528)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
