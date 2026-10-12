@@ -1,7 +1,6 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Follow-up commerciale: quante volte ricontattare senza diventare insistenti
 - Come preparare una demo personalizzata che il cliente apre davvero
 - Lead scoring spiegato semplice: come decidere chi chiamare per primo
 - Passaparola e lead generation: come farli lavorare insieme
@@ -9,7 +8,6 @@
 
 ## Siti web & SEO
 - Google Business Profile: guida passo per passo per aziende tecniche
-- Quanto costa un sito aziendale e da cosa dipende il prezzo
 - Sito lento: le cause più comuni e come capirlo in 2 minuti
 - Pagina contatti che converte: cosa mettere e cosa togliere
 - Meta title e meta description: come scriverli per le pagine dei servizi
@@ -61,3 +59,5 @@
 - Una pagina per ogni servizio: perché un sito "tutto in una pagina" non si trova su Google [fatto 2026-10-10]
 - Immagine coordinata: quali materiali servono a una PMI [fatto 2026-10-11]
 - AI in azienda: 5 usi concreti per una PMI che non richiedono un reparto IT [fatto 2026-10-11]
+- Follow-up commerciale: quante volte ricontattare senza diventare insistenti [fatto 2026-10-12]
+- Quanto costa un sito aziendale e da cosa dipende il prezzo [fatto 2026-10-12]
