@@ -15,10 +15,8 @@
 - Dominio, hosting, email aziendale: cosa deve essere intestato all'azienda
 
 ## Brand identity
-- Naming: come scegliere il nome di un nuovo servizio o prodotto
 
 ## AI & automazioni
-- Moduli online collegati a fogli di calcolo: automazioni semplici con strumenti gratuiti
 - Agenti AI: cosa sono e cosa possono fare (e non fare) per un'azienda
 - Transizione 5.0 e digitalizzazione: domande da fare al commercialista prima di investire (solo fonti ufficiali)
 
@@ -61,3 +59,5 @@
 - AI in azienda: 5 usi concreti per una PMI che non richiedono un reparto IT [fatto 2026-10-11]
 - Follow-up commerciale: quante volte ricontattare senza diventare insistenti [fatto 2026-10-12]
 - Quanto costa un sito aziendale e da cosa dipende il prezzo [fatto 2026-10-12]
+- Naming: come scegliere il nome di un nuovo servizio o prodotto [fatto 2026-10-13]
+- Moduli online collegati a fogli di calcolo: automazioni semplici con strumenti gratuiti [fatto 2026-10-13]
