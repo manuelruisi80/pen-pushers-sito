@@ -1,5 +1,1 @@
-  moduli-online-fogli-di-calcolo-automazioni-gratuite: 200 https://images.unsplash.com/photo-1759752393975-7ca7b302fcc6?w=2000&q=85&fm=jpg image/jpeg
-OK moduli-online-fogli-di-calcolo-automazioni-gratuite (2000, 1333)
-  naming-come-scegliere-nome-nuovo-servizio-prodotto: 200 https://images.unsplash.com/photo-1758876203195-69a51e4145f0?w=2000&q=85&fm=jpg image/jpeg
-OK naming-come-scegliere-nome-nuovo-servizio-prodotto (2000, 1125)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
