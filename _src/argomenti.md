@@ -1,14 +1,12 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Come preparare una demo personalizzata che il cliente apre davvero
 - Lead scoring spiegato semplice: come decidere chi chiamare per primo
 - Passaparola e lead generation: come farli lavorare insieme
 - GDPR e contatti B2B: cosa si può fare con i dati pubblici delle aziende (taglio prudente, fonti ufficiali)
 
 ## Siti web & SEO
 - Google Business Profile: guida passo per passo per aziende tecniche
-- Sito lento: le cause più comuni e come capirlo in 2 minuti
 - Pagina contatti che converte: cosa mettere e cosa togliere
 - Meta title e meta description: come scriverli per le pagine dei servizi
 - Sito da telefono: i 5 errori che fanno scappare i clienti
@@ -61,3 +59,5 @@
 - Quanto costa un sito aziendale e da cosa dipende il prezzo [fatto 2026-10-12]
 - Naming: come scegliere il nome di un nuovo servizio o prodotto [fatto 2026-10-13]
 - Moduli online collegati a fogli di calcolo: automazioni semplici con strumenti gratuiti [fatto 2026-10-13]
+- Come preparare una demo personalizzata che il cliente apre davvero [fatto 2026-10-14]
+- Sito lento: le cause più comuni e come capirlo in 2 minuti [fatto 2026-10-14]

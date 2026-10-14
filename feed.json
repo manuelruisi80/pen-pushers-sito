@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/sito-lento-cause-come-capirlo.html",
+   "url": "https://pen-pushers.com/insights/sito-lento-cause-come-capirlo.html",
+   "title": "Sito lento: le cause più comuni e come capirlo in 2 minuti",
+   "summary": "Il tuo sito aziendale è lento? Due test da fare in 2 minuti, i tre indicatori di Google spiegati semplici e le 6 cause più comuni da cui partire.",
+   "image": "https://pen-pushers.com/insights/img/covers/sito-lento-cause-come-capirlo.jpg",
+   "date_published": "2026-10-14",
+   "tags": [
+    "Siti web & SEO"
+   ],
+   "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/demo-personalizzata-vendita-b2b-come-prepararla.html",
+   "url": "https://pen-pushers.com/insights/demo-personalizzata-vendita-b2b-come-prepararla.html",
+   "title": "Demo personalizzata: come prepararne una che il cliente B2B apre davvero",
+   "summary": "Il cliente ti chiede di mandargli qualcosa e il PDF resta chiuso? Come preparare una demo personalizzata breve che viene aperta, in 6 passi pratici.",
+   "image": "https://pen-pushers.com/insights/img/covers/demo-personalizzata-vendita-b2b-come-prepararla.jpg",
+   "date_published": "2026-10-14",
+   "tags": [
+    "Lead generation B2B"
+   ],
+   "_mins": 5
+  },
+  {
    "id": "https://pen-pushers.com/insights/moduli-online-fogli-di-calcolo-automazioni-gratuite.html",
    "url": "https://pen-pushers.com/insights/moduli-online-fogli-di-calcolo-automazioni-gratuite.html",
    "title": "Moduli online collegati a fogli di calcolo: automazioni semplici con strumenti gratuiti",
@@ -220,30 +244,6 @@
     "AI & automazioni"
    ],
    "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/aziende-tecniche-horeca-commesse.html",
-   "url": "https://pen-pushers.com/insights/aziende-tecniche-horeca-commesse.html",
-   "title": "Cucine professionali, refrigerazione e HVAC: come acquisire più commesse da ristoranti e hotel",
-   "summary": "Le aziende che installano e mantengono cucine professionali, refrigerazione e climatizzazione hanno clienti identificabili e bisogni ricorrenti. Tre leve per acquisire più commesse.",
-   "image": "https://pen-pushers.com/insights/img/covers/aziende-tecniche-horeca-commesse.jpg",
-   "date_published": "2026-10-05",
-   "tags": [
-    "Settori · Ho.Re.Ca. tecnico"
-   ],
-   "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/sito-aziendale-perde-clienti.html",
-   "url": "https://pen-pushers.com/insights/sito-aziendale-perde-clienti.html",
-   "title": "Il tuo sito aziendale ti fa perdere clienti? 7 segnali da controllare oggi",
-   "summary": "Un sito può essere online e non lavorare per te. Sette controlli semplici, da fare anche da soli, per capire se il tuo sito aziendale ti sta facendo perdere richieste.",
-   "image": "https://pen-pushers.com/insights/img/covers/sito-aziendale-perde-clienti.jpg",
-   "date_published": "2026-10-05",
-   "tags": [
-    "Siti web & SEO"
-   ],
-   "_mins": 5
   }
  ]
 }

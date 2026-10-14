@@ -1,0 +1,52 @@
+{
+  "slug": "sito-lento-cause-come-capirlo",
+  "date": "2026-10-14",
+  "time": "09:30",
+  "cat": "Siti web & SEO",
+  "title": "Sito lento: le cause più comuni e come capirlo in 2 minuti",
+  "seo_title": "Sito lento: cause comuni e come capirlo | Pen-Pushers Publishing",
+  "desc": "Il tuo sito aziendale è lento? Due test da fare in 2 minuti, i tre indicatori di Google spiegati semplici e le 6 cause più comuni da cui partire.",
+  "lead": "Chi trova un sito lento non si lamenta: torna indietro e chiama qualcun altro. Per questo il problema resta invisibile per mesi. Ecco come capire in due minuti se il tuo sito è lento, cosa guardare nei risultati e da quali cause partire.",
+  "motif": "grid",
+  "ig_hook": "Chi aspetta il tuo sito chiama un altro",
+  "ig_caption": "Il cliente ti cerca dal telefono, il sito non si apre, torna indietro. Tu non lo saprai mai.\n\nCome capire in 2 minuti se il sito è lento:\n• aprilo dal telefono, senza Wi-Fi e in incognito\n• analizzalo con PageSpeed Insights, versione mobile\n• guarda 3 cose: quando compare il contenuto, se risponde ai tocchi, se la pagina salta\n• prima causa da controllare: immagini troppo pesanti\n• poi plugin, widget esterni e hosting\n\nArticolo completo su pen-pushers.com/insights (link in bio).\n\n#sitoweb #sitolento #SEO #PMI #webdesign #aziendetecniche #Google #digitale #PenPushersPublishing",
+  "cta_title": "Un sito che si apre subito, anche dal telefono",
+  "cta_text": "Realizziamo siti aziendali leggeri, con una pagina per ogni servizio e contatti sempre a portata di dito. Il sito base parte da 600 € tasse incluse.",
+  "body_html": "<h2>Il problema: il cliente arriva sul sito e se ne va prima di vederlo</h2>\n<p>Il responsabile tecnico di un hotel ha un guasto all'impianto di climatizzazione. Cerca un'azienda di manutenzione HVAC dal telefono, mentre cammina tra un piano e l'altro. Tocca il tuo risultato su Google. Lo schermo resta bianco, poi compare un'immagine enorme che si carica a strisce, poi il testo salta più in basso proprio mentre sta per toccare \"Chiama\". Torna indietro e prova il risultato successivo.</p>\n<p>Tu non lo saprai mai. Nelle statistiche risulterà, nel migliore dei casi, una visita durata pochi secondi. È questo il costo di un sito lento: non lo vedi, perché chi va via non si lamenta. Semplicemente chiama qualcun altro.</p>\n\n<h2>Come capire in 2 minuti se il tuo sito è lento</h2>\n<h3>Prova 1: il test dal telefono (30 secondi)</h3>\n<p>Prendi lo smartphone, disattiva il Wi-Fi e apri il tuo sito con la rete mobile, come farebbe un cliente in giro. Meglio da una finestra di navigazione in incognito, così il telefono non usa i file già salvati da visite precedenti. Fatti tre domande: quanto tempo passa prima di vedere qualcosa di utile? Il testo si sposta mentre carica? Se tocchi un pulsante, risponde subito? Se già qui qualcosa ti infastidisce, infastidisce anche i tuoi clienti.</p>\n<h3>Prova 2: PageSpeed Insights (90 secondi)</h3>\n<p>È uno strumento gratuito di Google. Vai su pagespeed.web.dev, incolla l'indirizzo della pagina e avvia l'analisi. Il risultato ha due parti, ed è importante non confonderle:</p>\n<ul>\n<li><strong>Esperienza dei tuoi utenti reali.</strong> Sono dati raccolti dai browser di chi ha visitato davvero il sito negli ultimi 28 giorni. Compaiono solo se il sito ha abbastanza traffico: per molti siti di piccole aziende questa sezione non c'è, e non è un errore.</li>\n<li><strong>Diagnosi delle prestazioni.</strong> È una simulazione: Google carica la pagina in condizioni controllate, per il mobile emulando un telefono di fascia media su rete mobile. Ne esce un punteggio da 0 a 100: 90 o più è buono, tra 50 e 89 va migliorato, sotto 50 è scarso.</li>\n</ul>\n<p>Guarda sempre la versione <strong>mobile</strong>, non solo quella desktop: è quella che conta per chi ti cerca in giro.</p>\n\n<h2>I tre numeri da guardare (spiegati semplici)</h2>\n<p>Google misura l'esperienza di caricamento con tre indicatori, chiamati Core Web Vitals. Non serve ricordarne il nome tecnico, basta sapere cosa misurano e quali sono le soglie che Google considera buone:</p>\n<ul>\n<li><strong>LCP, quanto ci mette a comparire il contenuto principale</strong> (di solito la foto grande o il titolo in alto). Buono fino a 2,5 secondi, scarso oltre 4 secondi.</li>\n<li><strong>INP, quanto è pronta la pagina a rispondere</strong> quando tocchi un pulsante o un menu. Buono fino a 200 millisecondi, scarso oltre 500.</li>\n<li><strong>CLS, quanto \"salta\" la pagina</strong> mentre carica, quella sensazione di testo e pulsanti che si spostano sotto il dito. Buono fino a 0,1, scarso oltre 0,25.</li>\n</ul>\n<p>Per i dati reali Google valuta ogni indicatore sul 75% delle visite: la pagina supera il controllo solo se tutti e tre sono nella fascia buona.</p>\n\n<h2>Le cause più comuni di un sito lento</h2>\n<h3>1. Immagini troppo pesanti</h3>\n<p>È la causa più frequente nei siti di aziende tecniche. Le foto dei lavori arrivano dalla macchina fotografica o dal telefono e vengono caricate così come sono, magari larghe migliaia di pixel per essere mostrate in un riquadro piccolo. Vanno ridimensionate alla misura reale e salvate in formati moderni e leggeri.</p>\n<h3>2. Troppi plugin e componenti aggiuntivi</h3>\n<p>Ogni slider, galleria, effetto animato, modulo, pop-up aggiunge codice da scaricare. Molti siti accumulano negli anni plugin installati \"per prova\" e mai tolti. Ognuno sembra innocuo, tutti insieme pesano.</p>\n<h3>3. Servizi esterni incorporati</h3>\n<p>Video incorporati, mappe, chat, widget delle recensioni, strumenti di statistica e pubblicità: ognuno si collega a un server esterno e rallenta il caricamento. Non vanno eliminati per forza, ma caricati solo dove servono e, quando possibile, solo quando l'utente li richiama.</p>\n<h3>4. Hosting inadeguato o mai aggiornato</h3>\n<p>Un hosting molto economico, condiviso con troppi siti, o una versione vecchia del software del server possono far partire la pagina in ritardo prima ancora di caricare qualsiasi immagine. In PageSpeed Insights lo noti quando il tempo di risposta iniziale del server viene segnalato come problema.</p>\n<h3>5. Nessuna cache</h3>\n<p>Senza un sistema di cache il server ricostruisce la pagina da zero a ogni visita. Con la cache, le pagine già pronte vengono servite subito. Su molti siti si attiva con poche impostazioni, ma va configurata con attenzione per non mostrare contenuti vecchi.</p>\n<h3>6. Caratteri e spazi non riservati</h3>\n<p>Font scaricati in troppe varianti, immagini e banner senza dimensioni dichiarate: sono la causa tipica della pagina che \"salta\". Il browser non sa quanto spazio lasciare e sposta il contenuto quando l'elemento arriva.</p>\n\n<div class=\"box\"><span class=\"mono\">In sintesi</span>\n<ul>\n<li>Prova il sito dal telefono, senza Wi-Fi, in incognito.</li>\n<li>Analizza le pagine principali su PageSpeed Insights, versione mobile.</li>\n<li>Guarda i tre indicatori: comparsa del contenuto, reattività, stabilità.</li>\n<li>Comincia dalle immagini: sono quasi sempre il primo intervento utile.</li>\n<li>Togli plugin e widget che non servono.</li>\n<li>Se il server risponde lento, valuta l'hosting.</li>\n</ul>\n</div>\n\n<h2>Da dove cominciare</h2>\n<p>Analizza prima la home e le due o tre pagine servizio da cui arrivano più richieste, non tutto il sito. Annota punteggio e indicatori, intervieni sulle immagini e sui componenti superflui, poi ripeti il test: il punteggio della simulazione varia un po' da un'analisi all'altra, quindi confronta più prove invece di fermarti a un singolo numero. Se il sito ha anche altri problemi (testi vaghi, contatti nascosti, nessuna pagina per servizio) leggi <a href=\"/insights/sito-aziendale-perde-clienti.html\">i 7 segnali che il tuo sito ti fa perdere clienti</a>.</p>\n\n<h2>Cosa aspettarsi, in modo onesto</h2>\n<p>Un sito veloce non ti porta da solo in cima a Google: la velocità è uno dei tanti fattori, e i contenuti utili restano il più importante. Quello che fa è togliere un ostacolo: chi arriva sul sito resta abbastanza per leggere cosa fai e chiamarti. E un punteggio di 100 non è obbligatorio: conta che le pagine si aprano in fretta e senza scatti sul telefono dei tuoi clienti.</p>\n<p>A volte basta sistemare immagini e plugin. Altre volte il sito è costruito su basi così appesantite che conviene rifarlo leggero. Se vuoi capire in quale caso sei, guarda come lavoriamo al <a href=\"/servizi/sito-web-aziendale.html\">sito web aziendale</a>: pagine essenziali, veloci da telefono e pensate per far arrivare richieste.</p>",
+  "faq": [
+    {
+      "q": "Come faccio a sapere se il mio sito è lento?",
+      "a": "Aprilo dallo smartphone con la rete mobile e in incognito, poi analizza le pagine principali con PageSpeed Insights di Google, guardando la versione mobile e i tre indicatori Core Web Vitals."
+    },
+    {
+      "q": "Che punteggio deve avere un sito su PageSpeed Insights?",
+      "a": "Nella simulazione, 90 o più è considerato buono, tra 50 e 89 da migliorare, sotto 50 scarso. Il punteggio varia un po' tra un test e l'altro: conta di più che le pagine si aprano in fretta e senza scatti sul telefono."
+    },
+    {
+      "q": "Perché nella mia analisi non compaiono i dati degli utenti reali?",
+      "a": "Quei dati vengono dai browser dei visitatori e compaiono solo quando il sito ha abbastanza traffico. Per molti siti di piccole aziende manca questa sezione: in quel caso si lavora sulla diagnosi simulata."
+    },
+    {
+      "q": "Qual è il primo intervento da fare su un sito lento?",
+      "a": "Quasi sempre le immagini: ridimensionarle alla misura in cui vengono mostrate e salvarle in formati leggeri. Poi togliere plugin e widget inutili e, se il server risponde lento, valutare l'hosting."
+    }
+  ],
+  "sources": [
+    {
+      "title": "web.dev – How the Core Web Vitals metrics thresholds were defined",
+      "url": "https://web.dev/articles/defining-core-web-vitals-thresholds"
+    },
+    {
+      "title": "Google for Developers – About PageSpeed Insights",
+      "url": "https://developers.google.com/speed/docs/insights/v5/about"
+    }
+  ],
+  "photo": {
+    "url": "https://images.unsplash.com/photo-1513530534585-c7b1394c6d51?w=2000&q=85&fm=jpg",
+    "author": "NordWood Themes",
+    "source": "Unsplash",
+    "page": "https://unsplash.com/photos/person-wearing-watch-near-laptop-kRNZiGKtz48",
+    "focus": 0.5
+  },
+  "mins": 5
+}
