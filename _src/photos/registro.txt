@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  demo-personalizzata-vendita-b2b-come-prepararla: 200 https://images.unsplash.com/photo-1688380692117-63178554d76d?w=2000&q=85&fm=jpg image/jpeg
+OK demo-personalizzata-vendita-b2b-come-prepararla (2000, 1333)
+  sito-lento-cause-come-capirlo: 200 https://images.unsplash.com/photo-1513530534585-c7b1394c6d51?w=2000&q=85&fm=jpg image/jpeg
+OK sito-lento-cause-come-capirlo (2000, 1333)
+foto scaricate: 2, errori: 0
