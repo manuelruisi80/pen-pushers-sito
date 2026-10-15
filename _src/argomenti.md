@@ -15,11 +15,9 @@
 ## Brand identity
 
 ## AI & automazioni
-- Agenti AI: cosa sono e cosa possono fare (e non fare) per un'azienda
 - Transizione 5.0 e digitalizzazione: domande da fare al commercialista prima di investire (solo fonti ufficiali)
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Assistenza celle frigorifere: come farsi trovare dai ristoranti in caso di guasto
 - Manutenzione HVAC per hotel: come proporre un contratto annuale
 - Nuove aperture di ristoranti: come intercettarle prima dei concorrenti
 - Impianti antincendio: come acquisire contratti di manutenzione da capannoni e strutture ricettive
@@ -61,3 +59,5 @@
 - Moduli online collegati a fogli di calcolo: automazioni semplici con strumenti gratuiti [fatto 2026-10-13]
 - Come preparare una demo personalizzata che il cliente apre davvero [fatto 2026-10-14]
 - Sito lento: le cause più comuni e come capirlo in 2 minuti [fatto 2026-10-14]
+- Agenti AI: cosa sono e cosa possono fare (e non fare) per un'azienda [fatto 2026-10-15]
+- Assistenza celle frigorifere: come farsi trovare dai ristoranti in caso di guasto [fatto 2026-10-15]
