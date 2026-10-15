@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  agenti-ai-cosa-sono-cosa-possono-fare-azienda: 200 https://images.unsplash.com/photo-1758519288445-5847dd89f313?w=2000&q=85&fm=jpg image/jpeg
+OK agenti-ai-cosa-sono-cosa-possono-fare-azienda (2000, 1125)
+  assistenza-celle-frigorifere-farsi-trovare-ristoranti-guasto: 200 https://images.pexels.com/photos/33388390/pexels-photo-33388390.jpeg?auto=compress&cs=tinysrgb&w=2000 image/jpeg
+OK assistenza-celle-frigorifere-farsi-trovare-ristoranti-guasto (1125, 2000)
+foto scaricate: 2, errori: 0
