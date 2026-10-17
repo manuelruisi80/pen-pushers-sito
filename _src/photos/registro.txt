@@ -1,5 +1,1 @@
-  lead-scoring-spiegato-semplice-chi-chiamare-per-primo: 200 https://images.unsplash.com/photo-1758598305340-95c68b43ce49?w=2000&q=85&fm=jpg image/jpeg
-OK lead-scoring-spiegato-semplice-chi-chiamare-per-primo (2000, 1125)
-  pagina-contatti-sito-aziendale-cosa-mettere-cosa-togliere: 200 https://images.unsplash.com/photo-1758598304771-7537765dca55?w=2000&q=85&fm=jpg image/jpeg
-OK pagina-contatti-sito-aziendale-cosa-mettere-cosa-togliere (2000, 1125)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
