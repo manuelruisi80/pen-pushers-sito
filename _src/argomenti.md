@@ -1,13 +1,11 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Lead scoring spiegato semplice: come decidere chi chiamare per primo
 - Passaparola e lead generation: come farli lavorare insieme
 - GDPR e contatti B2B: cosa si può fare con i dati pubblici delle aziende (taglio prudente, fonti ufficiali)
 
 ## Siti web & SEO
 - Google Business Profile: guida passo per passo per aziende tecniche
-- Pagina contatti che converte: cosa mettere e cosa togliere
 - Meta title e meta description: come scriverli per le pagine dei servizi
 - Sito da telefono: i 5 errori che fanno scappare i clienti
 - Dominio, hosting, email aziendale: cosa deve essere intestato all'azienda
@@ -61,3 +59,5 @@
 - Sito lento: le cause più comuni e come capirlo in 2 minuti [fatto 2026-10-14]
 - Agenti AI: cosa sono e cosa possono fare (e non fare) per un'azienda [fatto 2026-10-15]
 - Assistenza celle frigorifere: come farsi trovare dai ristoranti in caso di guasto [fatto 2026-10-15]
+- Lead scoring spiegato semplice: come decidere chi chiamare per primo [fatto 2026-10-17]
+- Pagina contatti che converte: cosa mettere e cosa togliere [fatto 2026-10-17]
