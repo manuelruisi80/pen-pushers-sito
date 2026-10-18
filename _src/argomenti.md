@@ -13,10 +13,8 @@
 ## Brand identity
 
 ## AI & automazioni
-- Transizione 5.0 e digitalizzazione: domande da fare al commercialista prima di investire (solo fonti ufficiali)
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Manutenzione HVAC per hotel: come proporre un contratto annuale
 - Nuove aperture di ristoranti: come intercettarle prima dei concorrenti
 - Impianti antincendio: come acquisire contratti di manutenzione da capannoni e strutture ricettive
 - Aziende movimento terra: come trovare imprese edili e general contractor
@@ -61,3 +59,5 @@
 - Assistenza celle frigorifere: come farsi trovare dai ristoranti in caso di guasto [fatto 2026-10-15]
 - Lead scoring spiegato semplice: come decidere chi chiamare per primo [fatto 2026-10-17]
 - Pagina contatti che converte: cosa mettere e cosa togliere [fatto 2026-10-17]
+- Transizione 5.0 e digitalizzazione: domande da fare al commercialista prima di investire (solo fonti ufficiali) [fatto 2026-10-18]
+- Manutenzione HVAC per hotel: come proporre un contratto annuale [fatto 2026-10-18]
