@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  manutenzione-hvac-hotel-contratto-annuale: 200 https://images.unsplash.com/photo-1698479603408-1a66a6d9e80f?w=2000&q=85&fm=jpg image/jpeg
+OK manutenzione-hvac-hotel-contratto-annuale (1333, 2000)
+  transizione-5-0-iperammortamento-domande-commercialista: 200 https://images.unsplash.com/photo-1740209475472-aa7d280f7452?w=2000&q=85&fm=jpg image/jpeg
+OK transizione-5-0-iperammortamento-domande-commercialista (2000, 1335)
+foto scaricate: 2, errori: 0
