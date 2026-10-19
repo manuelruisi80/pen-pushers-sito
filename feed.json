@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/meta-title-meta-description-pagine-servizi.html",
+   "url": "https://pen-pushers.com/insights/meta-title-meta-description-pagine-servizi.html",
+   "title": "Meta title e meta description: come scriverli per le pagine dei servizi",
+   "summary": "Come scrivere meta title e meta description delle pagine servizio: cosa dice Google, errori comuni, un metodo in 5 passi ed esempi per aziende tecniche.",
+   "image": "https://pen-pushers.com/insights/img/covers/meta-title-meta-description-pagine-servizi.jpg",
+   "date_published": "2026-10-19",
+   "tags": [
+    "Siti web & SEO"
+   ],
+   "_mins": 6
+  },
+  {
+   "id": "https://pen-pushers.com/insights/passaparola-e-lead-generation-come-farli-lavorare-insieme.html",
+   "url": "https://pen-pushers.com/insights/passaparola-e-lead-generation-come-farli-lavorare-insieme.html",
+   "title": "Passaparola e lead generation: come farli lavorare insieme in una PMI tecnica",
+   "summary": "Come far lavorare insieme passaparola e ricerca attiva di clienti B2B: registrare le provenienze, chiedere consigli, scegliere chi cercare e cosa evitare.",
+   "image": "https://pen-pushers.com/insights/img/covers/passaparola-e-lead-generation-come-farli-lavorare-insieme.jpg",
+   "date_published": "2026-10-19",
+   "tags": [
+    "Lead generation B2B"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/manutenzione-hvac-hotel-contratto-annuale.html",
    "url": "https://pen-pushers.com/insights/manutenzione-hvac-hotel-contratto-annuale.html",
    "title": "Manutenzione HVAC per hotel: come proporre un contratto annuale che il direttore firma",
@@ -220,30 +244,6 @@
     "AI & automazioni"
    ],
    "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/recensioni-google-come-chiederle-rispondere.html",
-   "url": "https://pen-pushers.com/insights/recensioni-google-come-chiederle-rispondere.html",
-   "title": "Recensioni Google: come chiederle ai clienti e come rispondere (anche a quelle negative)",
-   "summary": "Recensioni Google per aziende tecniche: come chiederle con link e QR code, le regole di Google da rispettare e come rispondere alle recensioni negative.",
-   "image": "https://pen-pushers.com/insights/img/covers/recensioni-google-come-chiederle-rispondere.jpg",
-   "date_published": "2026-10-08",
-   "tags": [
-    "Siti web & SEO"
-   ],
-   "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/crm-per-pmi-cosa-serve-davvero.html",
-   "url": "https://pen-pushers.com/insights/crm-per-pmi-cosa-serve-davvero.html",
-   "title": "CRM per PMI: cosa serve davvero e cosa è superfluo",
-   "summary": "CRM per PMI: le 6 funzioni essenziali, quelle superflue all'inizio e un metodo in 5 passi per avviarlo senza abbandonarlo dopo un mese. Con nota sul GDPR.",
-   "image": "https://pen-pushers.com/insights/img/covers/crm-per-pmi-cosa-serve-davvero.jpg",
-   "date_published": "2026-10-08",
-   "tags": [
-    "Lead generation B2B"
-   ],
-   "_mins": 6
   }
  ]
 }

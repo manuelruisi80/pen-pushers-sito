@@ -1,12 +1,10 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Passaparola e lead generation: come farli lavorare insieme
 - GDPR e contatti B2B: cosa si può fare con i dati pubblici delle aziende (taglio prudente, fonti ufficiali)
 
 ## Siti web & SEO
 - Google Business Profile: guida passo per passo per aziende tecniche
-- Meta title e meta description: come scriverli per le pagine dei servizi
 - Sito da telefono: i 5 errori che fanno scappare i clienti
 - Dominio, hosting, email aziendale: cosa deve essere intestato all'azienda
 
@@ -61,3 +59,5 @@
 - Pagina contatti che converte: cosa mettere e cosa togliere [fatto 2026-10-17]
 - Transizione 5.0 e digitalizzazione: domande da fare al commercialista prima di investire (solo fonti ufficiali) [fatto 2026-10-18]
 - Manutenzione HVAC per hotel: come proporre un contratto annuale [fatto 2026-10-18]
+- Passaparola e lead generation: come farli lavorare insieme [fatto 2026-10-19]
+- Meta title e meta description: come scriverli per le pagine dei servizi [fatto 2026-10-19]
