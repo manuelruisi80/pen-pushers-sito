@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  meta-title-meta-description-pagine-servizi: 200 https://images.unsplash.com/photo-1724985284026-dd2451e4857a?w=2000&q=85&fm=jpg image/jpeg
+OK meta-title-meta-description-pagine-servizi (2000, 1331)
+  passaparola-e-lead-generation-come-farli-lavorare-insieme: 200 https://images.unsplash.com/photo-1681505531034-8d67054e07f6?w=2000&q=85&fm=jpg image/jpeg
+OK passaparola-e-lead-generation-come-farli-lavorare-insieme (2000, 1333)
+foto scaricate: 2, errori: 0
