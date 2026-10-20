@@ -13,7 +13,6 @@
 ## AI & automazioni
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Nuove aperture di ristoranti: come intercettarle prima dei concorrenti
 - Impianti antincendio: come acquisire contratti di manutenzione da capannoni e strutture ricettive
 - Aziende movimento terra: come trovare imprese edili e general contractor
 - Laboratori odontotecnici: come presentarsi agli studi dentistici
@@ -21,7 +20,6 @@
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
 
 ## Crescita & vendite
-- Obiezione "costa troppo": come rispondere senza fare sconti
 - Obiezione "abbiamo già un sito": cosa chiedere invece di criticare
 - Come calcolare quanto vale un nuovo cliente per la tua azienda
 - Dal sopralluogo al preventivo firmato: un processo in 5 passi
@@ -61,3 +59,5 @@
 - Manutenzione HVAC per hotel: come proporre un contratto annuale [fatto 2026-10-18]
 - Passaparola e lead generation: come farli lavorare insieme [fatto 2026-10-19]
 - Meta title e meta description: come scriverli per le pagine dei servizi [fatto 2026-10-19]
+- Nuove aperture di ristoranti: come intercettarle prima dei concorrenti [fatto 2026-10-20]
+- Obiezione "costa troppo": come rispondere senza fare sconti [fatto 2026-10-20]
