@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  nuove-aperture-ristoranti-come-intercettarle-prima: 200 https://images.unsplash.com/photo-1692610845224-1995979c3001?w=2000&q=85&fm=jpg image/jpeg
+OK nuove-aperture-ristoranti-come-intercettarle-prima (1333, 2000)
+  obiezione-costa-troppo-come-rispondere-senza-sconti: 200 https://images.unsplash.com/photo-1758519288480-1489c17b1519?w=2000&q=85&fm=jpg image/jpeg
+OK obiezione-costa-troppo-come-rispondere-senza-sconti (2000, 1125)
+foto scaricate: 2, errori: 0
