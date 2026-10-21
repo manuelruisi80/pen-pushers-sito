@@ -1,5 +1,1 @@
-  dominio-hosting-email-aziendale-a-chi-intestarli: 200 https://images.unsplash.com/photo-1775519520461-6b6e068d9250?w=2000&q=85&fm=jpg image/jpeg
-OK dominio-hosting-email-aziendale-a-chi-intestarli (1333, 2000)
-  gdpr-contatti-b2b-dati-pubblici-aziende-cosa-si-puo-fare: 200 https://images.unsplash.com/photo-1758611972678-bc3b29b4718f?w=2000&q=85&fm=jpg image/jpeg
-OK gdpr-contatti-b2b-dati-pubblici-aziende-cosa-si-puo-fare (2000, 1125)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
