@@ -1,0 +1,52 @@
+{
+ "slug": "dominio-hosting-email-aziendale-a-chi-intestarli",
+ "date": "2026-10-21",
+ "time": "09:30",
+ "cat": "Siti web & SEO",
+ "title": "Dominio, hosting ed email aziendale: cosa deve essere intestato all'azienda",
+ "seo_title": "Dominio, hosting ed email: a chi intestarli | Pen-Pushers Publishing",
+ "desc": "Dominio a nome di un ex collaboratore? Come scoprire chi è il titolare, recuperare il codice AuthInfo e intestare dominio, hosting ed email alla società.",
+ "lead": "Il sito funziona, le email arrivano, e nessuno sa a chi è intestato il dominio. Finché un giorno serve cambiare fornitore e si scopre che le chiavi le ha qualcun altro. Ecco cosa deve essere a nome dell'azienda e come rimettere ordine in sei passi.",
+ "mins": 5,
+ "motif": "grid",
+ "ig_hook": "Il tuo dominio è davvero tuo?",
+ "ig_caption": "Il sito funziona, le email arrivano. Ma a chi è intestato il dominio?\n\nCosa controllare oggi:\n• chi risulta titolare del dominio (ricerca WHOIS)\n• il titolare deve essere la società, non un ex collaboratore\n• chiedi il codice AuthInfo e conservalo in azienda\n• credenziali in un gestore di password condiviso\n• scadenze annotate e rinnovo automatico attivo\n• una pagina che spiega come è collegato tutto\n\nArticolo completo su pen-pushers.com/insights (link in bio).\n\n#dominio #hosting #emailaziendale #sitoweb #PMI #digitalizzazione #aziendetecniche #imprenditori #PenPushersPublishing",
+ "cta_title": "Rifai il sito e metti in ordine le chiavi",
+ "cta_text": "Un sito aziendale chiaro, con dominio, hosting ed email intestati all'azienda e accessi documentati. Sito web base 4 pagine: prezzo di riferimento 600 € tasse incluse.",
+ "body_html": "<h2>Il problema: il sito è tuo, ma il dominio no</h2>\n<p>Un'azienda di manutenzione impianti decide di rifare il sito. Il nuovo fornitore chiede una cosa semplice: l'accesso al dominio per collegare le nuove pagine. A quel punto si scopre che il dominio era stato registrato anni prima da un collaboratore esterno, a suo nome e con la sua email. Il collaboratore non lavora più con l'azienda e non risponde. Nel frattempo le email aziendali, che passano dallo stesso dominio, rischiano di smettere di funzionare alla prossima scadenza.</p>\n<p>Non è un caso raro. Nelle PMI il dominio, l'hosting e le caselle email vengono spesso attivati in fretta, da chi in quel momento sa come farlo: il nipote esperto di computer, un ex dipendente, il fornitore del primo sito. Finché tutto funziona nessuno ci pensa. Il problema emerge quando serve cambiare qualcosa.</p>\n\n<h2>Perché succede: tre pezzi diversi che sembrano uno solo</h2>\n<p>Chi non lavora nel settore tende a pensare al \"sito\" come a un'unica cosa. In realtà sono almeno tre pezzi distinti, spesso comprati da fornitori diversi:</p>\n<ul>\n<li><strong>Il dominio</strong> (per esempio tuaazienda.it): è il nome. Si registra presso un registrar e ha un titolare, che per i .it si chiama assegnatario.</li>\n<li><strong>L'hosting</strong>: è lo spazio sul server dove stanno i file del sito. Si può cambiare senza cambiare dominio.</li>\n<li><strong>L'email</strong>: le caselle nome@tuaazienda.it. Possono stare sullo stesso hosting o su un servizio separato, ma dipendono sempre dal dominio.</li>\n</ul>\n<p>A questi si aggiungono gli account collegati: il Profilo dell'attività su Google, gli strumenti di statistica, le pagine social. Ognuno ha un proprietario e uno o più amministratori.</p>\n<p>L'errore più comune è confondere chi <strong>gestisce</strong> con chi <strong>possiede</strong>. È normale che un'agenzia gestisca tecnicamente dominio e hosting. Non è normale che ne risulti titolare al posto dell'azienda.</p>\n\n<h2>Cosa dicono le regole su domini e trasferimenti</h2>\n<h3>Domini .it</h3>\n<p>I domini .it sono gestiti dal Registro .it, presso l'Istituto di Informatica e Telematica del CNR di Pisa. Per cambiare registrar a un dominio .it serve il <strong>codice AuthInfo</strong>, che il registrar consegna all'assegnatario al momento della registrazione. Se l'hai perso, si chiede al registrar; se il registrar non si trova o non lo fornisce, l'assegnatario può rivolgersi direttamente al Registro.</p>\n<p>Attenzione a un punto: modificare i dati dell'assegnatario (indirizzo, email, telefono) non cambia il soggetto a cui il dominio è intestato. Per passare il dominio da una persona all'azienda serve un'operazione di cambio assegnatario, che si fa tramite un registrar.</p>\n\n<h3>Domini .com e altri generici</h3>\n<p>Per i domini generici come .com valgono le regole di ICANN. Il codice di autorizzazione si chiede al registrar, che secondo le FAQ di ICANN deve fornirlo entro 5 giorni dalla richiesta. Un trasferimento non si può avviare prima che siano passati 60 giorni dalla registrazione o da un trasferimento precedente. La scadenza del dominio, da sola, non è un motivo valido per rifiutare il trasferimento.</p>\n<p>In entrambi i casi il punto è lo stesso: chi è titolare del dominio e riceve le comunicazioni ha in mano le chiavi. Se quella persona non è più raggiungibile, ogni operazione diventa lenta e complicata.</p>\n\n<h2>Il metodo in 6 passi per rimettere ordine</h2>\n<h3>1. Scopri chi è il titolare oggi</h3>\n<p>Fai una ricerca WHOIS sul tuo dominio (per i .it dal sito del Registro, per gli altri dal servizio di ricerca del tuo registrar) e controlla a chi risulta intestato. Se non vedi i dati, chiedi al fornitore che lo gestisce di mostrarti il pannello o una schermata con titolare e scadenza.</p>\n\n<h3>2. Fai intestare tutto alla società</h3>\n<p>Il titolare del dominio deve essere l'azienda, con un'email aziendale di riferimento che non dipenda da una singola persona (per esempio amministrazione@ o un indirizzo generico controllato da più persone). Se oggi risulta intestato a un ex collaboratore o a un fornitore, chiedi formalmente il cambio, per iscritto.</p>\n\n<h3>3. Recupera il codice di trasferimento e conservalo</h3>\n<p>Chiedi il codice AuthInfo al registrar e conservalo in un posto sicuro accessibile all'azienda, non nella casella personale di qualcuno. Non devi per forza cambiare fornitore: devi solo poterlo fare se un giorno servirà.</p>\n\n<h3>4. Metti le credenziali in un luogo condiviso</h3>\n<p>Accessi al pannello del dominio, all'hosting, alle caselle email e agli account Google vanno custoditi in un gestore di password aziendale o in un documento protetto, con almeno due persone che possono accedere. Quando un dipendente o un fornitore se ne va, le password si cambiano.</p>\n\n<h3>5. Controlla scadenze e rinnovi</h3>\n<p>Annota la data di scadenza del dominio e dell'hosting e verifica che il rinnovo sia attivo con un metodo di pagamento aziendale valido. Un dominio non rinnovato può far smettere di funzionare in un colpo sito ed email.</p>\n\n<h3>6. Documenta come è collegato tutto</h3>\n<p>Basta una pagina: dove è registrato il dominio, dove sta il sito, dove stanno le email, chi è amministratore di ogni account, chi chiamare in caso di problema. Quando rifarai il sito, o cambierai fornitore, ti farà risparmiare giorni. Se stai valutando un rifacimento, nella nostra guida su <a href=\"/insights/quanto-costa-sito-aziendale-da-cosa-dipende-prezzo.html\">quanto costa un sito aziendale</a> trovi anche cosa chiedere nei preventivi su dominio e hosting.</p>\n\n<div class=\"box\"><span class=\"mono\">In sintesi: cosa deve essere intestato all'azienda</span>\n<ul>\n<li>Dominio: titolare la società, con email aziendale di riferimento.</li>\n<li>Codice AuthInfo: richiesto e conservato in azienda.</li>\n<li>Hosting e caselle email: contratto e fatture a nome della società.</li>\n<li>Profilo dell'attività su Google e strumenti di statistica: proprietario un account aziendale.</li>\n<li>Pagine social: almeno due amministratori interni.</li>\n<li>Credenziali: in un gestore di password condiviso, aggiornate quando qualcuno se ne va.</li>\n<li>Scadenze: annotate, con rinnovo automatico attivo.</li>\n</ul>\n</div>\n\n<h2>Cosa aspettarsi, in modo onesto</h2>\n<p>Se tutto è già intestato all'azienda, il controllo richiede un'ora. Se il dominio è a nome di qualcuno che non risponde, servono pazienza, richieste scritte e a volte il coinvolgimento del registrar o del Registro: non è un'operazione immediata. Per questo conviene farla adesso, a mente fredda, e non il giorno in cui le email smettono di arrivare.</p>\n<p>Un buon fornitore non ha nulla da temere da questa verifica: gestisce per te, ma ti lascia sempre le chiavi. Quando progettiamo un <a href=\"/servizi/sito-web-aziendale.html\">sito web aziendale</a>, mettere in chiaro intestazioni e accessi è uno dei primi passi.</p>\n",
+ "faq": [
+  {
+   "q": "Cosa succede se il dominio è intestato all'agenzia che ha fatto il sito?",
+   "a": "Formalmente il titolare è l'agenzia. Chiedi per iscritto il cambio di intestazione alla società: un fornitore corretto non ha motivo di rifiutare. Per i .it l'operazione si chiama cambio assegnatario e passa da un registrar."
+  },
+  {
+   "q": "Dove trovo il codice AuthInfo?",
+   "a": "Per i domini .it lo consegna il registrar all'assegnatario al momento della registrazione. Se l'hai perso chiedilo al registrar; se il registrar non risponde, l'assegnatario può rivolgersi al Registro .it."
+  },
+  {
+   "q": "Se cambio hosting perdo il dominio o le email?",
+   "a": "No, se il dominio resta a tuo nome. Hosting, dominio ed email sono pezzi separati: cambiando hosting vanno solo aggiornati i collegamenti (i record DNS) e spostati sito e caselle con un minimo di pianificazione."
+  },
+  {
+   "q": "Posso trasferire un .com appena registrato?",
+   "a": "Secondo le regole ICANN un trasferimento tra registrar si può avviare solo dopo 60 giorni dalla registrazione o da un trasferimento precedente."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Registro .it: modificare un dominio .it (codice AuthInfo, registrar, assegnatario)",
+   "url": "https://www.nic.it/en/manage-your-it/change-it"
+  },
+  {
+   "title": "ICANN: FAQ per i titolari di nomi a dominio (trasferimenti, codice Auth-Info, 60 giorni)",
+   "url": "https://www.icann.org/resources/pages/name-holder-faqs-2012-02-25-it"
+  }
+ ],
+ "photo": {
+  "url": "https://images.unsplash.com/photo-1775519520461-6b6e068d9250?w=2000&q=85&fm=jpg",
+  "author": "Eric Stoynov",
+  "source": "Unsplash",
+  "page": "https://unsplash.com/photos/two-server-racks-filled-with-electronic-components-and-wires-k27hkqXuveo",
+  "focus": 0.5
+ }
+}

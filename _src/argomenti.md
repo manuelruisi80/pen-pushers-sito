@@ -1,12 +1,10 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- GDPR e contatti B2B: cosa si può fare con i dati pubblici delle aziende (taglio prudente, fonti ufficiali)
 
 ## Siti web & SEO
 - Google Business Profile: guida passo per passo per aziende tecniche
 - Sito da telefono: i 5 errori che fanno scappare i clienti
-- Dominio, hosting, email aziendale: cosa deve essere intestato all'azienda
 
 ## Brand identity
 
@@ -61,3 +59,5 @@
 - Meta title e meta description: come scriverli per le pagine dei servizi [fatto 2026-10-19]
 - Nuove aperture di ristoranti: come intercettarle prima dei concorrenti [fatto 2026-10-20]
 - Obiezione "costa troppo": come rispondere senza fare sconti [fatto 2026-10-20]
+- GDPR e contatti B2B: cosa si può fare con i dati pubblici delle aziende (taglio prudente, fonti ufficiali) [fatto 2026-10-21]
+- Dominio, hosting, email aziendale: cosa deve essere intestato all'azienda [fatto 2026-10-21]
