@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  manutenzione-antincendio-contratti-capannoni-hotel: 200 https://images.unsplash.com/photo-1760008865167-882ced47b705?w=2000&q=85&fm=jpg image/jpeg
+OK manutenzione-antincendio-contratti-capannoni-hotel (1445, 2000)
+  obiezione-abbiamo-gia-un-fornitore-cosa-chiedere: 200 https://images.unsplash.com/photo-1758691737568-a1572060ce5a?w=2000&q=85&fm=jpg image/jpeg
+OK obiezione-abbiamo-gia-un-fornitore-cosa-chiedere (2000, 1125)
+foto scaricate: 2, errori: 0
