@@ -11,14 +11,12 @@
 ## AI & automazioni
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Impianti antincendio: come acquisire contratti di manutenzione da capannoni e strutture ricettive
 - Aziende movimento terra: come trovare imprese edili e general contractor
 - Laboratori odontotecnici: come presentarsi agli studi dentistici
 - Installatori di cucine industriali: sito e pagine servizio che portano richieste
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
 
 ## Crescita & vendite
-- Obiezione "abbiamo già un sito": cosa chiedere invece di criticare
 - Come calcolare quanto vale un nuovo cliente per la tua azienda
 - Dal sopralluogo al preventivo firmato: un processo in 5 passi
 - KPI commerciali per una PMI: i 4 numeri da guardare ogni settimana
@@ -61,3 +59,5 @@
 - Obiezione "costa troppo": come rispondere senza fare sconti [fatto 2026-10-20]
 - GDPR e contatti B2B: cosa si può fare con i dati pubblici delle aziende (taglio prudente, fonti ufficiali) [fatto 2026-10-21]
 - Dominio, hosting, email aziendale: cosa deve essere intestato all'azienda [fatto 2026-10-21]
+- Impianti antincendio: come acquisire contratti di manutenzione da capannoni e strutture ricettive [fatto 2026-10-22]
+- Obiezione "abbiamo già un sito" / "abbiamo già un fornitore": cosa chiedere invece di criticare [fatto 2026-10-22]

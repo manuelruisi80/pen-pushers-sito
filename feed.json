@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/obiezione-abbiamo-gia-un-fornitore-cosa-chiedere.html",
+   "url": "https://pen-pushers.com/insights/obiezione-abbiamo-gia-un-fornitore-cosa-chiedere.html",
+   "title": "Obiezione \"abbiamo già un fornitore\": cosa chiedere invece di criticare",
+   "summary": "\"Abbiamo già un fornitore\" (o \"già un sito\") non è un no. Le 5 domande da fare invece di criticare chi c'è, le frasi utili e come gestire il \"non ora\".",
+   "image": "https://pen-pushers.com/insights/img/covers/obiezione-abbiamo-gia-un-fornitore-cosa-chiedere.jpg",
+   "date_published": "2026-10-22",
+   "tags": [
+    "Crescita & vendite"
+   ],
+   "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/manutenzione-antincendio-contratti-capannoni-hotel.html",
+   "url": "https://pen-pushers.com/insights/manutenzione-antincendio-contratti-capannoni-hotel.html",
+   "title": "Impianti antincendio: come acquisire contratti di manutenzione da capannoni e hotel",
+   "summary": "Come passare dal controllo singolo al contratto annuale di manutenzione antincendio con capannoni e hotel: decreto controlli, censimento, tre livelli.",
+   "image": "https://pen-pushers.com/insights/img/covers/manutenzione-antincendio-contratti-capannoni-hotel.jpg",
+   "date_published": "2026-10-22",
+   "tags": [
+    "Settori · Antincendio"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/dominio-hosting-email-aziendale-a-chi-intestarli.html",
    "url": "https://pen-pushers.com/insights/dominio-hosting-email-aziendale-a-chi-intestarli.html",
    "title": "Dominio, hosting ed email aziendale: cosa deve essere intestato all'azienda",
@@ -220,30 +244,6 @@
     "Lead generation B2B"
    ],
    "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/ai-in-azienda-usi-concreti-pmi.html",
-   "url": "https://pen-pushers.com/insights/ai-in-azienda-usi-concreti-pmi.html",
-   "title": "AI in azienda: 5 usi concreti per una PMI che non ha un reparto IT",
-   "summary": "AI in azienda senza reparto IT: 5 usi concreti per una PMI, dalle email ai rapporti di sopralluogo, con le regole su dati e controllo da fissare prima.",
-   "image": "https://pen-pushers.com/insights/img/covers/ai-in-azienda-usi-concreti-pmi.jpg",
-   "date_published": "2026-10-11",
-   "tags": [
-    "AI & automazioni"
-   ],
-   "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/immagine-coordinata-aziendale-materiali-pmi.html",
-   "url": "https://pen-pushers.com/insights/immagine-coordinata-aziendale-materiali-pmi.html",
-   "title": "Immagine coordinata aziendale: quali materiali servono davvero a una PMI",
-   "summary": "Immagine coordinata per PMI: il kit minimo, l'ordine giusto per realizzarlo, i dati obbligatori da non dimenticare e gli errori che fanno sprecare budget.",
-   "image": "https://pen-pushers.com/insights/img/covers/immagine-coordinata-aziendale-materiali-pmi.jpg",
-   "date_published": "2026-10-11",
-   "tags": [
-    "Brand identity"
-   ],
-   "_mins": 6
   }
  ]
 }
