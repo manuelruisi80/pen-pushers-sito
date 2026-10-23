@@ -4,7 +4,6 @@
 
 ## Siti web & SEO
 - Google Business Profile: guida passo per passo per aziende tecniche
-- Sito da telefono: i 5 errori che fanno scappare i clienti
 
 ## Brand identity
 
@@ -23,7 +22,6 @@
 
 ## Guide pratiche
 - Checklist: 10 cose da controllare nella presenza online della tua azienda
-- Instagram per aziende B2B: ha senso? Come usarlo davvero
 - Come scrivere la pagina "Chi siamo" di un'azienda tecnica
 
 ## Fatti
@@ -61,3 +59,5 @@
 - Dominio, hosting, email aziendale: cosa deve essere intestato all'azienda [fatto 2026-10-21]
 - Impianti antincendio: come acquisire contratti di manutenzione da capannoni e strutture ricettive [fatto 2026-10-22]
 - Obiezione "abbiamo già un sito" / "abbiamo già un fornitore": cosa chiedere invece di criticare [fatto 2026-10-22]
+- Sito da telefono: i 5 errori che fanno scappare i clienti [fatto 2026-10-23]
+- Instagram per aziende B2B: ha senso? Come usarlo davvero [fatto 2026-10-23]

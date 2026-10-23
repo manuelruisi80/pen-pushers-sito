@@ -1,0 +1,56 @@
+{
+ "slug": "sito-da-telefono-errori-che-fanno-scappare-clienti",
+ "date": "2026-10-23",
+ "time": "09:00",
+ "cat": "Siti web & SEO",
+ "title": "Sito da telefono: i 5 errori che fanno scappare i clienti (e come correggerli)",
+ "seo_title": "Sito da telefono: 5 errori che fanno scappare i clienti | Pen-Pushers Publishing",
+ "desc": "Numero che non si tocca, testi minuscoli, banner, menu e moduli: i 5 errori del sito da smartphone che fanno perdere clienti e un test di 10 minuti.",
+ "lead": "Chi ha un guasto o cerca un fornitore spesso apre il tuo sito dal telefono, in piedi, con una mano sola. Se deve ingrandire, cercare il numero o combattere con un modulo, chiama qualcun altro. Ecco i 5 errori più comuni e come accorgertene in dieci minuti.",
+ "motif": "sphere",
+ "ig_hook": "Il tuo sito da telefono fa scappare i clienti?",
+ "ig_caption": "Il cliente ha un guasto, ti cerca dal telefono, apre il tuo sito... e chiama il concorrente.\n\nI 5 errori più comuni da smartphone:\n• il numero di telefono non si tocca (o è un'immagine)\n• testi minuscoli e pulsanti troppo vicini\n• banner e finestre che coprono tutta la pagina\n• menu pieno di voci, servizi introvabili\n• moduli con troppi campi\n\nProva così: Wi-Fi spento, una mano sola, tre azioni da cronometrare. Chiamare, trovare il servizio, inviare una richiesta.\n\nArticolo completo su pen-pushers.com/insights (link in bio).\n\n#sitoweb #sitoaziendale #mobile #smartphone #SEO #PMI #aziendetecniche #imprenditori #webdesign #PenPushersPublishing",
+ "cta_title": "Vuoi un sito che funzioni prima di tutto dal telefono?",
+ "cta_text": "Progettiamo siti aziendali partendo dallo smartphone: contatti in vista, una pagina per ogni servizio, moduli brevi. Sito base di 4 pagine a partire da 600 € tasse incluse.",
+ "faq": [
+  {
+   "q": "Come faccio a sapere se il mio sito funziona bene da telefono?",
+   "a": "Aprilo dal tuo smartphone con la rete mobile e prova a fare tre cose con una mano sola: chiamare l'azienda, trovare la pagina del servizio principale e inviare una richiesta. Poi chiedi a una persona esterna di fare lo stesso e guarda dove si blocca."
+  },
+  {
+   "q": "Se il sito è responsive va già bene da telefono?",
+   "a": "Non per forza. Responsive significa che il sito si adatta alla larghezza dello schermo, ma i contenuti possono restare pensati per il computer: testi piccoli, pulsanti vicini, moduli lunghi. Va provato davvero su un telefono."
+  },
+  {
+   "q": "La versione da telefono conta per Google?",
+   "a": "Sì. Con la mobile-first indexing Google usa la versione del sito vista da uno smartphone per indicizzare le pagine. I contenuti presenti solo nella versione da computer rischiano di non essere considerati."
+  },
+  {
+   "q": "Serve rifare il sito per correggere questi errori?",
+   "a": "Spesso no: numero cliccabile, banner, menu e moduli si sistemano anche su un sito esistente. Se però ogni modifica è complicata o il sito è molto datato, rifarlo partendo dal telefono può costare meno tempo e meno fastidi."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Google Search Central Blog – Mobile indexing vLast final final (giugno 2024)",
+   "url": "https://developers.google.com/search/blog/2024/06/mobile-indexing-vlast-final-final.doc"
+  },
+  {
+   "title": "Search Engine Journal – Google completes switch to mobile-first indexing",
+   "url": "https://www.searchenginejournal.com/google-completes-switch-to-mobile-first-indexing/"
+  },
+  {
+   "title": "W3C – Understanding WCAG 2.2, Success Criterion 2.5.8 Target Size (Minimum)",
+   "url": "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html"
+  }
+ ],
+ "photo": {
+  "url": "https://images.unsplash.com/photo-1728234040187-61651ec91d4e?w=2000&q=85&fm=jpg",
+  "author": "Jakub Żerdzicki",
+  "source": "Unsplash",
+  "page": "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-front-of-a-computer-NRh1WgESM_Y",
+  "focus": 0.5
+ },
+ "body_html": "<h2>Il problema: il cliente ti cerca dal telefono, non dalla scrivania</h2>\n<p>Il gestore di una trattoria ha la lavastoviglie industriale ferma a metà servizio. Non accende il computer: prende il telefono, cerca un tecnico in zona e apre i primi siti che trova. Sul tuo deve allargare il testo con due dita per leggerlo, il numero di telefono è un'immagine che non si può toccare e il menu copre metà schermo. Torna indietro e chiama il sito successivo.</p>\n<p>Non è un caso raro. Chi cerca un fornitore tecnico lo fa spesso in movimento: dal cantiere, dalla cucina, dal furgone, tra un appuntamento e l'altro. Anche il responsabile acquisti che di solito lavora al computer, la prima occhiata al tuo sito la dà spesso dal telefono, magari dopo averti sentito nominare da un collega.</p>\n<p>C'è poi un motivo legato a Google. Dal 2024 Google ha completato il passaggio alla <strong>mobile-first indexing</strong>: per decidere cosa mostrare nei risultati usa la versione del sito che vede uno smartphone. Se una parte dei contenuti esiste solo nella versione da computer, per Google è come se non ci fosse.</p>\n\n<h2>Perché succede: il sito è stato pensato e controllato dal computer</h2>\n<p>Quasi sempre il sito viene approvato guardandolo su un monitor grande, in ufficio. Il titolare dice \"va bene\", il fornitore consegna, e nessuno prova davvero a usarlo da un telefono con una mano sola e la rete del cantiere. Molti siti si definiscono \"responsive\", cioè si adattano allo schermo, ma adattarsi non significa funzionare bene: il contenuto si stringe, ma resta pensato per chi è seduto alla scrivania.</p>\n\n<h2>I 5 errori che fanno scappare i clienti</h2>\n<h3>1. Il numero di telefono non si tocca</h3>\n<p>È l'errore più costoso per un'azienda tecnica. Il numero c'è, ma è scritto in un'immagine, oppure è in fondo alla pagina, oppure toccandolo non succede niente. Chi ha un guasto non ha voglia di copiarlo a mano. Il numero deve essere un link che avvia la chiamata, visibile in alto e ripetuto in fondo a ogni pagina. Se lavori molto con le emergenze, valuta un pulsante \"Chiama\" sempre visibile mentre si scorre.</p>\n\n<h3>2. Testi minuscoli e pulsanti troppo vicini</h3>\n<p>Se per leggere bisogna ingrandire, il cliente si stanca dopo due righe. Lo stesso vale per i pulsanti attaccati tra loro: tocchi \"Servizi\" e si apre \"Contatti\". Le linee guida internazionali sull'accessibilità (WCAG 2.2) indicano come minimo un'area toccabile di 24×24 pixel, o uno spazio sufficiente intorno, e consigliano dimensioni più generose quando possibile. Non è un dettaglio da tecnici: riguarda chiunque usi il telefono con il pollice, magari con i guanti o con le mani occupate.</p>\n\n<h3>3. Finestre e banner che coprono tutto</h3>\n<p>Il banner dei cookie, poi la finestra con l'iscrizione alla newsletter, poi la chat che si apre da sola. Su un computer danno fastidio, su un telefono coprono l'intero schermo. Il cliente deve trovare la \"X\", spesso piccolissima, prima di capire chi sei. Tieni solo quello che serve davvero: il banner dei cookie, fatto bene e facile da chiudere, e niente finestre che si aprono appena si arriva sulla pagina.</p>\n\n<h3>4. Il menu nasconde le pagine importanti</h3>\n<p>Da telefono il menu diventa la classica icona con le tre linee. Dentro, spesso, ci sono quindici voci e sottomenu che non si aprono. Chi cerca \"manutenzione celle frigorifere\" deve arrivarci in uno o due tocchi. Metti nel menu le pagine dei servizi principali con nomi chiari, quelli che usa il cliente, e lascia in secondo piano le voci come \"Mission\" o \"News\". Se ogni servizio ha la sua pagina, come spieghiamo nell'articolo su <a href=\"/insights/una-pagina-per-ogni-servizio-sito-aziendale-seo.html\">una pagina per ogni servizio</a>, anche la navigazione da telefono diventa più semplice.</p>\n\n<h3>5. Moduli impossibili da compilare</h3>\n<p>Dieci campi obbligatori, un menu a tendina con cento province, la tastiera che copre il pulsante \"Invia\", un codice di verifica illeggibile. Da telefono un modulo lungo viene abbandonato. Chiedi solo l'essenziale: nome, telefono o email, una riga per descrivere la richiesta e, se serve, il comune dell'intervento. Il resto lo chiedi quando richiami. Altri consigli sono nell'articolo sulla <a href=\"/insights/pagina-contatti-sito-aziendale-cosa-mettere-cosa-togliere.html\">pagina contatti che converte</a>.</p>\n\n<h2>Il metodo: un controllo in 10 minuti, con il tuo telefono</h2>\n<ol>\n<li><strong>Disattiva il Wi-Fi</strong> e apri il sito con la rete mobile, da una finestra in incognito.</li>\n<li><strong>Usa una mano sola</strong>, come farebbe un cliente con un attrezzo o un caffè nell'altra.</li>\n<li><strong>Cronometra tre azioni</strong>: trovare il numero e avviare la chiamata, arrivare alla pagina del servizio principale, inviare una richiesta dal modulo.</li>\n<li><strong>Chiedi a qualcuno di esterno</strong> di fare le stesse tre cose senza aiuti, e guarda dove si blocca.</li>\n<li><strong>Annota ogni intoppo</strong> e correggi prima quelli che impediscono di contattarti.</li>\n</ol>\n<p>Se il sito ti sembra anche lento a caricare, trovi una prova rapida nell'articolo sul <a href=\"/insights/sito-lento-cause-come-capirlo.html\">sito lento e le sue cause</a>.</p>\n\n<div class=\"box\"><span class=\"mono\">In sintesi: la checklist da telefono</span>\n<ul>\n<li>Il numero è in alto, si tocca e avvia la chiamata.</li>\n<li>Il testo si legge senza ingrandire.</li>\n<li>Pulsanti e link si toccano senza sbagliare.</li>\n<li>Nessuna finestra copre la pagina appena arrivi.</li>\n<li>I servizi principali sono raggiungibili in due tocchi.</li>\n<li>Il modulo ha pochi campi e il pulsante \"Invia\" è sempre visibile.</li>\n<li>Da telefono ci sono gli stessi contenuti della versione da computer.</li>\n</ul>\n</div>\n\n<h2>Cosa aspettarsi, in modo onesto</h2>\n<p>Sistemare il sito da telefono non porta da solo nuovi clienti: se nessuno ti trova, nessuno vedrà il miglioramento. Quello che fa è smettere di perdere chi è già arrivato da te. Per un'azienda tecnica, dove una singola richiesta può valere un contratto di manutenzione, è spesso l'intervento con il miglior rapporto tra costo e utilità.</p>\n<p>Molti di questi errori si correggono in poche ore. Se invece il sito è vecchio e ogni modifica diventa un problema, può convenire rifarlo partendo dal telefono. Con il nostro <a href=\"/servizi/sito-web-aziendale.html\">sito web aziendale</a> costruiamo pagine pensate prima per lo smartphone, con contatti sempre a portata di pollice.</p>",
+ "mins": 5
+}
