@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/quanto-vale-un-nuovo-cliente-come-calcolarlo-pmi.html",
+   "url": "https://pen-pushers.com/insights/quanto-vale-un-nuovo-cliente-come-calcolarlo-pmi.html",
+   "title": "Quanto vale un nuovo cliente? Come calcolarlo in una PMI tecnica (con esempio)",
+   "summary": "Come calcolare quanto vale un nuovo cliente per la tua PMI: margine, frequenza, durata della relazione e costo per acquisirlo. Con un esempio pratico.",
+   "image": "https://pen-pushers.com/insights/img/covers/quanto-vale-un-nuovo-cliente-come-calcolarlo-pmi.jpg",
+   "date_published": "2026-10-24",
+   "tags": [
+    "Crescita & vendite"
+   ],
+   "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/movimento-terra-come-trovare-imprese-edili-general-contractor.html",
+   "url": "https://pen-pushers.com/insights/movimento-terra-come-trovare-imprese-edili-general-contractor.html",
+   "title": "Movimento terra: come trovare nuove imprese edili e general contractor come clienti",
+   "summary": "Come un'azienda di movimento terra trova nuove imprese edili e general contractor: cantieri, dati aperti ANAC, SOA OS1, scheda mezzi e primo contatto.",
+   "image": "https://pen-pushers.com/insights/img/covers/movimento-terra-come-trovare-imprese-edili-general-contractor.jpg",
+   "date_published": "2026-10-24",
+   "tags": [
+    "Settori · Movimento terra"
+   ],
+   "_mins": 5
+  },
+  {
    "id": "https://pen-pushers.com/insights/instagram-aziende-b2b-ha-senso-come-usarlo.html",
    "url": "https://pen-pushers.com/insights/instagram-aziende-b2b-ha-senso-come-usarlo.html",
    "title": "Instagram per aziende B2B: ha senso? Come usarlo davvero in un'azienda tecnica",
@@ -220,30 +244,6 @@
     "Lead generation B2B"
    ],
    "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/moduli-online-fogli-di-calcolo-automazioni-gratuite.html",
-   "url": "https://pen-pushers.com/insights/moduli-online-fogli-di-calcolo-automazioni-gratuite.html",
-   "title": "Moduli online collegati a fogli di calcolo: automazioni semplici con strumenti gratuiti",
-   "summary": "Come collegare un modulo online a un foglio di calcolo con Google Moduli o Microsoft Forms: rapporti d'intervento e richieste senza ricopiare nulla a mano.",
-   "image": "https://pen-pushers.com/insights/img/covers/moduli-online-fogli-di-calcolo-automazioni-gratuite.jpg",
-   "date_published": "2026-10-13",
-   "tags": [
-    "AI & automazioni"
-   ],
-   "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/naming-come-scegliere-nome-nuovo-servizio-prodotto.html",
-   "url": "https://pen-pushers.com/insights/naming-come-scegliere-nome-nuovo-servizio-prodotto.html",
-   "title": "Naming: come scegliere il nome di un nuovo servizio o prodotto (senza brutte sorprese)",
-   "summary": "Come scegliere il nome di un nuovo servizio o prodotto: tipi di nome, criteri per scartare, verifiche su marchi, dominio e Google, prova con clienti veri.",
-   "image": "https://pen-pushers.com/insights/img/covers/naming-come-scegliere-nome-nuovo-servizio-prodotto.jpg",
-   "date_published": "2026-10-13",
-   "tags": [
-    "Brand identity"
-   ],
-   "_mins": 6
   }
  ]
 }

@@ -1,26 +1,39 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
+- Elenchi di aziende per provincia: da dove partire per costruire una lista di prospect
+- Fiere di settore: come preparare i contatti prima e richiamarli dopo
+- Rivenditori e installatori: come trovare partner che ti portano clienti
 
 ## Siti web & SEO
+- Pagina "Zone servite": come farsi trovare nei comuni vicini senza pagine copia-incolla
+- Foto dei lavori sul sito: come sceglierle e descriverle per Google
 - Google Business Profile: guida passo per passo per aziende tecniche
 
 ## Brand identity
+- Furgoni e mezzi aziendali: come usarli come pubblicità senza sembrare improvvisati
+- Divise e abbigliamento da lavoro: quando l'immagine conta anche in cantiere
 
 ## AI & automazioni
+- Rapportini di intervento digitali: come passare dalla carta al telefono
+- Risposte automatiche alle richieste dal sito: cosa automatizzare e cosa no
+- AI per scrivere preventivi e offerte: dove aiuta e dove serve controllo
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Aziende movimento terra: come trovare imprese edili e general contractor
+- Lavanderie industriali e attrezzature per hotel: come raggiungere i responsabili acquisti
+- Impiantisti elettrici: come proporre manutenzione programmata ai condomini e alle aziende
 - Laboratori odontotecnici: come presentarsi agli studi dentistici
 - Installatori di cucine industriali: sito e pagine servizio che portano richieste
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
 
 ## Crescita & vendite
-- Come calcolare quanto vale un nuovo cliente per la tua azienda
+- Listino prezzi o preventivo su misura: quando conviene l'uno o l'altro
+- Clienti inattivi: come riattivare chi non chiama da un anno
 - Dal sopralluogo al preventivo firmato: un processo in 5 passi
 - KPI commerciali per una PMI: i 4 numeri da guardare ogni settimana
 
 ## Guide pratiche
+- Come preparare una presentazione aziendale in PDF di 4 pagine
 - Checklist: 10 cose da controllare nella presenza online della tua azienda
 - Come scrivere la pagina "Chi siamo" di un'azienda tecnica
 
@@ -61,3 +74,5 @@
 - Obiezione "abbiamo già un sito" / "abbiamo già un fornitore": cosa chiedere invece di criticare [fatto 2026-10-22]
 - Sito da telefono: i 5 errori che fanno scappare i clienti [fatto 2026-10-23]
 - Instagram per aziende B2B: ha senso? Come usarlo davvero [fatto 2026-10-23]
+- Aziende movimento terra: come trovare imprese edili e general contractor [fatto 2026-10-24]
+- Come calcolare quanto vale un nuovo cliente per la tua azienda [fatto 2026-10-24]
