@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  movimento-terra-come-trovare-imprese-edili-general-contractor: 200 https://images.unsplash.com/photo-1787841012432-27dc0d43073d?w=2000&q=85&fm=jpg image/jpeg
+OK movimento-terra-come-trovare-imprese-edili-general-contractor (1500, 2000)
+  quanto-vale-un-nuovo-cliente-come-calcolarlo-pmi: 200 https://images.unsplash.com/photo-1762831063004-bbd3ea38ba3a?w=2000&q=85&fm=jpg image/jpeg
+OK quanto-vale-un-nuovo-cliente-come-calcolarlo-pmi (2000, 1333)
+foto scaricate: 2, errori: 0
