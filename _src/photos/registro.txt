@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  elenchi-aziende-per-provincia-lista-prospect-b2b: 200 https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=2000&q=85&fm=jpg image/jpeg
+OK elenchi-aziende-per-provincia-lista-prospect-b2b (2000, 1335)
+  pagina-zone-servite-comuni-vicini-senza-pagine-copia-incolla: 200 https://images.unsplash.com/photo-1642009071428-119813340e22?w=2000&q=85&fm=jpg image/jpeg
+OK pagina-zone-servite-comuni-vicini-senza-pagine-copia-incolla (1333, 2000)
+foto scaricate: 2, errori: 0
