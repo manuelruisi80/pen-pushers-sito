@@ -1,5 +1,1 @@
-  furgoni-aziendali-pubblicita-grafica-mezzi: 200 https://images.unsplash.com/photo-1737513915304-a298b4fd5865?w=2000&q=85&fm=jpg image/jpeg
-OK furgoni-aziendali-pubblicita-grafica-mezzi (1577, 2000)
-  rapportini-intervento-digitali-dalla-carta-al-telefono: 200 https://images.pexels.com/photos/32497161/pexels-photo-32497161.jpeg?auto=compress&cs=tinysrgb&w=2000 image/jpeg
-OK rapportini-intervento-digitali-dalla-carta-al-telefono (2000, 1333)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
