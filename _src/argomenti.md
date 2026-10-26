@@ -9,11 +9,9 @@
 - Google Business Profile: guida passo per passo per aziende tecniche
 
 ## Brand identity
-- Furgoni e mezzi aziendali: come usarli come pubblicità senza sembrare improvvisati
 - Divise e abbigliamento da lavoro: quando l'immagine conta anche in cantiere
 
 ## AI & automazioni
-- Rapportini di intervento digitali: come passare dalla carta al telefono
 - Risposte automatiche alle richieste dal sito: cosa automatizzare e cosa no
 - AI per scrivere preventivi e offerte: dove aiuta e dove serve controllo
 
@@ -76,3 +74,5 @@
 - Come calcolare quanto vale un nuovo cliente per la tua azienda [fatto 2026-10-24]
 - Elenchi di aziende per provincia: da dove partire per costruire una lista di prospect [fatto 2026-10-25]
 - Pagina "Zone servite": come farsi trovare nei comuni vicini senza pagine copia-incolla [fatto 2026-10-25]
+- Furgoni e mezzi aziendali: come usarli come pubblicità senza sembrare improvvisati [fatto 2026-10-26]
+- Rapportini di intervento digitali: come passare dalla carta al telefono [fatto 2026-10-26]

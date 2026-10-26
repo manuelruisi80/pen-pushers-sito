@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/rapportini-intervento-digitali-dalla-carta-al-telefono.html",
+   "url": "https://pen-pushers.com/insights/rapportini-intervento-digitali-dalla-carta-al-telefono.html",
+   "title": "Rapportini di intervento digitali: come passare dalla carta al telefono",
+   "summary": "Come passare dai rapportini di carta a quelli sul telefono: quali campi tenere, che strumento scegliere, firma del cliente e documenti obbligatori.",
+   "image": "https://pen-pushers.com/insights/img/covers/rapportini-intervento-digitali-dalla-carta-al-telefono.jpg",
+   "date_published": "2026-10-26",
+   "tags": [
+    "AI & automazioni"
+   ],
+   "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/furgoni-aziendali-pubblicita-grafica-mezzi.html",
+   "url": "https://pen-pushers.com/insights/furgoni-aziendali-pubblicita-grafica-mezzi.html",
+   "title": "Furgoni aziendali come pubblicità: come usarli senza sembrare improvvisati",
+   "summary": "Come progettare la grafica dei furgoni aziendali: cosa scrivere, come rendere coerente la flotta e quali regole verificare prima di stampare.",
+   "image": "https://pen-pushers.com/insights/img/covers/furgoni-aziendali-pubblicita-grafica-mezzi.jpg",
+   "date_published": "2026-10-26",
+   "tags": [
+    "Brand identity"
+   ],
+   "_mins": 5
+  },
+  {
    "id": "https://pen-pushers.com/insights/pagina-zone-servite-comuni-vicini-senza-pagine-copia-incolla.html",
    "url": "https://pen-pushers.com/insights/pagina-zone-servite-comuni-vicini-senza-pagine-copia-incolla.html",
    "title": "Pagina \"Zone servite\": come farsi trovare nei comuni vicini senza pagine copia-incolla",
@@ -218,30 +242,6 @@
    "date_published": "2026-10-17",
    "tags": [
     "Lead generation B2B"
-   ],
-   "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/assistenza-celle-frigorifere-farsi-trovare-ristoranti-guasto.html",
-   "url": "https://pen-pushers.com/insights/assistenza-celle-frigorifere-farsi-trovare-ristoranti-guasto.html",
-   "title": "Assistenza celle frigorifere: come farsi trovare dai ristoranti in caso di guasto",
-   "summary": "Cella frigorifera guasta: il ristoratore cerca su Google e chiama chi risponde. Sei passi per farti trovare e trasformare l'urgenza in un contratto.",
-   "image": "https://pen-pushers.com/insights/img/covers/assistenza-celle-frigorifere-farsi-trovare-ristoranti-guasto.jpg",
-   "date_published": "2026-10-15",
-   "tags": [
-    "Settori · Ho.Re.Ca. tecnico"
-   ],
-   "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/agenti-ai-cosa-sono-cosa-possono-fare-azienda.html",
-   "url": "https://pen-pushers.com/insights/agenti-ai-cosa-sono-cosa-possono-fare-azienda.html",
-   "title": "Agenti AI: cosa sono e cosa possono fare (e non fare) per un'azienda",
-   "summary": "Cos'è un agente AI, in cosa è diverso da un chatbot e da un'automazione, cosa può fare in una PMI, dove serve ancora una persona e come provarlo.",
-   "image": "https://pen-pushers.com/insights/img/covers/agenti-ai-cosa-sono-cosa-possono-fare-azienda.jpg",
-   "date_published": "2026-10-15",
-   "tags": [
-    "AI & automazioni"
    ],
    "_mins": 6
   }
