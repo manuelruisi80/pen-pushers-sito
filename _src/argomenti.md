@@ -1,11 +1,9 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Fiere di settore: come preparare i contatti prima e richiamarli dopo
 - Rivenditori e installatori: come trovare partner che ti portano clienti
 
 ## Siti web & SEO
-- Foto dei lavori sul sito: come sceglierle e descriverle per Google
 - Google Business Profile: guida passo per passo per aziende tecniche
 
 ## Brand identity
@@ -76,3 +74,5 @@
 - Pagina "Zone servite": come farsi trovare nei comuni vicini senza pagine copia-incolla [fatto 2026-10-25]
 - Furgoni e mezzi aziendali: come usarli come pubblicità senza sembrare improvvisati [fatto 2026-10-26]
 - Rapportini di intervento digitali: come passare dalla carta al telefono [fatto 2026-10-26]
+- Fiere di settore: come preparare i contatti prima e richiamarli dopo [fatto 2026-10-27]
+- Foto dei lavori sul sito: come sceglierle e descriverle per Google [fatto 2026-10-27]
