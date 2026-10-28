@@ -1,5 +1,1 @@
-  divise-abbigliamento-da-lavoro-logo-immagine-aziendale: 200 https://images.unsplash.com/photo-1786550765584-b2cd482610e8?w=2000&q=85&fm=jpg image/jpeg
-OK divise-abbigliamento-da-lavoro-logo-immagine-aziendale (2000, 1250)
-  risposte-automatiche-richieste-sito-cosa-automatizzare: 200 https://images.unsplash.com/photo-1758598304704-8dc72fe16003?w=2000&q=85&fm=jpg image/jpeg
-OK risposte-automatiche-richieste-sito-cosa-automatizzare (2000, 1125)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
