@@ -7,10 +7,8 @@
 - Google Business Profile: guida passo per passo per aziende tecniche
 
 ## Brand identity
-- Divise e abbigliamento da lavoro: quando l'immagine conta anche in cantiere
 
 ## AI & automazioni
-- Risposte automatiche alle richieste dal sito: cosa automatizzare e cosa no
 - AI per scrivere preventivi e offerte: dove aiuta e dove serve controllo
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
@@ -76,3 +74,5 @@
 - Rapportini di intervento digitali: come passare dalla carta al telefono [fatto 2026-10-26]
 - Fiere di settore: come preparare i contatti prima e richiamarli dopo [fatto 2026-10-27]
 - Foto dei lavori sul sito: come sceglierle e descriverle per Google [fatto 2026-10-27]
+- Divise e abbigliamento da lavoro: quando l'immagine conta anche in cantiere [fatto 2026-10-28]
+- Risposte automatiche alle richieste dal sito: cosa automatizzare e cosa no [fatto 2026-10-28]
