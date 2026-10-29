@@ -1,10 +1,8 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Rivenditori e installatori: come trovare partner che ti portano clienti
 
 ## Siti web & SEO
-- Google Business Profile: guida passo per passo per aziende tecniche
 
 ## Brand identity
 
@@ -76,3 +74,5 @@
 - Foto dei lavori sul sito: come sceglierle e descriverle per Google [fatto 2026-10-27]
 - Divise e abbigliamento da lavoro: quando l'immagine conta anche in cantiere [fatto 2026-10-28]
 - Risposte automatiche alle richieste dal sito: cosa automatizzare e cosa no [fatto 2026-10-28]
+- Rivenditori e installatori: come trovare partner che ti portano clienti [fatto 2026-10-29]
+- Google Business Profile: cosa aggiornare ogni mese (manutenzione del profilo per aziende tecniche) [fatto 2026-10-29]
