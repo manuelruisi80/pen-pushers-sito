@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  google-business-profile-cosa-aggiornare-ogni-mese-azienda-tecnica: 200 https://images.unsplash.com/photo-1613683235585-b3904d476a70?w=2000&q=85&fm=jpg image/jpeg
+OK google-business-profile-cosa-aggiornare-ogni-mese-azienda-tecnica (2000, 1333)
+  partner-commerciali-installatori-rivenditori-che-portano-clienti: 200 https://images.unsplash.com/photo-1634324155916-f72eb921e022?w=2000&q=85&fm=jpg image/jpeg
+OK partner-commerciali-installatori-rivenditori-che-portano-clienti (2000, 1125)
+foto scaricate: 2, errori: 0
