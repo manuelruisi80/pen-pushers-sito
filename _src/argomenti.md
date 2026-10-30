@@ -7,10 +7,8 @@
 ## Brand identity
 
 ## AI & automazioni
-- AI per scrivere preventivi e offerte: dove aiuta e dove serve controllo
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Lavanderie industriali e attrezzature per hotel: come raggiungere i responsabili acquisti
 - Impiantisti elettrici: come proporre manutenzione programmata ai condomini e alle aziende
 - Laboratori odontotecnici: come presentarsi agli studi dentistici
 - Installatori di cucine industriali: sito e pagine servizio che portano richieste
@@ -76,3 +74,5 @@
 - Risposte automatiche alle richieste dal sito: cosa automatizzare e cosa no [fatto 2026-10-28]
 - Rivenditori e installatori: come trovare partner che ti portano clienti [fatto 2026-10-29]
 - Google Business Profile: cosa aggiornare ogni mese (manutenzione del profilo per aziende tecniche) [fatto 2026-10-29]
+- AI per scrivere preventivi e offerte: dove aiuta e dove serve controllo [fatto 2026-10-30]
+- Lavanderie industriali e attrezzature per hotel: come raggiungere i responsabili acquisti [fatto 2026-10-30]
