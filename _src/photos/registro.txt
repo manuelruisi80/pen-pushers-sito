@@ -1,5 +1,1 @@
-  ai-per-scrivere-preventivi-offerte-dove-aiuta-dove-serve-controllo: 200 https://images.unsplash.com/photo-1736667245201-2eea25a07f55?w=2000&q=85&fm=jpg image/jpeg
-OK ai-per-scrivere-preventivi-offerte-dove-aiuta-dove-serve-controllo (2000, 1125)
-  lavanderie-industriali-hotel-come-raggiungere-responsabili-acquisti: 200 https://images.unsplash.com/photo-1663068307522-1731d9c8fbc2?w=2000&q=85&fm=jpg image/jpeg
-OK lavanderie-industriali-hotel-come-raggiungere-responsabili-acquisti (2000, 1333)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
