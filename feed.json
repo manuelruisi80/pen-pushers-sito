@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/listino-prezzi-o-preventivo-su-misura-quando-conviene.html",
+   "url": "https://pen-pushers.com/insights/listino-prezzi-o-preventivo-su-misura-quando-conviene.html",
+   "title": "Listino prezzi o preventivo su misura: quando conviene l'uno o l'altro",
+   "summary": "Listino prezzi o preventivo su misura? Come scegliere per ogni tipo di lavoro, quando usare il prezzo \"a partire da\" e come rispondere più in fretta.",
+   "image": "https://pen-pushers.com/insights/img/covers/listino-prezzi-o-preventivo-su-misura-quando-conviene.jpg",
+   "date_published": "2026-10-31",
+   "tags": [
+    "Crescita & vendite"
+   ],
+   "_mins": 6
+  },
+  {
+   "id": "https://pen-pushers.com/insights/impiantisti-elettrici-manutenzione-programmata-condomini-aziende.html",
+   "url": "https://pen-pushers.com/insights/impiantisti-elettrici-manutenzione-programmata-condomini-aziende.html",
+   "title": "Impiantisti elettrici: come proporre la manutenzione programmata a condomini e aziende",
+   "summary": "Impiantisti elettrici: come creare e proporre un contratto di manutenzione programmata a condomini e aziende, con pacchetto, messaggi e primo passo.",
+   "image": "https://pen-pushers.com/insights/img/covers/impiantisti-elettrici-manutenzione-programmata-condomini-aziende.jpg",
+   "date_published": "2026-10-31",
+   "tags": [
+    "Settori · Impiantisti elettrici"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/ai-per-scrivere-preventivi-offerte-dove-aiuta-dove-serve-controllo.html",
    "url": "https://pen-pushers.com/insights/ai-per-scrivere-preventivi-offerte-dove-aiuta-dove-serve-controllo.html",
    "title": "AI per scrivere preventivi e offerte: dove aiuta davvero e dove serve controllo",
@@ -220,30 +244,6 @@
     "Settori · Antincendio"
    ],
    "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/dominio-hosting-email-aziendale-a-chi-intestarli.html",
-   "url": "https://pen-pushers.com/insights/dominio-hosting-email-aziendale-a-chi-intestarli.html",
-   "title": "Dominio, hosting ed email aziendale: cosa deve essere intestato all'azienda",
-   "summary": "Dominio a nome di un ex collaboratore? Come scoprire chi è il titolare, recuperare il codice AuthInfo e intestare dominio, hosting ed email alla società.",
-   "image": "https://pen-pushers.com/insights/img/covers/dominio-hosting-email-aziendale-a-chi-intestarli.jpg",
-   "date_published": "2026-10-21",
-   "tags": [
-    "Siti web & SEO"
-   ],
-   "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/gdpr-contatti-b2b-dati-pubblici-aziende-cosa-si-puo-fare.html",
-   "url": "https://pen-pushers.com/insights/gdpr-contatti-b2b-dati-pubblici-aziende-cosa-si-puo-fare.html",
-   "title": "GDPR e contatti B2B: cosa si può fare con i dati pubblici delle aziende",
-   "summary": "Email trovate sul web, liste comprate, telefonate: cosa dicono Garante e Registro delle opposizioni e come cercare clienti B2B in modo ordinato.",
-   "image": "https://pen-pushers.com/insights/img/covers/gdpr-contatti-b2b-dati-pubblici-aziende-cosa-si-puo-fare.jpg",
-   "date_published": "2026-10-21",
-   "tags": [
-    "Lead generation B2B"
-   ],
-   "_mins": 5
   }
  ]
 }

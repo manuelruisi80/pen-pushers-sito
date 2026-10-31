@@ -1,26 +1,39 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
+- Amministratori di condominio: come costruire un rapporto che porta lavori ricorrenti
+- Gare e albi fornitori di enti e grandi aziende: come iscriversi e cosa preparare
+- Email di presentazione a un ufficio acquisti: struttura e allegati giusti
 
 ## Siti web & SEO
+- Pagina "Lavori realizzati": come raccontare un intervento in modo utile a Google e ai clienti
+- Moduli di richiesta preventivo: quali campi chiedere per ricevere richieste serie
+- Domande frequenti sul sito: come sceglierle e scriverle per un'azienda tecnica
 
 ## Brand identity
+- Biglietti da visita nel 2026: servono ancora? Cosa metterci per un'azienda tecnica
+- Firma email aziendale: cosa inserire e cosa evitare
 
 ## AI & automazioni
+- Chatbot sul sito di un'azienda tecnica: quando ha senso e quando no
+- Trascrizione automatica dei sopralluoghi: dalla nota vocale al rapporto
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Impiantisti elettrici: come proporre manutenzione programmata ai condomini e alle aziende
+- Manutenzione macchine caffè professionali: come proporre contratti a bar e hotel
+- Assistenza lavastoviglie industriali: come farsi chiamare dai ristoranti prima del guasto
+- Climatizzazione per uffici e negozi: come proporre la manutenzione annuale
 - Laboratori odontotecnici: come presentarsi agli studi dentistici
 - Installatori di cucine industriali: sito e pagine servizio che portano richieste
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
 
 ## Crescita & vendite
-- Listino prezzi o preventivo su misura: quando conviene l'uno o l'altro
+- Contratti di assistenza annuale: come fissare il canone senza lavorare in perdita
 - Clienti inattivi: come riattivare chi non chiama da un anno
 - Dal sopralluogo al preventivo firmato: un processo in 5 passi
 - KPI commerciali per una PMI: i 4 numeri da guardare ogni settimana
 
 ## Guide pratiche
+- Come preparare un rapporto di sopralluogo che il cliente capisce
 - Come preparare una presentazione aziendale in PDF di 4 pagine
 - Checklist: 10 cose da controllare nella presenza online della tua azienda
 - Come scrivere la pagina "Chi siamo" di un'azienda tecnica
@@ -76,3 +89,5 @@
 - Google Business Profile: cosa aggiornare ogni mese (manutenzione del profilo per aziende tecniche) [fatto 2026-10-29]
 - AI per scrivere preventivi e offerte: dove aiuta e dove serve controllo [fatto 2026-10-30]
 - Lavanderie industriali e attrezzature per hotel: come raggiungere i responsabili acquisti [fatto 2026-10-30]
+- Impiantisti elettrici: come proporre manutenzione programmata ai condomini e alle aziende [fatto 2026-10-31]
+- Listino prezzi o preventivo su misura: quando conviene l'uno o l'altro [fatto 2026-10-31]
