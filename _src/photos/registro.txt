@@ -1,5 +1,1 @@
-  impiantisti-elettrici-manutenzione-programmata-condomini-aziende: 200 https://images.unsplash.com/photo-1758101755915-462eddc23f57?w=2000&q=85&fm=jpg image/jpeg
-OK impiantisti-elettrici-manutenzione-programmata-condomini-aziende (2000, 1500)
-  listino-prezzi-o-preventivo-su-misura-quando-conviene: 200 https://images.unsplash.com/photo-1562564055-71e051d33c19?w=2000&q=85&fm=jpg image/jpeg
-OK listino-prezzi-o-preventivo-su-misura-quando-conviene (2000, 1333)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
