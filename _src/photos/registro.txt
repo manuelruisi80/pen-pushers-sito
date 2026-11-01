@@ -1,5 +1,1 @@
-  albi-fornitori-gare-enti-come-iscriversi-cosa-preparare: 200 https://images.unsplash.com/photo-1758876020343-c8c2add9d527?w=2000&q=85&fm=jpg image/jpeg
-OK albi-fornitori-gare-enti-come-iscriversi-cosa-preparare (2000, 1125)
-  pagina-lavori-realizzati-come-raccontare-intervento-google-clienti: 200 https://images.unsplash.com/photo-1589109807644-924edf14ee09?w=2000&q=85&fm=jpg image/jpeg
-OK pagina-lavori-realizzati-come-raccontare-intervento-google-clienti (2000, 1416)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
