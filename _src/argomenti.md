@@ -2,11 +2,9 @@
 
 ## Lead generation B2B
 - Amministratori di condominio: come costruire un rapporto che porta lavori ricorrenti
-- Gare e albi fornitori di enti e grandi aziende: come iscriversi e cosa preparare
 - Email di presentazione a un ufficio acquisti: struttura e allegati giusti
 
 ## Siti web & SEO
-- Pagina "Lavori realizzati": come raccontare un intervento in modo utile a Google e ai clienti
 - Moduli di richiesta preventivo: quali campi chiedere per ricevere richieste serie
 - Domande frequenti sul sito: come sceglierle e scriverle per un'azienda tecnica
 
@@ -91,3 +89,5 @@
 - Lavanderie industriali e attrezzature per hotel: come raggiungere i responsabili acquisti [fatto 2026-10-30]
 - Impiantisti elettrici: come proporre manutenzione programmata ai condomini e alle aziende [fatto 2026-10-31]
 - Listino prezzi o preventivo su misura: quando conviene l'uno o l'altro [fatto 2026-10-31]
+- Gare e albi fornitori di enti e grandi aziende: come iscriversi e cosa preparare [fatto 2026-11-01]
+- Pagina "Lavori realizzati": come raccontare un intervento in modo utile a Google e ai clienti [fatto 2026-11-01]
