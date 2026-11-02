@@ -1,5 +1,1 @@
-  biglietti-da-visita-2026-cosa-metterci-azienda-tecnica: 200 https://images.unsplash.com/photo-1637070155805-e6fbee6ec2cf?w=2000&q=85&fm=jpg image/jpeg
-OK biglietti-da-visita-2026-cosa-metterci-azienda-tecnica (2000, 1293)
-  chatbot-sito-azienda-tecnica-quando-ha-senso: 200 https://images.unsplash.com/photo-1663524789611-2c8330848379?w=2000&q=85&fm=jpg image/jpeg
-OK chatbot-sito-azienda-tecnica-quando-ha-senso (2000, 1333)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
