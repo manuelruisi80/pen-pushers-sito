@@ -9,11 +9,9 @@
 - Domande frequenti sul sito: come sceglierle e scriverle per un'azienda tecnica
 
 ## Brand identity
-- Biglietti da visita nel 2026: servono ancora? Cosa metterci per un'azienda tecnica
 - Firma email aziendale: cosa inserire e cosa evitare
 
 ## AI & automazioni
-- Chatbot sul sito di un'azienda tecnica: quando ha senso e quando no
 - Trascrizione automatica dei sopralluoghi: dalla nota vocale al rapporto
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
@@ -91,3 +89,5 @@
 - Listino prezzi o preventivo su misura: quando conviene l'uno o l'altro [fatto 2026-10-31]
 - Gare e albi fornitori di enti e grandi aziende: come iscriversi e cosa preparare [fatto 2026-11-01]
 - Pagina "Lavori realizzati": come raccontare un intervento in modo utile a Google e ai clienti [fatto 2026-11-01]
+- Biglietti da visita nel 2026: servono ancora? Cosa metterci per un'azienda tecnica [fatto 2026-11-02]
+- Chatbot sul sito di un'azienda tecnica: quando ha senso e quando no [fatto 2026-11-02]
