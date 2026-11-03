@@ -1,11 +1,9 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Amministratori di condominio: come costruire un rapporto che porta lavori ricorrenti
 - Email di presentazione a un ufficio acquisti: struttura e allegati giusti
 
 ## Siti web & SEO
-- Moduli di richiesta preventivo: quali campi chiedere per ricevere richieste serie
 - Domande frequenti sul sito: come sceglierle e scriverle per un'azienda tecnica
 
 ## Brand identity
@@ -91,3 +89,5 @@
 - Pagina "Lavori realizzati": come raccontare un intervento in modo utile a Google e ai clienti [fatto 2026-11-01]
 - Biglietti da visita nel 2026: servono ancora? Cosa metterci per un'azienda tecnica [fatto 2026-11-02]
 - Chatbot sul sito di un'azienda tecnica: quando ha senso e quando no [fatto 2026-11-02]
+- Amministratori di condominio: come costruire un rapporto che porta lavori ricorrenti [fatto 2026-11-03]
+- Moduli di richiesta preventivo: quali campi chiedere per ricevere richieste serie [fatto 2026-11-03]
