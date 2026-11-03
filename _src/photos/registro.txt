@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  amministratori-di-condominio-rapporto-lavori-ricorrenti: 200 https://images.unsplash.com/photo-1757221254460-e1139728b25c?w=2000&q=85&fm=jpg image/jpeg
+OK amministratori-di-condominio-rapporto-lavori-ricorrenti (1333, 2000)
+  modulo-richiesta-preventivo-quali-campi-chiedere: 200 https://images.unsplash.com/photo-1782898669223-ab17b600d486?w=2000&q=85&fm=jpg image/jpeg
+OK modulo-richiesta-preventivo-quali-campi-chiedere (2000, 1333)
+foto scaricate: 2, errori: 0
