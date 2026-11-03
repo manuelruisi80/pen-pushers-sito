@@ -1,3 +1,1 @@
-  modulo-richiesta-preventivo-quali-campi-chiedere: 200 https://images.unsplash.com/photo-1706777373963-63bd4befea4e?w=2000&q=85&fm=jpg image/jpeg
-OK modulo-richiesta-preventivo-quali-campi-chiedere (2000, 1333)
-foto scaricate: 1, errori: 0
+foto scaricate: 0, errori: 0
