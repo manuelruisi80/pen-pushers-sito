@@ -7,10 +7,8 @@
 - Domande frequenti sul sito: come sceglierle e scriverle per un'azienda tecnica
 
 ## Brand identity
-- Firma email aziendale: cosa inserire e cosa evitare
 
 ## AI & automazioni
-- Trascrizione automatica dei sopralluoghi: dalla nota vocale al rapporto
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
 - Manutenzione macchine caffè professionali: come proporre contratti a bar e hotel
@@ -91,3 +89,5 @@
 - Chatbot sul sito di un'azienda tecnica: quando ha senso e quando no [fatto 2026-11-02]
 - Amministratori di condominio: come costruire un rapporto che porta lavori ricorrenti [fatto 2026-11-03]
 - Moduli di richiesta preventivo: quali campi chiedere per ricevere richieste serie [fatto 2026-11-03]
+- Firma email aziendale: cosa inserire e cosa evitare [fatto 2026-11-04]
+- Trascrizione automatica dei sopralluoghi: dalla nota vocale al rapporto [fatto 2026-11-04]
