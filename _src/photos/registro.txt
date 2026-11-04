@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  firma-email-aziendale-cosa-inserire-cosa-evitare: 200 https://images.unsplash.com/photo-1773158742082-6f26389f7492?w=2000&q=85&fm=jpg image/jpeg
+OK firma-email-aziendale-cosa-inserire-cosa-evitare (2000, 1600)
+  trascrizione-automatica-sopralluoghi-nota-vocale-rapporto: 200 https://images.unsplash.com/photo-1621905253185-95614217f357?w=2000&q=85&fm=jpg image/jpeg
+OK trascrizione-automatica-sopralluoghi-nota-vocale-rapporto (1335, 2000)
+foto scaricate: 2, errori: 0
