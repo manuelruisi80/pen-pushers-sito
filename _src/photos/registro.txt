@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  domande-frequenti-sito-azienda-tecnica-come-scriverle: 200 https://images.unsplash.com/photo-1758876201729-e60eaf5f9194?w=2000&q=85&fm=jpg image/jpeg
+OK domande-frequenti-sito-azienda-tecnica-come-scriverle (2000, 1125)
+  email-presentazione-ufficio-acquisti-struttura-allegati: 200 https://images.unsplash.com/photo-1654686474914-bb98f6280d10?w=2000&q=85&fm=jpg image/jpeg
+OK email-presentazione-ufficio-acquisti-struttura-allegati (2000, 1334)
+foto scaricate: 2, errori: 0
