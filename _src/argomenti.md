@@ -1,10 +1,8 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Email di presentazione a un ufficio acquisti: struttura e allegati giusti
 
 ## Siti web & SEO
-- Domande frequenti sul sito: come sceglierle e scriverle per un'azienda tecnica
 
 ## Brand identity
 
@@ -91,3 +89,5 @@
 - Moduli di richiesta preventivo: quali campi chiedere per ricevere richieste serie [fatto 2026-11-03]
 - Firma email aziendale: cosa inserire e cosa evitare [fatto 2026-11-04]
 - Trascrizione automatica dei sopralluoghi: dalla nota vocale al rapporto [fatto 2026-11-04]
+- Email di presentazione a un ufficio acquisti: struttura e allegati giusti [fatto 2026-11-05]
+- Domande frequenti sul sito: come sceglierle e scriverle per un'azienda tecnica [fatto 2026-11-05]
