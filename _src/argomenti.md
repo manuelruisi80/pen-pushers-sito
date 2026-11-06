@@ -9,7 +9,6 @@
 ## AI & automazioni
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Manutenzione macchine caffè professionali: come proporre contratti a bar e hotel
 - Assistenza lavastoviglie industriali: come farsi chiamare dai ristoranti prima del guasto
 - Climatizzazione per uffici e negozi: come proporre la manutenzione annuale
 - Laboratori odontotecnici: come presentarsi agli studi dentistici
@@ -17,7 +16,6 @@
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
 
 ## Crescita & vendite
-- Contratti di assistenza annuale: come fissare il canone senza lavorare in perdita
 - Clienti inattivi: come riattivare chi non chiama da un anno
 - Dal sopralluogo al preventivo firmato: un processo in 5 passi
 - KPI commerciali per una PMI: i 4 numeri da guardare ogni settimana
@@ -91,3 +89,5 @@
 - Trascrizione automatica dei sopralluoghi: dalla nota vocale al rapporto [fatto 2026-11-04]
 - Email di presentazione a un ufficio acquisti: struttura e allegati giusti [fatto 2026-11-05]
 - Domande frequenti sul sito: come sceglierle e scriverle per un'azienda tecnica [fatto 2026-11-05]
+- Manutenzione macchine caffè professionali: come proporre contratti a bar e hotel [fatto 2026-11-06]
+- Contratti di assistenza annuale: come fissare il canone senza lavorare in perdita [fatto 2026-11-06]
