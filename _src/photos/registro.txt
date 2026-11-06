@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  contratti-assistenza-annuale-come-calcolare-canone: 200 https://images.unsplash.com/photo-1748002757537-00ab5114135b?w=2000&q=85&fm=jpg image/jpeg
+OK contratti-assistenza-annuale-come-calcolare-canone (2000, 1333)
+  manutenzione-macchine-caffe-professionali-contratti-bar-hotel: 200 https://images.unsplash.com/photo-1754847307554-314a05e2ced6?w=2000&q=85&fm=jpg image/jpeg
+OK manutenzione-macchine-caffe-professionali-contratti-bar-hotel (1334, 2000)
+foto scaricate: 2, errori: 0
