@@ -16,13 +16,11 @@
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
 
 ## Crescita & vendite
-- Clienti inattivi: come riattivare chi non chiama da un anno
 - Dal sopralluogo al preventivo firmato: un processo in 5 passi
 - KPI commerciali per una PMI: i 4 numeri da guardare ogni settimana
 
 ## Guide pratiche
 - Come preparare un rapporto di sopralluogo che il cliente capisce
-- Come preparare una presentazione aziendale in PDF di 4 pagine
 - Checklist: 10 cose da controllare nella presenza online della tua azienda
 - Come scrivere la pagina "Chi siamo" di un'azienda tecnica
 
@@ -91,3 +89,5 @@
 - Domande frequenti sul sito: come sceglierle e scriverle per un'azienda tecnica [fatto 2026-11-05]
 - Manutenzione macchine caffè professionali: come proporre contratti a bar e hotel [fatto 2026-11-06]
 - Contratti di assistenza annuale: come fissare il canone senza lavorare in perdita [fatto 2026-11-06]
+- Clienti inattivi: come riattivare chi non chiama da un anno [fatto 2026-11-07]
+- Come preparare una presentazione aziendale in PDF di 4 pagine [fatto 2026-11-07]
