@@ -1,5 +1,1 @@
-  clienti-inattivi-come-riattivare-chi-non-chiama-da-un-anno: 200 https://images.unsplash.com/photo-1758874383719-7c801adb7e5c?w=2000&q=85&fm=jpg image/jpeg
-OK clienti-inattivi-come-riattivare-chi-non-chiama-da-un-anno (2000, 1125)
-  presentazione-aziendale-pdf-4-pagine-come-prepararla: 200 https://images.unsplash.com/photo-1775163024488-e88e4a71179f?w=2000&q=85&fm=jpg image/jpeg
-OK presentazione-aziendale-pdf-4-pagine-come-prepararla (2000, 1333)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
