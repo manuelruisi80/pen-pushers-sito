@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  assistenza-lavastoviglie-industriali-ristoranti-prima-del-guasto: 200 https://images.unsplash.com/photo-1589109807644-924edf14ee09?w=2000&q=85&fm=jpg image/jpeg
+OK assistenza-lavastoviglie-industriali-ristoranti-prima-del-guasto (2000, 1416)
+  dal-sopralluogo-al-preventivo-firmato-processo-5-passi: 200 https://images.unsplash.com/photo-1748027869634-fc2e545cfb0c?w=2000&q=85&fm=jpg image/jpeg
+OK dal-sopralluogo-al-preventivo-firmato-processo-5-passi (2000, 1091)
+foto scaricate: 2, errori: 0
