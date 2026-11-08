@@ -1,28 +1,41 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
+- Hotel in ristrutturazione: come intercettarli per forniture e impianti
+- Liste di prospect: come tenerle pulite e aggiornate nel tempo
+- Ricerca lead per zona: come scegliere le province su cui concentrarsi
 
 ## Siti web & SEO
+- Pagina servizio per un'azienda tecnica: struttura e testi che portano richieste
+- Google Search Console per titolari: i 3 report da guardare
+- Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti
 
 ## Brand identity
+- Colori aziendali: come sceglierli e usarli in modo coerente
+- Preventivo con l'immagine coordinata: come presentare un'offerta curata
+- Rebranding di un'azienda tecnica: quando serve e come farlo senza perdere clienti
 
 ## AI & automazioni
+- Archiviare le email dei clienti in automatico nel CRM
+- AI per rispondere alle recensioni Google: come usarla senza sembrare un robot
+- Report settimanale automatico per il titolare: quali dati raccogliere
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Assistenza lavastoviglie industriali: come farsi chiamare dai ristoranti prima del guasto
 - Climatizzazione per uffici e negozi: come proporre la manutenzione annuale
 - Laboratori odontotecnici: come presentarsi agli studi dentistici
 - Installatori di cucine industriali: sito e pagine servizio che portano richieste
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
+- Assistenza forni professionali: come proporre la manutenzione a ristoranti e panifici
+- Trattamento acqua per ristoranti e bar: come spiegare il servizio al cliente
 
 ## Crescita & vendite
-- Dal sopralluogo al preventivo firmato: un processo in 5 passi
 - KPI commerciali per una PMI: i 4 numeri da guardare ogni settimana
 
 ## Guide pratiche
 - Come preparare un rapporto di sopralluogo che il cliente capisce
 - Checklist: 10 cose da controllare nella presenza online della tua azienda
 - Come scrivere la pagina "Chi siamo" di un'azienda tecnica
+- Come organizzare l'archivio foto dei lavori per usarle su sito e social
 
 ## Fatti
 - Logo o marchio registrato? Differenze spiegate a un imprenditore [fatto 2026-10-05]
@@ -91,3 +104,5 @@
 - Contratti di assistenza annuale: come fissare il canone senza lavorare in perdita [fatto 2026-11-06]
 - Clienti inattivi: come riattivare chi non chiama da un anno [fatto 2026-11-07]
 - Come preparare una presentazione aziendale in PDF di 4 pagine [fatto 2026-11-07]
+- Assistenza lavastoviglie industriali: come farsi chiamare dai ristoranti prima del guasto [fatto 2026-11-08]
+- Dal sopralluogo al preventivo firmato: un processo in 5 passi [fatto 2026-11-08]
