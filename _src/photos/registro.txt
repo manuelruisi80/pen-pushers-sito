@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  hotel-in-ristrutturazione-come-intercettarli-forniture-impianti: 200 https://images.unsplash.com/photo-1768321902290-54497eeb9cf6?w=2000&q=85&fm=jpg image/jpeg
+OK hotel-in-ristrutturazione-come-intercettarli-forniture-impianti (2000, 1499)
+  pagina-servizio-azienda-tecnica-struttura-testi-che-portano-richieste: 200 https://images.unsplash.com/photo-1748348713828-12035b2d0a57?w=2000&q=85&fm=jpg image/jpeg
+OK pagina-servizio-azienda-tecnica-struttura-testi-che-portano-richieste (2000, 1333)
+foto scaricate: 2, errori: 0
