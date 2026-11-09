@@ -1,12 +1,10 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Hotel in ristrutturazione: come intercettarli per forniture e impianti
 - Liste di prospect: come tenerle pulite e aggiornate nel tempo
 - Ricerca lead per zona: come scegliere le province su cui concentrarsi
 
 ## Siti web & SEO
-- Pagina servizio per un'azienda tecnica: struttura e testi che portano richieste
 - Google Search Console per titolari: i 3 report da guardare
 - Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti
 
@@ -106,3 +104,5 @@
 - Come preparare una presentazione aziendale in PDF di 4 pagine [fatto 2026-11-07]
 - Assistenza lavastoviglie industriali: come farsi chiamare dai ristoranti prima del guasto [fatto 2026-11-08]
 - Dal sopralluogo al preventivo firmato: un processo in 5 passi [fatto 2026-11-08]
+- Hotel in ristrutturazione: come intercettarli per forniture e impianti [fatto 2026-11-09]
+- Pagina servizio per un'azienda tecnica: struttura e testi che portano richieste [fatto 2026-11-09]
