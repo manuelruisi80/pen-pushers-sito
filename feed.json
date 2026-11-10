@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/archiviare-email-clienti-automatico-crm.html",
+   "url": "https://pen-pushers.com/insights/archiviare-email-clienti-automatico-crm.html",
+   "title": "Archiviare le email dei clienti in automatico nel CRM: come farlo in 5 passi",
+   "summary": "Come portare in automatico nel CRM le email importanti dei clienti: quali archiviare, come collegare la posta, dove aiuta l'AI e cosa controllare.",
+   "image": "https://pen-pushers.com/insights/img/covers/archiviare-email-clienti-automatico-crm.jpg",
+   "date_published": "2026-11-10",
+   "tags": [
+    "AI & automazioni"
+   ],
+   "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/colori-aziendali-come-sceglierli-usarli-in-modo-coerente.html",
+   "url": "https://pen-pushers.com/insights/colori-aziendali-come-sceglierli-usarli-in-modo-coerente.html",
+   "title": "Colori aziendali: come sceglierli e usarli in modo coerente su ogni materiale",
+   "summary": "Come scegliere i colori aziendali di una PMI, fissare i codici per schermo e stampa, controllare la leggibilità e usarli in modo coerente ovunque.",
+   "image": "https://pen-pushers.com/insights/img/covers/colori-aziendali-come-sceglierli-usarli-in-modo-coerente.jpg",
+   "date_published": "2026-11-10",
+   "tags": [
+    "Brand identity"
+   ],
+   "_mins": 5
+  },
+  {
    "id": "https://pen-pushers.com/insights/pagina-servizio-azienda-tecnica-struttura-testi-che-portano-richieste.html",
    "url": "https://pen-pushers.com/insights/pagina-servizio-azienda-tecnica-struttura-testi-che-portano-richieste.html",
    "title": "Pagina servizio per un'azienda tecnica: struttura e testi che portano richieste",
@@ -220,30 +244,6 @@
     "Lead generation B2B"
    ],
    "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/listino-prezzi-o-preventivo-su-misura-quando-conviene.html",
-   "url": "https://pen-pushers.com/insights/listino-prezzi-o-preventivo-su-misura-quando-conviene.html",
-   "title": "Listino prezzi o preventivo su misura: quando conviene l'uno o l'altro",
-   "summary": "Listino prezzi o preventivo su misura? Come scegliere per ogni tipo di lavoro, quando usare il prezzo \"a partire da\" e come rispondere più in fretta.",
-   "image": "https://pen-pushers.com/insights/img/covers/listino-prezzi-o-preventivo-su-misura-quando-conviene.jpg",
-   "date_published": "2026-10-31",
-   "tags": [
-    "Crescita & vendite"
-   ],
-   "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/impiantisti-elettrici-manutenzione-programmata-condomini-aziende.html",
-   "url": "https://pen-pushers.com/insights/impiantisti-elettrici-manutenzione-programmata-condomini-aziende.html",
-   "title": "Impiantisti elettrici: come proporre la manutenzione programmata a condomini e aziende",
-   "summary": "Impiantisti elettrici: come creare e proporre un contratto di manutenzione programmata a condomini e aziende, con pacchetto, messaggi e primo passo.",
-   "image": "https://pen-pushers.com/insights/img/covers/impiantisti-elettrici-manutenzione-programmata-condomini-aziende.jpg",
-   "date_published": "2026-10-31",
-   "tags": [
-    "Settori · Impiantisti elettrici"
-   ],
-   "_mins": 6
   }
  ]
 }

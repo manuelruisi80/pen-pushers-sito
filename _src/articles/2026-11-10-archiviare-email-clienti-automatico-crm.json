@@ -1,0 +1,56 @@
+{
+  "slug": "archiviare-email-clienti-automatico-crm",
+  "date": "2026-11-10",
+  "time": "09:30",
+  "cat": "AI & automazioni",
+  "title": "Archiviare le email dei clienti in automatico nel CRM: come farlo in 5 passi",
+  "seo_title": "Email dei clienti nel CRM in automatico | Pen-Pushers Publishing",
+  "desc": "Come portare in automatico nel CRM le email importanti dei clienti: quali archiviare, come collegare la posta, dove aiuta l'AI e cosa controllare.",
+  "lead": "Il preventivo l'ha mandato il tecnico, la risposta è finita all'amministrazione, il sollecito nella casella info. Quando le email restano sparse, la storia del cliente si perde. Ecco come archiviarle in automatico nel CRM, senza riempirlo di rumore.",
+  "mins": 5,
+  "motif": "network",
+  "ig_hook": "Il preventivo? Era nella casella del tecnico.",
+  "ig_caption": "Il cliente chiama per il preventivo di settembre. Nessuno lo trova: era nella casella di un collega.\n\nCome portare le email dei clienti nel CRM in automatico:\n• decidi prima quali email contano (e quali no)\n• scegli un meccanismo: copia nascosta, regola di inoltro o integrazione\n• tieni aggiornati gli indirizzi dei referenti\n• usa l'AI per riassumere, non per decidere\n• prova due settimane, poi sistema i filtri\n\nArticolo completo su pen-pushers.com/insights (link in bio)\n\n#crm #automazioni #emailmarketing #pmiitaliane #aziendetecniche #intelligenzaartificiale #organizzazioneaziendale #digitalizzazione #PenPushersPublishing",
+  "cta_title": "Vuoi la storia di ogni cliente in un posto solo?",
+  "cta_text": "Con KRELIA installiamo un CRM pensato per le PMI B2B, con anagrafica ordinata e contatti in un unico archivio. Per automazioni su misura tra posta, CRM e AI lavoriamo con Innovation e 404brain.",
+  "body_html": "<h2>Il problema: la storia del cliente è sparsa in cinque caselle email</h2>\n<p>Un'azienda di manutenzione di cucine professionali riceve una telefonata da un ristorante: \"Vi avevamo scritto a settembre per il preventivo della cappa, che fine ha fatto?\". Il titolare cerca nella sua casella e non trova nulla. Il preventivo l'aveva mandato il tecnico, dalla sua email. La risposta del cliente è finita nella casella dell'amministrazione. Il sollecito, in quella generica \"info@\".</p>\n<p>Nessuno ha sbagliato davvero. Il problema è che le email restano nelle caselle personali, mentre la storia del cliente dovrebbe stare in un posto solo, consultabile da chi ne ha bisogno. Quel posto è il CRM. E il modo per non dipendere dalla buona volontà di ciascuno è archiviare le email in automatico.</p>\n\n<h2>Perché le email non arrivano mai nel CRM</h2>\n<ul>\n<li><strong>Si conta sul copia-incolla.</strong> \"Ricordati di salvare l'email nella scheda del cliente\" funziona per una settimana, poi le giornate piene vincono.</li>\n<li><strong>Ognuno usa la propria casella.</strong> Titolare, tecnici e amministrazione scrivono ai clienti da indirizzi diversi, e nessuno vede le conversazioni degli altri.</li>\n<li><strong>Il CRM è scollegato dalla posta.</strong> Se per registrare un'email bisogna aprire un altro programma, cercare la scheda e incollare il testo, non lo farà nessuno.</li>\n<li><strong>Si vuole archiviare tutto.</strong> Newsletter, fatture dei fornitori e notifiche finiscono mescolate alle conversazioni importanti, e il CRM diventa illeggibile.</li>\n</ul>\n\n<h2>Il metodo in 5 passi</h2>\n<h3>1. Decidi quali email contano</h3>\n<p>Non tutte le email vanno nel CRM. Di solito servono:</p>\n<ul>\n<li>richieste di preventivo e risposte dei clienti;</li>\n<li>preventivi inviati e conferme d'ordine;</li>\n<li>segnalazioni di guasto e richieste di intervento;</li>\n<li>accordi presi per iscritto (date, prezzi, condizioni).</li>\n</ul>\n<p>Restano fuori newsletter, pubblicità, comunicazioni interne e posta personale. Scrivere questa lista prima di toccare qualsiasi impostazione evita di riempire il CRM di rumore.</p>\n\n<h3>2. Scegli il meccanismo di collegamento</h3>\n<p>Ci sono tre strade principali, dalla più semplice alla più completa:</p>\n<ul>\n<li><strong>Indirizzo di archiviazione del CRM.</strong> Molti CRM offrono un indirizzo email dedicato: tutto ciò che gli arriva, in copia o inoltrato, viene registrato e associato al contatto in base all'indirizzo del mittente o del destinatario. Basta mettere quell'indirizzo in copia nascosta (CCN) quando scrivi a un cliente.</li>\n<li><strong>Regole di inoltro della posta.</strong> Gmail permette di creare filtri che inoltrano automaticamente le email che corrispondono a determinati criteri, per esempio quelle che arrivano da un certo dominio o che contengono \"preventivo\" nell'oggetto. L'indirizzo di inoltro va prima aggiunto e verificato, e il filtro vale solo per le email nuove, non per quelle già ricevute. Anche Outlook consente di creare regole che inoltrano i messaggi in automatico.</li>\n<li><strong>Integrazione diretta tra casella e CRM.</strong> Alcuni CRM si collegano all'account di posta e sincronizzano le conversazioni con i contatti già presenti in anagrafica. È la soluzione più comoda, ma va configurata con attenzione a chi vede cosa.</li>\n</ul>\n<p>Se in azienda c'è chi gestisce la posta, chiedi prima a lui: alcune configurazioni aziendali limitano l'inoltro automatico verso indirizzi esterni.</p>\n\n<h3>3. Collega ogni email alla scheda giusta</h3>\n<p>L'archiviazione funziona solo se il CRM riconosce il cliente. Per questo l'anagrafica deve avere gli indirizzi email corretti dei referenti: titolare, ufficio acquisti, amministrazione. Quando arriva un'email da un indirizzo sconosciuto ma dallo stesso dominio di un cliente, conviene che finisca in una lista \"da assegnare\" che qualcuno controlla una volta al giorno, invece di creare contatti doppi. Se stai ancora scegliendo uno strumento, nell'articolo su <a href=\"/insights/crm-per-pmi-cosa-serve-davvero.html\">cosa serve davvero in un CRM per PMI</a> trovi le funzioni da guardare.</p>\n\n<h3>4. Usa l'AI per riassumere, non per decidere</h3>\n<p>Una volta che le email arrivano nel CRM, l'intelligenza artificiale può dare una mano concreta:</p>\n<ul>\n<li>riassumere in tre righe una conversazione lunga, così chi riprende il cliente capisce subito a che punto si è;</li>\n<li>proporre una categoria (richiesta di preventivo, guasto, reclamo, amministrazione);</li>\n<li>evidenziare date, importi o impegni presi, da trasformare in promemoria.</li>\n</ul>\n<p>Sono proposte, non verità. Una persona deve poter correggere la categoria o il riassunto, e le decisioni (cosa rispondere, che prezzo fare) restano a chi conosce il cliente. Prima di usare uno strumento AI sulle email dei clienti, verifica dove vengono elaborati i dati e se le condizioni d'uso sono compatibili con le regole della tua azienda sulla privacy.</p>\n\n<h3>5. Prova per due settimane, poi sistema</h3>\n<p>Attiva l'archiviazione su un gruppo ristretto, per esempio titolare e un tecnico. Dopo due settimane apri dieci schede cliente a caso e controlla: le email importanti ci sono? Ci sono email che non dovevano esserci? Ci sono contatti doppi? Correggi i filtri e solo dopo estendi a tutti.</p>\n\n<div class=\"box\"><span class=\"mono\">Checklist</span>\n<ul>\n<li>Lista scritta delle email da archiviare e di quelle da escludere.</li>\n<li>Un solo meccanismo scelto: CCN, regola di inoltro o integrazione diretta.</li>\n<li>Anagrafica con gli indirizzi email corretti dei referenti.</li>\n<li>Una lista \"da assegnare\" controllata ogni giorno.</li>\n<li>AI usata per riassunti e categorie, sempre correggibili.</li>\n<li>Verifica a campione dopo due settimane.</li>\n</ul>\n</div>\n\n<h2>Cosa aspettarsi, in modo onesto</h2>\n<p>Archiviare le email in automatico non fa vendere di più da solo. Quello che cambia è la continuità: quando un cliente chiama, chiunque risponda può aprire la scheda e vedere cosa gli è stato scritto, da chi e quando. Si perdono meno preventivi per strada e si dipende meno dalla memoria di una singola persona, cosa che pesa soprattutto quando qualcuno è in ferie o lascia l'azienda.</p>\n<p>Le prime settimane richiedono qualche aggiustamento ai filtri. È normale: ogni azienda scrive ai clienti in modo diverso, e le regole vanno adattate a come lavorate davvero. Se vuoi partire da un CRM già pensato per le aziende B2B, puoi guardare <a href=\"/servizi/krelia-lead-generation-b2b.html\">KRELIA</a>; se invece ti serve collegare posta, gestionale e strumenti AI con flussi su misura, è il lavoro del servizio <a href=\"/servizi/innovation-automazioni-ai.html\">Innovation, automazioni e AI</a>.</p>\n",
+  "faq": [
+    {
+      "q": "Serve un CRM costoso per archiviare le email in automatico?",
+      "a": "Non necessariamente. Molti CRM offrono un indirizzo di archiviazione o un collegamento con la casella di posta. Conta di più scegliere bene quali email archiviare e tenere pulita l'anagrafica dei contatti."
+    },
+    {
+      "q": "Un filtro di Gmail archivia anche le email vecchie?",
+      "a": "No. Secondo la guida di Gmail, quando crei un filtro che inoltra i messaggi vengono coinvolti solo quelli nuovi. Le email già ricevute vanno importate in altro modo, se il CRM lo consente."
+    },
+    {
+      "q": "Tutti i dipendenti vedranno tutte le email dei clienti?",
+      "a": "Dipende da come configuri il CRM. Conviene decidere prima chi può vedere quali conversazioni, ed escludere dall'archiviazione la posta personale e le comunicazioni interne."
+    },
+    {
+      "q": "Posso usare l'AI per rispondere direttamente ai clienti?",
+      "a": "Può aiutarti a preparare una bozza, ma la risposta va sempre letta e approvata da una persona. Prima di usare uno strumento AI sulle email dei clienti, verifica dove vengono trattati i dati."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guida di Gmail, Creare regole per filtrare le email",
+      "url": "https://support.google.com/mail/answer/6579?hl=it"
+    },
+    {
+      "title": "Guida di Gmail, Inoltrare automaticamente i messaggi Gmail a un altro account",
+      "url": "https://support.google.com/mail/answer/10957?hl=it"
+    },
+    {
+      "title": "Supporto Microsoft, Usare le regole per inoltrare automaticamente i messaggi",
+      "url": "https://support.microsoft.com/office/45aa9664-4911-4f96-9663-ece42816d746"
+    }
+  ],
+  "photo": {
+    "url": "https://images.unsplash.com/photo-1600267165477-6d4cc741b379?w=2000&q=85&fm=jpg",
+    "author": "Compagnons",
+    "source": "Unsplash",
+    "page": "https://unsplash.com/photos/person-using-black-laptop-computer-59yRYIHWtzY",
+    "focus": 0.5
+  }
+}

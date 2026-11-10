@@ -9,12 +9,10 @@
 - Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti
 
 ## Brand identity
-- Colori aziendali: come sceglierli e usarli in modo coerente
 - Preventivo con l'immagine coordinata: come presentare un'offerta curata
 - Rebranding di un'azienda tecnica: quando serve e come farlo senza perdere clienti
 
 ## AI & automazioni
-- Archiviare le email dei clienti in automatico nel CRM
 - AI per rispondere alle recensioni Google: come usarla senza sembrare un robot
 - Report settimanale automatico per il titolare: quali dati raccogliere
 
@@ -106,3 +104,5 @@
 - Dal sopralluogo al preventivo firmato: un processo in 5 passi [fatto 2026-11-08]
 - Hotel in ristrutturazione: come intercettarli per forniture e impianti [fatto 2026-11-09]
 - Pagina servizio per un'azienda tecnica: struttura e testi che portano richieste [fatto 2026-11-09]
+- Colori aziendali: come sceglierli e usarli in modo coerente [fatto 2026-11-10]
+- Archiviare le email dei clienti in automatico nel CRM [fatto 2026-11-10]
