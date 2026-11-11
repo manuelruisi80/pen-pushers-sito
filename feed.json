@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/google-search-console-titolari-3-report-da-guardare.html",
+   "url": "https://pen-pushers.com/insights/google-search-console-titolari-3-report-da-guardare.html",
+   "title": "Google Search Console per titolari: i 3 report da guardare ogni mese",
+   "summary": "Search Console spiegata a un titolare d'azienda: cosa guardare nei report Rendimento, Indicizzazione delle pagine e Core Web Vitals in 10 minuti al mese.",
+   "image": "https://pen-pushers.com/insights/img/covers/google-search-console-titolari-3-report-da-guardare.jpg",
+   "date_published": "2026-11-11",
+   "tags": [
+    "Siti web & SEO"
+   ],
+   "_mins": 6
+  },
+  {
+   "id": "https://pen-pushers.com/insights/liste-prospect-b2b-come-tenerle-pulite-aggiornate.html",
+   "url": "https://pen-pushers.com/insights/liste-prospect-b2b-come-tenerle-pulite-aggiornate.html",
+   "title": "Liste di prospect B2B: come tenerle pulite e aggiornate nel tempo",
+   "summary": "Come pulire e aggiornare una lista di prospect B2B: campi essenziali, doppioni, esiti dei contatti, richieste di non ricontatto e controlli periodici.",
+   "image": "https://pen-pushers.com/insights/img/covers/liste-prospect-b2b-come-tenerle-pulite-aggiornate.jpg",
+   "date_published": "2026-11-11",
+   "tags": [
+    "Lead generation B2B"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/archiviare-email-clienti-automatico-crm.html",
    "url": "https://pen-pushers.com/insights/archiviare-email-clienti-automatico-crm.html",
    "title": "Archiviare le email dei clienti in automatico nel CRM: come farlo in 5 passi",
@@ -220,30 +244,6 @@
     "Brand identity"
    ],
    "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/pagina-lavori-realizzati-come-raccontare-intervento-google-clienti.html",
-   "url": "https://pen-pushers.com/insights/pagina-lavori-realizzati-come-raccontare-intervento-google-clienti.html",
-   "title": "Pagina \"Lavori realizzati\": come raccontare un intervento utile a Google e ai clienti",
-   "summary": "Come trasformare la pagina \"Lavori realizzati\" in schede che convincono: struttura in 4 parti, titoli, foto, link ai servizi e permesso dei clienti.",
-   "image": "https://pen-pushers.com/insights/img/covers/pagina-lavori-realizzati-come-raccontare-intervento-google-clienti.jpg",
-   "date_published": "2026-11-01",
-   "tags": [
-    "Siti web & SEO"
-   ],
-   "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/albi-fornitori-gare-enti-come-iscriversi-cosa-preparare.html",
-   "url": "https://pen-pushers.com/insights/albi-fornitori-gare-enti-come-iscriversi-cosa-preparare.html",
-   "title": "Albi fornitori e gare: come iscriversi e cosa preparare (guida per PMI tecniche)",
-   "summary": "Albi fornitori di enti e grandi aziende, MePA e affidamenti diretti: dove iscriversi, quali documenti preparare e come rispondere agli inviti delle PA.",
-   "image": "https://pen-pushers.com/insights/img/covers/albi-fornitori-gare-enti-come-iscriversi-cosa-preparare.jpg",
-   "date_published": "2026-11-01",
-   "tags": [
-    "Lead generation B2B"
-   ],
-   "_mins": 5
   }
  ]
 }

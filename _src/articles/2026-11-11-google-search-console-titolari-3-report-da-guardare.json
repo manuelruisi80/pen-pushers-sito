@@ -1,0 +1,56 @@
+{
+  "slug": "google-search-console-titolari-3-report-da-guardare",
+  "date": "2026-11-11",
+  "time": "09:30",
+  "cat": "Siti web & SEO",
+  "title": "Google Search Console per titolari: i 3 report da guardare ogni mese",
+  "seo_title": "Search Console per titolari: i 3 report da guardare | Pen-Pushers Publishing",
+  "desc": "Search Console spiegata a un titolare d'azienda: cosa guardare nei report Rendimento, Indicizzazione delle pagine e Core Web Vitals in 10 minuti al mese.",
+  "lead": "Hai un sito aziendale ma non sai per quali ricerche compare, quante persone cliccano e se Google conosce davvero le tue pagine dei servizi. Search Console te lo dice gratis. Ecco i tre report che bastano a un titolare, e come leggerli senza diventare un tecnico.",
+  "mins": 6,
+  "motif": "grid",
+  "ig_hook": "Il tuo sito su Google: 3 report da guardare.",
+  "ig_caption": "Hai un sito, ma sai per quali ricerche compare su Google? E se le tue pagine dei servizi sono davvero indicizzate?\n\nGoogle Search Console te lo dice gratis. A un titolare bastano 3 report:\n• Rendimento: cosa cercano le persone che ti trovano, clic e impressioni\n• Indicizzazione delle pagine: Google conosce le pagine che contano?\n• Core Web Vitals: il sito è comodo da usare, soprattutto da telefono?\n• prima di tutto: l'accesso deve averlo l'azienda, non solo il fornitore\n• 10 minuti al mese bastano\n\nArticolo completo su pen-pushers.com/insights (link in bio)\n\n#seo #googlesearchconsole #sitoweb #seolocale #pmiitaliane #aziendetecniche #marketingdigitale #PenPushersPublishing",
+  "cta_title": "Vuoi capire cosa dice Google del tuo sito?",
+  "cta_text": "Con il servizio SEO e Google Business Profile impostiamo Search Console, leggiamo i dati con te e li trasformiamo in interventi concreti sulle pagine che contano.",
+  "body_html": "<h2>Il problema: hai un sito, ma non sai se Google lo usa</h2>\n<p>Un'azienda di manutenzione di cucine professionali ha rifatto il sito un anno fa: pagine per ogni servizio, foto dei lavori, modulo per i preventivi. Il titolare ogni tanto cerca il nome dell'azienda su Google, si trova, e conclude che \"il sito funziona\". Ma non sa rispondere a domande più utili: per quali ricerche compare? Quante persone cliccano? La pagina sull'assistenza alle celle frigorifere è stata indicizzata o Google la ignora?</p>\n<p>Le risposte esistono e sono gratuite. Le dà Google Search Console, lo strumento con cui Google mostra al proprietario di un sito come lo vede e come appare nei risultati di ricerca. Il problema è che, aperta la prima volta, sembra il cruscotto di un aereo. La buona notizia è che a un titolare bastano tre report.</p>\n\n<h2>Perché molti titolari non la usano</h2>\n<ul>\n<li><strong>Non sanno di averla.</strong> Spesso chi ha fatto il sito l'ha attivata con il proprio account, e l'azienda non ha accesso.</li>\n<li><strong>La confondono con Google Analytics.</strong> Analytics racconta cosa fanno le persone sul sito; Search Console racconta cosa succede prima, nei risultati di Google.</li>\n<li><strong>Si spaventano per gli avvisi.</strong> Vedono \"pagine non indicizzate\" e pensano che il sito sia rotto. Spesso non è così, come vedremo.</li>\n<li><strong>Guardano tutto e quindi niente.</strong> Ci sono molti report: senza sapere da quali partire, si chiude la scheda.</li>\n</ul>\n\n<div class=\"box\"><span class=\"mono\">Prima di tutto: l'accesso</span>\n<p>Chiedi a chi gestisce il sito di aggiungerti come utente della proprietà in Search Console, con il tuo account aziendale. Il sito è dell'azienda, e anche i suoi dati devono esserlo. Se cambi fornitore, l'accesso deve restare a te.</p>\n</div>\n\n<h2>Report 1: Rendimento, cosa cercano le persone che ti trovano</h2>\n<p>Il report sul rendimento, nella sezione \"Ricerca Google\", mostra quattro numeri:</p>\n<ul>\n<li><strong>Impressioni:</strong> quante volte una pagina del tuo sito è comparsa nei risultati.</li>\n<li><strong>Clic:</strong> quante volte qualcuno ci ha cliccato.</li>\n<li><strong>CTR:</strong> la percentuale di clic sulle impressioni.</li>\n<li><strong>Posizione media:</strong> in che punto dei risultati compari, in media.</li>\n</ul>\n<p>Il valore vero sta sotto il grafico, nelle schede <strong>Query</strong> e <strong>Pagine</strong>. Le query sono le parole che le persone hanno cercato prima di vederti. Lì scopri cose concrete: magari compari per \"manutenzione abbattitore\" ma quasi nessuno clicca, oppure ricevi visite per un servizio che non fai più.</p>\n<h3>Cosa guardare, in 10 minuti al mese</h3>\n<ol>\n<li>Imposta un periodo (per esempio gli ultimi 3 mesi) e confrontalo con quello precedente: i clic salgono o scendono?</li>\n<li>Nella scheda Query, separa le ricerche con il nome dell'azienda da quelle senza. Il filtro query di Search Console ha anche un'opzione per distinguere le query con il brand da quelle non correlate, dove disponibile. Le ricerche senza il tuo nome sono quelle dei clienti che ancora non ti conoscono.</li>\n<li>Cerca le query con molte impressioni e pochi clic: spesso basta riscrivere titolo e descrizione della pagina. Ne abbiamo parlato nell'articolo su <a href=\"/insights/meta-title-meta-description-pagine-servizi.html\">meta title e meta description</a>.</li>\n<li>Nella scheda Pagine controlla quali pagine servizio ricevono visite e quali sono ferme.</li>\n</ol>\n\n<h2>Report 2: Indicizzazione delle pagine, Google conosce il tuo sito?</h2>\n<p>Una pagina che non è nell'indice di Google non può comparire nei risultati, per quanto sia scritta bene. Il report \"Indicizzazione delle pagine\" divide gli indirizzi del sito in due gruppi: <strong>indicizzate</strong> e <strong>non indicizzate</strong>, con il motivo per ciascun gruppo.</p>\n<p>Qui serve calma. La guida di Search Console spiega che la maggior parte dei siti ha almeno alcune pagine non indicizzate, e che non è un problema quando il motivo è legittimo: pagine duplicate, pagine escluse di proposito, indirizzi vecchi che non esistono più. Quello che conta è che <strong>le pagine importanti</strong> siano indicizzate.</p>\n<h3>Come leggerlo senza farsi prendere dal panico</h3>\n<ol>\n<li>Fai l'elenco delle pagine che contano davvero: home, pagine dei servizi, zone servite, contatti, lavori realizzati.</li>\n<li>Controlla che risultino indicizzate. Per una singola pagina puoi usare lo strumento <strong>Controllo URL</strong>: incolli l'indirizzo e vedi se è nell'indice.</li>\n<li>Se una pagina importante è fuori, leggi il motivo indicato e giralo a chi gestisce il sito. Motivi come un tag \"noindex\" lasciato per errore o una pagina che restituisce errore vanno corretti.</li>\n<li>Dopo la correzione, dalla pagina del problema si può chiedere a Google di verificare con il pulsante <strong>Convalida correzione</strong>. Secondo la guida, la convalida di solito richiede fino a due settimane: non serve cliccarlo più volte.</li>\n</ol>\n\n<h2>Report 3: Core Web Vitals, il sito è comodo da usare?</h2>\n<p>Il report Core Web Vitals mostra le prestazioni delle pagine in base a dati di utilizzo reali, cioè all'esperienza di chi visita davvero il sito, separando telefono e computer. Le pagine vengono raggruppate per stato: buone, da migliorare, scadenti.</p>\n<p>Per un titolare il messaggio è semplice: se compaiono molte pagine \"scadenti\" soprattutto da telefono, il sito è lento o scomodo proprio per chi ti cerca dal furgone o dal ristorante. Non serve capire i dettagli tecnici delle metriche: serve sapere che c'è un problema e chiedere al fornitore un piano per risolverlo. Se il sito ha poche visite, il report può non avere abbastanza dati da mostrare: è normale per molti siti di aziende locali. In quel caso puoi partire dai controlli rapidi descritti nell'articolo su <a href=\"/insights/sito-lento-cause-come-capirlo.html\">sito lento: cause e come capirlo</a>.</p>\n\n<div class=\"box\"><span class=\"mono\">Checklist mensile per il titolare</span>\n<ul>\n<li>Ho accesso a Search Console con un account dell'azienda.</li>\n<li>Rendimento: clic degli ultimi 3 mesi confrontati con il periodo precedente.</li>\n<li>Query senza il nome dell'azienda: per quali servizi mi trovano?</li>\n<li>Query con molte impressioni e pochi clic: titoli da riscrivere.</li>\n<li>Indicizzazione: le pagine dei servizi risultano indicizzate.</li>\n<li>Core Web Vitals: nessun gruppo di pagine scadenti da telefono, o un piano per sistemarle.</li>\n</ul>\n</div>\n\n<h2>Cosa aspettarsi, in modo onesto</h2>\n<p>Search Console non fa salire il sito su Google: lo misura. È un termometro, non una cura. Il suo valore è farti fare domande migliori a chi gestisce il sito e decidere dove investire: una pagina servizio da riscrivere, un problema tecnico da correggere, un servizio per cui nessuno ti trova ancora. I dati, poi, cambiano lentamente: guardarli ogni giorno serve a poco, una volta al mese è il ritmo giusto per una PMI.</p>\n<p>Se vuoi che qualcuno imposti Search Console sul tuo sito, legga questi report con te e trasformi i dati in interventi concreti sulle pagine e sulla scheda dell'azienda su Google, è il lavoro del servizio <a href=\"/servizi/seo-google-business-profile.html\">SEO e Google Business Profile</a>.</p>",
+  "faq": [
+    {
+      "q": "Google Search Console è a pagamento?",
+      "a": "No, è uno strumento gratuito di Google. Serve solo verificare di essere il proprietario del sito, operazione che di solito fa chi lo gestisce tecnicamente."
+    },
+    {
+      "q": "Che differenza c'è tra Search Console e Google Analytics?",
+      "a": "Search Console mostra cosa succede nei risultati di Google prima della visita: ricerche, impressioni, clic, pagine indicizzate. Analytics mostra cosa fanno le persone una volta arrivate sul sito. Sono complementari."
+    },
+    {
+      "q": "È grave avere pagine non indicizzate?",
+      "a": "Non necessariamente. Secondo la guida di Search Console la maggior parte dei siti ha alcune pagine non indicizzate, spesso per motivi legittimi come duplicati o pagine escluse di proposito. L'importante è che le pagine principali, come quelle dei servizi, siano indicizzate."
+    },
+    {
+      "q": "Ogni quanto conviene controllare Search Console?",
+      "a": "Per una PMI una volta al mese è sufficiente, confrontando il periodo con quello precedente. Conviene guardarla anche dopo un rifacimento del sito o la pubblicazione di nuove pagine importanti."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Guida di Search Console, Riepilogo sui report",
+      "url": "https://support.google.com/webmasters/answer/9133276?hl=it"
+    },
+    {
+      "title": "Guida di Search Console, Report Indicizzazione delle pagine",
+      "url": "https://support.google.com/webmasters/answer/7440203?hl=it"
+    },
+    {
+      "title": "Guida di Search Console, Report sul rendimento: attività e casi d'uso comuni",
+      "url": "https://support.google.com/webmasters/answer/17010961?hl=it"
+    }
+  ],
+  "photo": {
+    "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=2000&q=85&fm=jpg",
+    "author": "Luke Chesser",
+    "source": "Unsplash",
+    "page": "https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00",
+    "focus": 0.5
+  }
+}

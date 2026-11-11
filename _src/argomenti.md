@@ -1,11 +1,9 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Liste di prospect: come tenerle pulite e aggiornate nel tempo
 - Ricerca lead per zona: come scegliere le province su cui concentrarsi
 
 ## Siti web & SEO
-- Google Search Console per titolari: i 3 report da guardare
 - Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti
 
 ## Brand identity
@@ -106,3 +104,5 @@
 - Pagina servizio per un'azienda tecnica: struttura e testi che portano richieste [fatto 2026-11-09]
 - Colori aziendali: come sceglierli e usarli in modo coerente [fatto 2026-11-10]
 - Archiviare le email dei clienti in automatico nel CRM [fatto 2026-11-10]
+- Liste di prospect: come tenerle pulite e aggiornate nel tempo [fatto 2026-11-11]
+- Google Search Console per titolari: i 3 report da guardare [fatto 2026-11-11]
