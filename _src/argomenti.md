@@ -7,12 +7,10 @@
 - Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti
 
 ## Brand identity
-- Preventivo con l'immagine coordinata: come presentare un'offerta curata
 - Rebranding di un'azienda tecnica: quando serve e come farlo senza perdere clienti
 
 ## AI & automazioni
 - AI per rispondere alle recensioni Google: come usarla senza sembrare un robot
-- Report settimanale automatico per il titolare: quali dati raccogliere
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
 - Climatizzazione per uffici e negozi: come proporre la manutenzione annuale
@@ -106,3 +104,5 @@
 - Archiviare le email dei clienti in automatico nel CRM [fatto 2026-11-10]
 - Liste di prospect: come tenerle pulite e aggiornate nel tempo [fatto 2026-11-11]
 - Google Search Console per titolari: i 3 report da guardare [fatto 2026-11-11]
+- Preventivo con l'immagine coordinata: come presentare un'offerta curata [fatto 2026-11-12]
+- Report settimanale automatico per il titolare: quali dati raccogliere [fatto 2026-11-12]

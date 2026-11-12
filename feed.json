@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/report-settimanale-automatico-titolare-quali-dati-raccogliere.html",
+   "url": "https://pen-pushers.com/insights/report-settimanale-automatico-titolare-quali-dati-raccogliere.html",
+   "title": "Report settimanale automatico per il titolare: quali dati raccogliere e come",
+   "summary": "Quali numeri mettere nel report settimanale del titolare di una PMI tecnica e come farlo arrivare da solo ogni lunedì, senza copia e incolla a mano.",
+   "image": "https://pen-pushers.com/insights/img/covers/report-settimanale-automatico-titolare-quali-dati-raccogliere.jpg",
+   "date_published": "2026-11-12",
+   "tags": [
+    "AI & automazioni"
+   ],
+   "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/preventivo-immagine-coordinata-come-presentare-offerta-curata.html",
+   "url": "https://pen-pushers.com/insights/preventivo-immagine-coordinata-come-presentare-offerta-curata.html",
+   "title": "Preventivo con l'immagine coordinata: come presentare un'offerta curata",
+   "summary": "Come impostare un modello di preventivo coerente con l'immagine aziendale: copertina, sintesi, tabelle leggibili, dati obbligatori e invio in PDF.",
+   "image": "https://pen-pushers.com/insights/img/covers/preventivo-immagine-coordinata-come-presentare-offerta-curata.jpg",
+   "date_published": "2026-11-12",
+   "tags": [
+    "Brand identity"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/google-search-console-titolari-3-report-da-guardare.html",
    "url": "https://pen-pushers.com/insights/google-search-console-titolari-3-report-da-guardare.html",
    "title": "Google Search Console per titolari: i 3 report da guardare ogni mese",
@@ -218,30 +242,6 @@
    "date_published": "2026-11-03",
    "tags": [
     "Lead generation B2B"
-   ],
-   "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/chatbot-sito-azienda-tecnica-quando-ha-senso.html",
-   "url": "https://pen-pushers.com/insights/chatbot-sito-azienda-tecnica-quando-ha-senso.html",
-   "title": "Chatbot sul sito di un'azienda tecnica: quando ha senso e quando no",
-   "summary": "Chatbot sul sito di un'azienda tecnica: quando aiuta davvero, quando fa perdere clienti, cosa chiede l'AI Act e come decidere in 5 passi pratici.",
-   "image": "https://pen-pushers.com/insights/img/covers/chatbot-sito-azienda-tecnica-quando-ha-senso.jpg",
-   "date_published": "2026-11-02",
-   "tags": [
-    "AI & automazioni"
-   ],
-   "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/biglietti-da-visita-2026-cosa-metterci-azienda-tecnica.html",
-   "url": "https://pen-pushers.com/insights/biglietti-da-visita-2026-cosa-metterci-azienda-tecnica.html",
-   "title": "Biglietti da visita nel 2026: servono ancora? Cosa metterci se hai un'azienda tecnica",
-   "summary": "Biglietti da visita per aziende tecniche: perché servono ancora, cosa scriverci, come usare il QR code e gli errori che fanno perdere contatti.",
-   "image": "https://pen-pushers.com/insights/img/covers/biglietti-da-visita-2026-cosa-metterci-azienda-tecnica.jpg",
-   "date_published": "2026-11-02",
-   "tags": [
-    "Brand identity"
    ],
    "_mins": 6
   }
