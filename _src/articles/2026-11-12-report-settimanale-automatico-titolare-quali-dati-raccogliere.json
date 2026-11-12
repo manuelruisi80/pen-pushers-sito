@@ -9,7 +9,7 @@
   "lead": "I numeri della tua azienda esistono già, ma sono sparsi tra email, gestionale, fogli dei tecnici e telefono. Raccoglierli a mano ogni settimana costa tempo, e dopo un mese nessuno lo fa più. Ecco quali dati servono davvero al titolare e come farli arrivare in automatico.",
   "mins": 5,
   "motif": "growth",
-  "ig_hook": "I numeri del lunedì, senza chiederli a nessuno.",
+  "ig_hook": "I numeri del lunedì, in automatico.",
   "ig_caption": "Ogni lunedì vorresti sapere quante richieste sono arrivate, quanti preventivi sono partiti e quali sono fermi. I dati ci sono, ma sono sparsi ovunque.\n\nCome costruire un report settimanale automatico:\n• scegli 8-10 numeri che ti fanno prendere decisioni\n• richieste, preventivi, lavoro operativo e visibilità online\n• ogni dato registrato in un posto solo\n• collega le fonti a un foglio o a un cruscotto\n• programma l'invio: stesso giorno, stessa ora\n• confronto con la settimana prima e un responsabile dei dati\n\nArticolo completo su pen-pushers.com/insights (link in bio)\n\n#automazione #reportaziendale #pmiitaliane #aziendetecniche #digitalizzazione #intelligenzaartificiale #gestioneaziendale #imprenditori #PenPushersPublishing",
   "cta_title": "Vuoi ricevere i numeri della tua azienda ogni lunedì?",
   "cta_text": "Con Innovation, insieme a 404brain, colleghiamo CRM, fogli di calcolo e moduli del sito e costruiamo un report automatico su misura per la tua PMI.",
@@ -39,10 +39,10 @@
     }
   ],
   "photo": {
-    "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=2000&q=85&fm=jpg",
-    "author": "Luke Chesser",
+    "url": "https://images.unsplash.com/photo-1653669486781-7265d7824b44?w=2000&q=85&fm=jpg",
+    "author": "The Jopwell Collection",
     "source": "Unsplash",
-    "page": "https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00",
-    "focus": 0.5
+    "page": "https://unsplash.com/photos/a-man-standing-in-an-office-looking-at-a-tablet-qKOfsX8YQTE",
+    "focus": 0.4
   }
 }
