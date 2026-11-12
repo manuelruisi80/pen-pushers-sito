@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  preventivo-immagine-coordinata-come-presentare-offerta-curata: 200 https://images.unsplash.com/photo-1758518729908-d4220a678d81?w=2000&q=85&fm=jpg image/jpeg
+OK preventivo-immagine-coordinata-come-presentare-offerta-curata (2000, 1125)
+  report-settimanale-automatico-titolare-quali-dati-raccogliere: 200 https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=2000&q=85&fm=jpg image/jpeg
+OK report-settimanale-automatico-titolare-quali-dati-raccogliere (2000, 1333)
+foto scaricate: 2, errori: 0
