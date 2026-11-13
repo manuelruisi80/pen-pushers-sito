@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/blog-aziendale-pmi-tecniche-ha-senso-come-scegliere-argomenti.html",
+   "url": "https://pen-pushers.com/insights/blog-aziendale-pmi-tecniche-ha-senso-come-scegliere-argomenti.html",
+   "title": "Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti",
+   "summary": "Quando un blog aziendale serve davvero a una PMI tecnica e come scegliere gli argomenti partendo da domande dei clienti, Search Console e obiezioni.",
+   "image": "https://pen-pushers.com/insights/img/covers/blog-aziendale-pmi-tecniche-ha-senso-come-scegliere-argomenti.jpg",
+   "date_published": "2026-11-13",
+   "tags": [
+    "Siti web & SEO"
+   ],
+   "_mins": 6
+  },
+  {
+   "id": "https://pen-pushers.com/insights/ricerca-lead-per-zona-come-scegliere-province.html",
+   "url": "https://pen-pushers.com/insights/ricerca-lead-per-zona-come-scegliere-province.html",
+   "title": "Ricerca lead per zona: come scegliere le province su cui concentrarti",
+   "summary": "Come scegliere le province su cui cercare nuovi clienti B2B: raggio di assistenza, numero di aziende adatte, clienti attuali e un punteggio semplice.",
+   "image": "https://pen-pushers.com/insights/img/covers/ricerca-lead-per-zona-come-scegliere-province.jpg",
+   "date_published": "2026-11-13",
+   "tags": [
+    "Lead generation B2B"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/report-settimanale-automatico-titolare-quali-dati-raccogliere.html",
    "url": "https://pen-pushers.com/insights/report-settimanale-automatico-titolare-quali-dati-raccogliere.html",
    "title": "Report settimanale automatico per il titolare: quali dati raccogliere e come",
@@ -220,30 +244,6 @@
     "Brand identity"
    ],
    "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/modulo-richiesta-preventivo-quali-campi-chiedere.html",
-   "url": "https://pen-pushers.com/insights/modulo-richiesta-preventivo-quali-campi-chiedere.html",
-   "title": "Modulo di richiesta preventivo: quali campi chiedere per ricevere richieste serie",
-   "summary": "Quali campi inserire nel modulo di richiesta preventivo di un'azienda tecnica per ricevere richieste complete senza far scappare i clienti. Con checklist.",
-   "image": "https://pen-pushers.com/insights/img/covers/modulo-richiesta-preventivo-quali-campi-chiedere.jpg",
-   "date_published": "2026-11-03",
-   "tags": [
-    "Siti web & SEO"
-   ],
-   "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/amministratori-di-condominio-rapporto-lavori-ricorrenti.html",
-   "url": "https://pen-pushers.com/insights/amministratori-di-condominio-rapporto-lavori-ricorrenti.html",
-   "title": "Amministratori di condominio: come costruire un rapporto che porta lavori ricorrenti",
-   "summary": "Come un'azienda tecnica diventa l'impresa di riferimento degli amministratori di condominio: metodo in 6 passi, preventivi da assemblea, piano annuale.",
-   "image": "https://pen-pushers.com/insights/img/covers/amministratori-di-condominio-rapporto-lavori-ricorrenti.jpg",
-   "date_published": "2026-11-03",
-   "tags": [
-    "Lead generation B2B"
-   ],
-   "_mins": 6
   }
  ]
 }

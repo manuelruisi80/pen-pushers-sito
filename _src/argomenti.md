@@ -1,10 +1,8 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Ricerca lead per zona: come scegliere le province su cui concentrarsi
 
 ## Siti web & SEO
-- Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti
 
 ## Brand identity
 - Rebranding di un'azienda tecnica: quando serve e come farlo senza perdere clienti
@@ -106,3 +104,5 @@
 - Google Search Console per titolari: i 3 report da guardare [fatto 2026-11-11]
 - Preventivo con l'immagine coordinata: come presentare un'offerta curata [fatto 2026-11-12]
 - Report settimanale automatico per il titolare: quali dati raccogliere [fatto 2026-11-12]
+- Ricerca lead per zona: come scegliere le province su cui concentrarsi [fatto 2026-11-13]
+- Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti [fatto 2026-11-13]
