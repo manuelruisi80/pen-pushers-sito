@@ -5,10 +5,8 @@
 ## Siti web & SEO
 
 ## Brand identity
-- Rebranding di un'azienda tecnica: quando serve e come farlo senza perdere clienti
 
 ## AI & automazioni
-- AI per rispondere alle recensioni Google: come usarla senza sembrare un robot
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
 - Climatizzazione per uffici e negozi: come proporre la manutenzione annuale
@@ -106,3 +104,5 @@
 - Report settimanale automatico per il titolare: quali dati raccogliere [fatto 2026-11-12]
 - Ricerca lead per zona: come scegliere le province su cui concentrarsi [fatto 2026-11-13]
 - Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti [fatto 2026-11-13]
+- Rebranding di un'azienda tecnica: quando serve e come farlo senza perdere clienti [fatto 2026-11-14]
+- AI per rispondere alle recensioni Google: come usarla senza sembrare un robot [fatto 2026-11-14]

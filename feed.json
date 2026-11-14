@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/ai-rispondere-recensioni-google-senza-sembrare-robot.html",
+   "url": "https://pen-pushers.com/insights/ai-rispondere-recensioni-google-senza-sembrare-robot.html",
+   "title": "AI per rispondere alle recensioni Google: come usarla senza sembrare un robot",
+   "summary": "Usare l'AI per rispondere alle recensioni Google: dove fa risparmiare tempo, dove serve la tua mano e un metodo in 5 passi per risposte credibili.",
+   "image": "https://pen-pushers.com/insights/img/covers/ai-rispondere-recensioni-google-senza-sembrare-robot.jpg",
+   "date_published": "2026-11-14",
+   "tags": [
+    "AI & automazioni"
+   ],
+   "_mins": 5
+  },
+  {
+   "id": "https://pen-pushers.com/insights/rebranding-azienda-tecnica-quando-serve-come-farlo.html",
+   "url": "https://pen-pushers.com/insights/rebranding-azienda-tecnica-quando-serve-come-farlo.html",
+   "title": "Rebranding di un'azienda tecnica: quando serve e come farlo senza perdere clienti",
+   "summary": "Rebranding per aziende tecniche: i segnali che lo rendono necessario, cosa cambiare e cosa tenere, e come gestire sito, Google e clienti senza perderne.",
+   "image": "https://pen-pushers.com/insights/img/covers/rebranding-azienda-tecnica-quando-serve-come-farlo.jpg",
+   "date_published": "2026-11-14",
+   "tags": [
+    "Brand identity"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/blog-aziendale-pmi-tecniche-ha-senso-come-scegliere-argomenti.html",
    "url": "https://pen-pushers.com/insights/blog-aziendale-pmi-tecniche-ha-senso-come-scegliere-argomenti.html",
    "title": "Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti",
@@ -220,30 +244,6 @@
     "Lead generation B2B"
    ],
    "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/trascrizione-automatica-sopralluoghi-nota-vocale-rapporto.html",
-   "url": "https://pen-pushers.com/insights/trascrizione-automatica-sopralluoghi-nota-vocale-rapporto.html",
-   "title": "Trascrizione automatica dei sopralluoghi: dalla nota vocale al rapporto in 5 passi",
-   "summary": "Come usare la trascrizione automatica per trasformare la nota vocale del tecnico in un rapporto di sopralluogo ordinato: strumenti, scaletta e controlli.",
-   "image": "https://pen-pushers.com/insights/img/covers/trascrizione-automatica-sopralluoghi-nota-vocale-rapporto.jpg",
-   "date_published": "2026-11-04",
-   "tags": [
-    "AI & automazioni"
-   ],
-   "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/firma-email-aziendale-cosa-inserire-cosa-evitare.html",
-   "url": "https://pen-pushers.com/insights/firma-email-aziendale-cosa-inserire-cosa-evitare.html",
-   "title": "Firma email aziendale: cosa inserire, cosa evitare e quali dati sono obbligatori",
-   "summary": "Cosa mettere nella firma email aziendale, quali dati deve indicare una società secondo l'art. 2250 c.c. e quali elementi togliere. Con esempio e checklist.",
-   "image": "https://pen-pushers.com/insights/img/covers/firma-email-aziendale-cosa-inserire-cosa-evitare.jpg",
-   "date_published": "2026-11-04",
-   "tags": [
-    "Brand identity"
-   ],
-   "_mins": 5
   }
  ]
 }
