@@ -1,5 +1,1 @@
-  ai-rispondere-recensioni-google-senza-sembrare-robot: 200 https://images.unsplash.com/photo-1729714055320-4d1c5d5e213d?w=2000&q=85&fm=jpg image/jpeg
-OK ai-rispondere-recensioni-google-senza-sembrare-robot (2000, 1333)
-  rebranding-azienda-tecnica-quando-serve-come-farlo: 200 https://images.unsplash.com/photo-1716471330459-063b3baf247e?w=2000&q=85&fm=jpg image/jpeg
-OK rebranding-azienda-tecnica-quando-serve-come-farlo (2000, 1333)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
