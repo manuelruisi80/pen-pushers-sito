@@ -1,15 +1,26 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
+- Studi di progettazione e ingegneri: come farsi prescrivere dalle figure tecniche
+- Nuovi capannoni e insediamenti produttivi: come intercettarli in anticipo
+- Sequenza di contatto B2B in 4 settimane: email, telefonata e LinkedIn in ordine
 
 ## Siti web & SEO
+- Pagina "Assistenza e pronto intervento": come scriverla per chi ha un guasto
+- Recensioni e schede su Google Maps per più sedi: come gestirle senza confusione
+- Dati strutturati per aziende locali: cosa sono e quando servono
 
 ## Brand identity
+- Brochure tecnica di prodotto o servizio: cosa mettere e come impaginarla
+- Fotografie aziendali professionali: come organizzare uno shooting in sede
 
 ## AI & automazioni
+- Archiviare in automatico le dichiarazioni di conformità e i certificati degli impianti
+- AI per riassumere capitolati e bandi: come usarla e cosa controllare
+- Promemoria automatici per i preventivi in scadenza: come impostarli
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Climatizzazione per uffici e negozi: come proporre la manutenzione annuale
+- Manutenzione cappe e impianti di aspirazione nelle cucine professionali: come proporla
 - Laboratori odontotecnici: come presentarsi agli studi dentistici
 - Installatori di cucine industriali: sito e pagine servizio che portano richieste
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
@@ -17,9 +28,11 @@
 - Trattamento acqua per ristoranti e bar: come spiegare il servizio al cliente
 
 ## Crescita & vendite
-- KPI commerciali per una PMI: i 4 numeri da guardare ogni settimana
+- Margine per commessa: come capire quali lavori ti fanno davvero guadagnare
+- Visita commerciale dal cliente: come prepararla in 30 minuti
 
 ## Guide pratiche
+- Come scrivere un'email di sollecito pagamento cortese ma ferma
 - Come preparare un rapporto di sopralluogo che il cliente capisce
 - Checklist: 10 cose da controllare nella presenza online della tua azienda
 - Come scrivere la pagina "Chi siamo" di un'azienda tecnica
@@ -106,3 +119,5 @@
 - Blog aziendale per PMI tecniche: ha senso? Come scegliere gli argomenti [fatto 2026-11-13]
 - Rebranding di un'azienda tecnica: quando serve e come farlo senza perdere clienti [fatto 2026-11-14]
 - AI per rispondere alle recensioni Google: come usarla senza sembrare un robot [fatto 2026-11-14]
+- Climatizzazione per uffici e negozi: come proporre la manutenzione annuale [fatto 2026-11-15]
+- KPI commerciali per una PMI: i 4 numeri da guardare ogni settimana [fatto 2026-11-15]
