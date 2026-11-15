@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  kpi-commerciali-pmi-4-numeri-da-guardare-ogni-settimana: 200 https://images.unsplash.com/photo-1758873271687-ec6b5bc28fe8?w=2000&q=85&fm=jpg image/jpeg
+OK kpi-commerciali-pmi-4-numeri-da-guardare-ogni-settimana (2000, 1125)
+  manutenzione-climatizzazione-uffici-negozi-come-proporla: 200 https://images.unsplash.com/photo-1667983453881-4992fe86ab1b?w=2000&q=85&fm=jpg image/jpeg
+OK manutenzione-climatizzazione-uffici-negozi-come-proporla (2000, 1333)
+foto scaricate: 2, errori: 0
