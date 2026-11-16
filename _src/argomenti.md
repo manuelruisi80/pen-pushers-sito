@@ -1,12 +1,10 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Studi di progettazione e ingegneri: come farsi prescrivere dalle figure tecniche
 - Nuovi capannoni e insediamenti produttivi: come intercettarli in anticipo
 - Sequenza di contatto B2B in 4 settimane: email, telefonata e LinkedIn in ordine
 
 ## Siti web & SEO
-- Pagina "Assistenza e pronto intervento": come scriverla per chi ha un guasto
 - Recensioni e schede su Google Maps per più sedi: come gestirle senza confusione
 - Dati strutturati per aziende locali: cosa sono e quando servono
 
@@ -121,3 +119,5 @@
 - AI per rispondere alle recensioni Google: come usarla senza sembrare un robot [fatto 2026-11-14]
 - Climatizzazione per uffici e negozi: come proporre la manutenzione annuale [fatto 2026-11-15]
 - KPI commerciali per una PMI: i 4 numeri da guardare ogni settimana [fatto 2026-11-15]
+- Studi di progettazione e ingegneri: come farsi prescrivere dalle figure tecniche [fatto 2026-11-16]
+- Pagina "Assistenza e pronto intervento": come scriverla per chi ha un guasto [fatto 2026-11-16]
