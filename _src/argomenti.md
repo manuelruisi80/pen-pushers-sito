@@ -9,11 +9,9 @@
 - Dati strutturati per aziende locali: cosa sono e quando servono
 
 ## Brand identity
-- Brochure tecnica di prodotto o servizio: cosa mettere e come impaginarla
 - Fotografie aziendali professionali: come organizzare uno shooting in sede
 
 ## AI & automazioni
-- Archiviare in automatico le dichiarazioni di conformità e i certificati degli impianti
 - AI per riassumere capitolati e bandi: come usarla e cosa controllare
 - Promemoria automatici per i preventivi in scadenza: come impostarli
 
@@ -121,3 +119,5 @@
 - KPI commerciali per una PMI: i 4 numeri da guardare ogni settimana [fatto 2026-11-15]
 - Studi di progettazione e ingegneri: come farsi prescrivere dalle figure tecniche [fatto 2026-11-16]
 - Pagina "Assistenza e pronto intervento": come scriverla per chi ha un guasto [fatto 2026-11-16]
+- Brochure tecnica di prodotto o servizio: cosa mettere e come impaginarla [fatto 2026-11-17]
+- Archiviare in automatico le dichiarazioni di conformità e i certificati degli impianti [fatto 2026-11-17]
