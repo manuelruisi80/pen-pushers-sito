@@ -1,5 +1,3 @@
-  archiviare-automatico-dichiarazioni-conformita-certificati-impianti: 200 https://images.unsplash.com/photo-1583521214690-73421a1829a9?w=2000&q=85&fm=jpg image/jpeg
-OK archiviare-automatico-dichiarazioni-conformita-certificati-impianti (2000, 1333)
-  brochure-tecnica-prodotto-servizio-cosa-mettere-come-impaginarla: 200 https://images.unsplash.com/photo-1658863025658-4a259cc68fc9?w=2000&q=85&fm=jpg image/jpeg
-OK brochure-tecnica-prodotto-servizio-cosa-mettere-come-impaginarla (2000, 1600)
-foto scaricate: 2, errori: 0
+  brochure-tecnica-prodotto-servizio-cosa-mettere-come-impaginarla: 200 https://images.unsplash.com/photo-1503694978374-8a2fa686963a?w=2000&q=85&fm=jpg image/jpeg
+OK brochure-tecnica-prodotto-servizio-cosa-mettere-come-impaginarla (2000, 1335)
+foto scaricate: 1, errori: 0
