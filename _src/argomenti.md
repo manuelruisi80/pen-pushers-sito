@@ -1,11 +1,9 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Nuovi capannoni e insediamenti produttivi: come intercettarli in anticipo
 - Sequenza di contatto B2B in 4 settimane: email, telefonata e LinkedIn in ordine
 
 ## Siti web & SEO
-- Recensioni e schede su Google Maps per più sedi: come gestirle senza confusione
 - Dati strutturati per aziende locali: cosa sono e quando servono
 
 ## Brand identity
@@ -121,3 +119,5 @@
 - Pagina "Assistenza e pronto intervento": come scriverla per chi ha un guasto [fatto 2026-11-16]
 - Brochure tecnica di prodotto o servizio: cosa mettere e come impaginarla [fatto 2026-11-17]
 - Archiviare in automatico le dichiarazioni di conformità e i certificati degli impianti [fatto 2026-11-17]
+- Nuovi capannoni e insediamenti produttivi: come intercettarli in anticipo [fatto 2026-11-18]
+- Recensioni e schede su Google Maps per più sedi: come gestirle senza confusione [fatto 2026-11-18]
