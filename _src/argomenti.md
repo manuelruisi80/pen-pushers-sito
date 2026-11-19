@@ -7,10 +7,8 @@
 - Dati strutturati per aziende locali: cosa sono e quando servono
 
 ## Brand identity
-- Fotografie aziendali professionali: come organizzare uno shooting in sede
 
 ## AI & automazioni
-- AI per riassumere capitolati e bandi: come usarla e cosa controllare
 - Promemoria automatici per i preventivi in scadenza: come impostarli
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
@@ -121,3 +119,5 @@
 - Archiviare in automatico le dichiarazioni di conformità e i certificati degli impianti [fatto 2026-11-17]
 - Nuovi capannoni e insediamenti produttivi: come intercettarli in anticipo [fatto 2026-11-18]
 - Recensioni e schede su Google Maps per più sedi: come gestirle senza confusione [fatto 2026-11-18]
+- Fotografie aziendali professionali: come organizzare uno shooting in sede [fatto 2026-11-19]
+- AI per riassumere capitolati e bandi: come usarla e cosa controllare [fatto 2026-11-19]

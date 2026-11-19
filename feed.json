@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/ai-riassumere-capitolati-bandi-cosa-controllare.html",
+   "url": "https://pen-pushers.com/insights/ai-riassumere-capitolati-bandi-cosa-controllare.html",
+   "title": "AI per riassumere capitolati e bandi: come usarla e cosa controllare sempre",
+   "summary": "Come usare l'AI per leggere capitolati e bandi di gara più in fretta: cosa chiederle, come verificare le risposte e quali dati non caricare.",
+   "image": "https://pen-pushers.com/insights/img/covers/ai-riassumere-capitolati-bandi-cosa-controllare.jpg",
+   "date_published": "2026-11-19",
+   "tags": [
+    "AI & automazioni"
+   ],
+   "_mins": 6
+  },
+  {
+   "id": "https://pen-pushers.com/insights/fotografie-aziendali-professionali-shooting-in-sede.html",
+   "url": "https://pen-pushers.com/insights/fotografie-aziendali-professionali-shooting-in-sede.html",
+   "title": "Fotografie aziendali professionali: come organizzare uno shooting in sede",
+   "summary": "Come organizzare uno shooting in azienda: lista degli scatti, persone e consensi, luoghi da sistemare e uso delle foto su sito, social e preventivi.",
+   "image": "https://pen-pushers.com/insights/img/covers/fotografie-aziendali-professionali-shooting-in-sede.jpg",
+   "date_published": "2026-11-19",
+   "tags": [
+    "Brand identity"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/google-maps-piu-sedi-schede-recensioni-come-gestirle.html",
    "url": "https://pen-pushers.com/insights/google-maps-piu-sedi-schede-recensioni-come-gestirle.html",
    "title": "Google Maps con più sedi: come gestire schede e recensioni senza confusione",
@@ -220,30 +244,6 @@
     "Brand identity"
    ],
    "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/pagina-servizio-azienda-tecnica-struttura-testi-che-portano-richieste.html",
-   "url": "https://pen-pushers.com/insights/pagina-servizio-azienda-tecnica-struttura-testi-che-portano-richieste.html",
-   "title": "Pagina servizio per un'azienda tecnica: struttura e testi che portano richieste",
-   "summary": "Come costruire la pagina di un servizio per un'azienda tecnica: i 7 blocchi da inserire, come scrivere i testi e una checklist per ricevere richieste vere.",
-   "image": "https://pen-pushers.com/insights/img/covers/pagina-servizio-azienda-tecnica-struttura-testi-che-portano-richieste.jpg",
-   "date_published": "2026-11-09",
-   "tags": [
-    "Siti web & SEO"
-   ],
-   "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/hotel-in-ristrutturazione-come-intercettarli-forniture-impianti.html",
-   "url": "https://pen-pushers.com/insights/hotel-in-ristrutturazione-come-intercettarli-forniture-impianti.html",
-   "title": "Hotel in ristrutturazione: come intercettarli in tempo per forniture e impianti",
-   "summary": "Dove nascono i segnali di una ristrutturazione alberghiera, chi decide i fornitori e un metodo in 5 passi per proporti prima che le scelte siano fatte.",
-   "image": "https://pen-pushers.com/insights/img/covers/hotel-in-ristrutturazione-come-intercettarli-forniture-impianti.jpg",
-   "date_published": "2026-11-09",
-   "tags": [
-    "Lead generation B2B"
-   ],
-   "_mins": 6
   }
  ]
 }
