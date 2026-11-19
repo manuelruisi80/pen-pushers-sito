@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  ai-riassumere-capitolati-bandi-cosa-controllare: 200 https://images.unsplash.com/photo-1713947503550-7c1bf16b8edf?w=2000&q=85&fm=jpg image/jpeg
+OK ai-riassumere-capitolati-bandi-cosa-controllare (2000, 1125)
+  fotografie-aziendali-professionali-shooting-in-sede: 200 https://images.unsplash.com/photo-1595020738512-66672a9d72a9?w=2000&q=85&fm=jpg image/jpeg
+OK fotografie-aziendali-professionali-shooting-in-sede (2000, 1333)
+foto scaricate: 2, errori: 0
