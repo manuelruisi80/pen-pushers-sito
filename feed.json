@@ -6,6 +6,30 @@
  "language": "it",
  "items": [
   {
+   "id": "https://pen-pushers.com/insights/dati-strutturati-aziende-locali-cosa-sono-quando-servono.html",
+   "url": "https://pen-pushers.com/insights/dati-strutturati-aziende-locali-cosa-sono-quando-servono.html",
+   "title": "Dati strutturati per aziende locali: cosa sono e quando servono davvero",
+   "summary": "Cosa sono i dati strutturati LocalBusiness, quali informazioni chiede Google, quando servono a un'azienda tecnica e come impostarli in 5 passi.",
+   "image": "https://pen-pushers.com/insights/img/covers/dati-strutturati-aziende-locali-cosa-sono-quando-servono.jpg",
+   "date_published": "2026-11-20",
+   "tags": [
+    "Siti web & SEO"
+   ],
+   "_mins": 6
+  },
+  {
+   "id": "https://pen-pushers.com/insights/sequenza-contatto-b2b-4-settimane-email-telefonata-linkedin.html",
+   "url": "https://pen-pushers.com/insights/sequenza-contatto-b2b-4-settimane-email-telefonata-linkedin.html",
+   "title": "Sequenza di contatto B2B in 4 settimane: email, telefonata e LinkedIn in ordine",
+   "summary": "Un calendario in 4 settimane per contattare un potenziale cliente B2B alternando email, telefono e LinkedIn, con messaggi utili e senza essere insistente.",
+   "image": "https://pen-pushers.com/insights/img/covers/sequenza-contatto-b2b-4-settimane-email-telefonata-linkedin.jpg",
+   "date_published": "2026-11-20",
+   "tags": [
+    "Lead generation B2B"
+   ],
+   "_mins": 6
+  },
+  {
    "id": "https://pen-pushers.com/insights/ai-riassumere-capitolati-bandi-cosa-controllare.html",
    "url": "https://pen-pushers.com/insights/ai-riassumere-capitolati-bandi-cosa-controllare.html",
    "title": "AI per riassumere capitolati e bandi: come usarla e cosa controllare sempre",
@@ -220,30 +244,6 @@
     "Lead generation B2B"
    ],
    "_mins": 6
-  },
-  {
-   "id": "https://pen-pushers.com/insights/archiviare-email-clienti-automatico-crm.html",
-   "url": "https://pen-pushers.com/insights/archiviare-email-clienti-automatico-crm.html",
-   "title": "Archiviare le email dei clienti in automatico nel CRM: come farlo in 5 passi",
-   "summary": "Come portare in automatico nel CRM le email importanti dei clienti: quali archiviare, come collegare la posta, dove aiuta l'AI e cosa controllare.",
-   "image": "https://pen-pushers.com/insights/img/covers/archiviare-email-clienti-automatico-crm.jpg",
-   "date_published": "2026-11-10",
-   "tags": [
-    "AI & automazioni"
-   ],
-   "_mins": 5
-  },
-  {
-   "id": "https://pen-pushers.com/insights/colori-aziendali-come-sceglierli-usarli-in-modo-coerente.html",
-   "url": "https://pen-pushers.com/insights/colori-aziendali-come-sceglierli-usarli-in-modo-coerente.html",
-   "title": "Colori aziendali: come sceglierli e usarli in modo coerente su ogni materiale",
-   "summary": "Come scegliere i colori aziendali di una PMI, fissare i codici per schermo e stampa, controllare la leggibilità e usarli in modo coerente ovunque.",
-   "image": "https://pen-pushers.com/insights/img/covers/colori-aziendali-come-sceglierli-usarli-in-modo-coerente.jpg",
-   "date_published": "2026-11-10",
-   "tags": [
-    "Brand identity"
-   ],
-   "_mins": 5
   }
  ]
 }

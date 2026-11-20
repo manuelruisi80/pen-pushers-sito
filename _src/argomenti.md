@@ -1,10 +1,8 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Sequenza di contatto B2B in 4 settimane: email, telefonata e LinkedIn in ordine
 
 ## Siti web & SEO
-- Dati strutturati per aziende locali: cosa sono e quando servono
 
 ## Brand identity
 
@@ -121,3 +119,5 @@
 - Recensioni e schede su Google Maps per più sedi: come gestirle senza confusione [fatto 2026-11-18]
 - Fotografie aziendali professionali: come organizzare uno shooting in sede [fatto 2026-11-19]
 - AI per riassumere capitolati e bandi: come usarla e cosa controllare [fatto 2026-11-19]
+- Sequenza di contatto B2B in 4 settimane: email, telefonata e LinkedIn in ordine [fatto 2026-11-20]
+- Dati strutturati per aziende locali: cosa sono e quando servono [fatto 2026-11-20]
