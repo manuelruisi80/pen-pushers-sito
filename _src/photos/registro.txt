@@ -1,5 +1,1 @@
-  dati-strutturati-aziende-locali-cosa-sono-quando-servono: 200 https://images.unsplash.com/photo-1770734360042-676ef707d022?w=2000&q=85&fm=jpg image/jpeg
-OK dati-strutturati-aziende-locali-cosa-sono-quando-servono (2000, 1333)
-  sequenza-contatto-b2b-4-settimane-email-telefonata-linkedin: 200 https://images.unsplash.com/photo-1758519290895-cd3bacfb7485?w=2000&q=85&fm=jpg image/jpeg
-OK sequenza-contatto-b2b-4-settimane-email-telefonata-linkedin (2000, 1125)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
