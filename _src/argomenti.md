@@ -7,10 +7,8 @@
 ## Brand identity
 
 ## AI & automazioni
-- Promemoria automatici per i preventivi in scadenza: come impostarli
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Manutenzione cappe e impianti di aspirazione nelle cucine professionali: come proporla
 - Laboratori odontotecnici: come presentarsi agli studi dentistici
 - Installatori di cucine industriali: sito e pagine servizio che portano richieste
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
@@ -121,3 +119,5 @@
 - AI per riassumere capitolati e bandi: come usarla e cosa controllare [fatto 2026-11-19]
 - Sequenza di contatto B2B in 4 settimane: email, telefonata e LinkedIn in ordine [fatto 2026-11-20]
 - Dati strutturati per aziende locali: cosa sono e quando servono [fatto 2026-11-20]
+- Promemoria automatici per i preventivi in scadenza: come impostarli [fatto 2026-11-21]
+- Manutenzione cappe e impianti di aspirazione nelle cucine professionali: come proporla [fatto 2026-11-21]

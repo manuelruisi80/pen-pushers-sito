@@ -1,0 +1,56 @@
+{
+ "slug": "promemoria-automatici-preventivi-in-scadenza-come-impostarli",
+ "date": "2026-11-21",
+ "time": "09:00",
+ "cat": "AI & automazioni",
+ "title": "Promemoria automatici per i preventivi in scadenza: come impostarli",
+ "seo_title": "Promemoria automatici per preventivi in scadenza | Pen-Pushers Publishing",
+ "desc": "Come evitare che i preventivi scadano senza risposta: elenco unico, due promemoria automatici, righe evidenziate e una frase pronta per ogni ricontatto.",
+ "lead": "Mandi un preventivo con scritto \"valido 30 giorni\", poi arriva il lavoro e te ne dimentichi. Quando riapri la cartella, l'offerta è scaduta e il cliente ha scelto qualcun altro. Ecco come far arrivare il promemoria da solo, prima che sia tardi.",
+ "mins": 5,
+ "motif": "funnel",
+ "ig_hook": "Il preventivo non scade: lo dimentichi tu.",
+ "ig_caption": "Quindici preventivi in un mese. Tutti \"validi 30 giorni\". Quanti ne hai richiamati prima della scadenza?\n\nCome impostare promemoria automatici per i preventivi:\n• scrivi una data di validità precisa, non solo \"30 giorni\"\n• tieni un solo elenco dei preventivi aperti, con responsabile e stato\n• fissa due ricontatti: pochi giorni dopo l'invio e una settimana prima della scadenza\n• fai evidenziare in automatico le righe in scadenza\n• fai arrivare il promemoria a una persona (CRM, calendario o email)\n• prepara una frase utile per ogni ricontatto\n\nArticolo completo su pen-pushers.com/insights (link in bio)\n\n#preventivi #automazioni #pmiitaliane #aziendetecniche #crm #vendite #digitalizzazione #organizzazioneaziendale #PenPushersPublishing",
+ "cta_title": "Automatizza i promemoria dei tuoi preventivi",
+ "cta_text": "Con Innovation e 404brain colleghiamo i tuoi preventivi a promemoria automatici e riepiloghi giornalieri, usando gli strumenti che hai già.",
+ "faq": [
+  {
+   "q": "Quanto deve durare la validità di un preventivo?",
+   "a": "Non c'è una durata giusta per tutti: dipende dal settore e da quanto cambiano i costi dei materiali e della manodopera. L'importante è scrivere una data precisa e sceglierla sapendo che, se ti impegni a mantenere ferma l'offerta, durante quel periodo non puoi ritirarla a piacere: per i dettagli confrontati con il tuo consulente legale."
+  },
+  {
+   "q": "Serve per forza un CRM per i promemoria?",
+   "a": "No. Per pochi preventivi al mese bastano un foglio di calcolo condiviso, la formattazione condizionale e un calendario. Il CRM diventa utile quando i preventivi sono tanti, le persone coinvolte sono più di una e vuoi tenere insieme preventivi, attività e storico dei contatti."
+  },
+  {
+   "q": "Le notifiche di Google Fogli mi avvisano quando un preventivo scade?",
+   "a": "Non da sole. Le notifiche condizionali di Google Fogli partono quando il valore di una cella cambia e, secondo la guida di Google, le funzioni come OGGI() potrebbero non attivarle. Per un avviso legato alla data servono un'attività nel CRM, un evento in calendario o una piccola automazione che manda un riepilogo."
+  },
+  {
+   "q": "Cosa faccio quando il preventivo è scaduto senza risposta?",
+   "a": "Chiama comunque il cliente, chiedi com'è andata e segna l'esito nell'elenco: accettato, perso con il motivo, oppure da riproporre. Se vuole procedere, verifica prezzi e tempi prima di confermare, perché nel frattempo potrebbero essere cambiati."
+  }
+ ],
+ "sources": [
+  {
+   "title": "Brocardi.it · Art. 1329 codice civile, Proposta irrevocabile",
+   "url": "https://brocardi.it/codice-civile/libro-quarto/titolo-ii/capo-ii/sezione-i/art1329.html"
+  },
+  {
+   "title": "Guida Google · Usare le regole di formattazione condizionale in Fogli Google",
+   "url": "https://support.google.com/docs/answer/78413"
+  },
+  {
+   "title": "Guida Google · Usare le notifiche condizionali in Fogli Google",
+   "url": "https://support.google.com/docs/answer/14099459"
+  }
+ ],
+ "photo": {
+  "url": "https://images.unsplash.com/photo-1783099779469-5b02ae272c09?w=2000&q=85&fm=jpg",
+  "author": "Cabri Caldwell",
+  "source": "Unsplash",
+  "page": "https://unsplash.com/photos/an-open-planner-with-a-pen-on-a-wooden-desk-7ja5zM7PBu8",
+  "focus": 0.5
+ },
+ "body_html": "<h2>Il problema: preventivi che scadono nel silenzio</h2>\n<p>Un'azienda che installa cucine professionali manda in un mese quindici preventivi. Su ognuno c'è scritto \"offerta valida 30 giorni\". Passano le settimane, arriva il lavoro in cantiere, il telefono suona per le urgenze. Quando il titolare riapre la cartella dei preventivi, metà sono scaduti da giorni e nessuno ha richiamato il cliente.</p>\n<p>Alcuni di quei clienti avevano solo bisogno di una domanda in più, di un chiarimento sulla consegna o di una spinta per decidere. Altri hanno scelto qualcun altro perché si sono fatti vivi prima. In entrambi i casi il problema non era il prezzo: era che <strong>nessuno sapeva quali preventivi stavano per scadere</strong>.</p>\n<p>La buona notizia è che per risolverlo non serve un software complicato. Bastano una data scritta bene e un promemoria che arriva da solo.</p>\n\n<h2>Perché i preventivi si perdono</h2>\n<ul>\n<li><strong>La scadenza è scritta solo nel PDF.</strong> La data di validità sta in fondo al documento inviato, ma non compare in nessun elenco che qualcuno guarda ogni giorno.</li>\n<li><strong>Ci si affida alla memoria.</strong> \"Me lo ricordo\" funziona con tre preventivi, non con trenta distribuiti su più settimane.</li>\n<li><strong>Non è chiaro chi deve richiamare.</strong> Il preventivo l'ha fatto il tecnico, l'ha spedito l'ufficio, il cliente l'ha chiesto al titolare. Risultato: ognuno pensa che lo faccia un altro.</li>\n<li><strong>Il ricontatto arriva il giorno dopo la scadenza.</strong> A quel punto il cliente ha già deciso, o deve chiederti di rifare l'offerta.</li>\n</ul>\n\n<h2>Prima di automatizzare: la scadenza deve essere chiara</h2>\n<p>Un promemoria è utile solo se la data da cui parte è precisa. Sul preventivo scrivi una data di validità esplicita (\"offerta valida fino al 15 dicembre\"), non solo un generico \"30 giorni\". È più chiaro per il cliente e più facile da copiare in un elenco.</p>\n<p>Ricorda anche che la validità non è solo una formalità commerciale. Il codice civile, all'articolo 1329, prevede che se chi fa la proposta si è obbligato a mantenerla ferma per un certo tempo, una revoca in quel periodo è senza effetto. Come si applica ai tuoi preventivi dipende da come sono scritti: per le condizioni precise confrontati con il tuo consulente legale. Dal punto di vista pratico, il messaggio è semplice: la data di validità va scelta con attenzione e tenuta sotto controllo.</p>\n\n<h2>Il metodo in 5 passi</h2>\n<h3>1. Un elenco unico dei preventivi aperti</h3>\n<p>Che sia un CRM o un foglio di calcolo condiviso, serve un solo posto con una riga per ogni preventivo: cliente, oggetto, importo, data di invio, data di scadenza, responsabile, stato (inviato, in trattativa, accettato, perso). Se un preventivo non è in questo elenco, per l'azienda non esiste.</p>\n\n<h3>2. Due date di promemoria per ogni preventivo</h3>\n<p>Non aspettare la scadenza. Imposta almeno due momenti di ricontatto:</p>\n<ul>\n<li><strong>pochi giorni dopo l'invio</strong>, per chiedere se il preventivo è arrivato ed è chiaro;</li>\n<li><strong>una settimana prima della scadenza</strong>, per capire a che punto è la decisione e se serve qualche chiarimento.</li>\n</ul>\n<p>Le due date si calcolano da sole partendo dalla data di invio e da quella di scadenza: non devi scriverle a mano ogni volta.</p>\n\n<h3>3. Fai \"accendere\" le righe in scadenza</h3>\n<p>Se usi Google Fogli, la formattazione condizionale permette di colorare una riga con una regola personalizzata (\"La formula personalizzata è\"). Per esempio, con la scadenza in colonna E puoi far diventare gialle le righe con una formula come <strong>=E2-OGGI()&lt;=7</strong> e lo stato ancora \"inviato\". Apri il foglio e vedi subito cosa richiede attenzione, senza leggere tutto.</p>\n<p>Attenzione a un dettaglio: le notifiche via email di Google Fogli partono quando il contenuto di una cella cambia, e secondo la guida di Google le funzioni che si aggiornano da sole come OGGI() potrebbero non attivarle. Per un avviso legato al passare del tempo servono quindi altri strumenti, come quelli del passo successivo.</p>\n\n<h3>4. Il promemoria deve arrivare a una persona</h3>\n<p>Un colore nel foglio funziona solo se qualcuno apre il foglio. Il passo in più è far arrivare il promemoria al responsabile: un'attività con scadenza nel CRM, un evento nel calendario condiviso, oppure un'email automatica ogni mattina con l'elenco dei preventivi da richiamare. Molti CRM gestiscono già attività e scadenze; con i fogli di calcolo si può usare una piccola automazione che legge l'elenco e manda il riepilogo.</p>\n<p>Questo è il genere di flusso che impostiamo nei progetti <a href=\"/servizi/innovation-automazioni-ai.html\">Innovation, automazioni e AI</a>: poche regole chiare, collegate agli strumenti che l'azienda usa già.</p>\n\n<h3>5. Scrivi in anticipo cosa dire</h3>\n<p>Il promemoria ti dice <em>quando</em> richiamare. Prepara anche <em>cosa</em> dire, così il ricontatto non diventa un \"volevo sapere se ha deciso\". Qualche esempio:</p>\n<ul>\n<li>\"Ho visto che l'offerta scade venerdì: ci sono punti da chiarire sui tempi di installazione?\"</li>\n<li>\"Per rispettare la data di consegna che ci aveva indicato dovremmo ordinare il materiale entro la prossima settimana.\"</li>\n<li>\"Se il budget è un problema, possiamo valutare insieme una soluzione a fasi.\"</li>\n</ul>\n<p>Per capire quante volte ricontattare senza diventare insistente, trovi indicazioni pratiche nell'articolo sul <a href=\"/insights/follow-up-commerciale-quante-volte-ricontattare.html\">follow-up commerciale</a>.</p>\n\n<div class=\"box\"><span class=\"mono\">In sintesi</span>\n<ul>\n<li>Data di validità esplicita su ogni preventivo.</li>\n<li>Un solo elenco dei preventivi aperti, con responsabile e stato.</li>\n<li>Due promemoria: dopo l'invio e una settimana prima della scadenza.</li>\n<li>Righe in scadenza evidenziate in automatico.</li>\n<li>Promemoria che arrivano a una persona, non solo colori nel foglio.</li>\n<li>Una frase pronta per ogni ricontatto.</li>\n</ul>\n</div>\n\n<h2>Cosa aspettarsi, onestamente</h2>\n<p>I promemoria non fanno accettare un preventivo che il cliente non vuole. Quello che fanno è evitare che un'offerta valida muoia per dimenticanza. Ti danno anche un quadro più chiaro: quanti preventivi hai aperti, quanto valgono, quali stanno per scadere e perché alcuni vengono persi.</p>\n<p>Il lavoro più grosso è all'inizio: decidere le regole, mettere in ordine l'elenco e abituare tutti ad aggiornarlo. Dopo qualche settimana diventa un'abitudine, e il tempo speso a cercare \"quel preventivo di ottobre\" si riduce.</p>\n<p>Se l'elenco cresce e il foglio di calcolo comincia a stare stretto, è il momento di valutare un CRM, dove preventivi, attività e storico dei contatti stanno nello stesso posto.</p>"
+}
