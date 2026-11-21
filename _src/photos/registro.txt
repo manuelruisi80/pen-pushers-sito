@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  manutenzione-cappe-aspirazione-cucine-professionali-come-proporla: 200 https://images.unsplash.com/photo-1790156590790-fbd2239d1ecf?w=2000&q=85&fm=jpg image/jpeg
+OK manutenzione-cappe-aspirazione-cucine-professionali-come-proporla (1500, 2000)
+  promemoria-automatici-preventivi-in-scadenza-come-impostarli: 200 https://images.unsplash.com/photo-1783099779469-5b02ae272c09?w=2000&q=85&fm=jpg image/jpeg
+OK promemoria-automatici-preventivi-in-scadenza-come-impostarli (2000, 1760)
+foto scaricate: 2, errori: 0
