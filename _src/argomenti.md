@@ -9,14 +9,12 @@
 ## AI & automazioni
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Laboratori odontotecnici: come presentarsi agli studi dentistici
 - Installatori di cucine industriali: sito e pagine servizio che portano richieste
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
 - Assistenza forni professionali: come proporre la manutenzione a ristoranti e panifici
 - Trattamento acqua per ristoranti e bar: come spiegare il servizio al cliente
 
 ## Crescita & vendite
-- Margine per commessa: come capire quali lavori ti fanno davvero guadagnare
 - Visita commerciale dal cliente: come prepararla in 30 minuti
 
 ## Guide pratiche
@@ -121,3 +119,5 @@
 - Dati strutturati per aziende locali: cosa sono e quando servono [fatto 2026-11-20]
 - Promemoria automatici per i preventivi in scadenza: come impostarli [fatto 2026-11-21]
 - Manutenzione cappe e impianti di aspirazione nelle cucine professionali: come proporla [fatto 2026-11-21]
+- Laboratori odontotecnici: come presentarsi agli studi dentistici [fatto 2026-11-22]
+- Margine per commessa: come capire quali lavori ti fanno davvero guadagnare [fatto 2026-11-22]
