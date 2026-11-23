@@ -1,24 +1,37 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
+- Distributori di attrezzature Ho.Re.Ca.: come trovare nuovi rivenditori nella propria regione
+- Aziende di refrigerazione industriale: come costruire una lista di supermercati e magazzini da contattare
+- Ristoranti in apertura in centri commerciali: come intercettare i progetti in anticipo
 
 ## Siti web & SEO
+- Pagina "Marchi trattati" per rivenditori tecnici: come scriverla senza copiare le schede dei produttori
+- Sito in più lingue per aziende tecniche: quando serve davvero e come organizzarlo
+- Video sul sito di un'azienda tecnica: quali girare e dove inserirli
 
 ## Brand identity
+- Cartellonistica di cantiere: come trasformarla in pubblicità ordinata
+- Presentare l'azienda in 30 secondi: la frase che tutti in azienda dovrebbero saper dire
 
 ## AI & automazioni
+- Scadenzario incassi automatico: come sapere ogni lunedì chi deve pagarti
+- AI per preparare schede tecniche e manuali d'uso: cosa controllare prima di pubblicarli
+- Magazzino ricambi e furgoni: come tenere traccia dei pezzi con strumenti semplici
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Installatori di cucine industriali: sito e pagine servizio che portano richieste
 - Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
 - Assistenza forni professionali: come proporre la manutenzione a ristoranti e panifici
 - Trattamento acqua per ristoranti e bar: come spiegare il servizio al cliente
 
 ## Crescita & vendite
+- Acconti e stati di avanzamento: come chiederli senza perdere il cliente
+- Contratto di manutenzione in scadenza: come proporre il rinnovo con un mese di anticipo
 - Visita commerciale dal cliente: come prepararla in 30 minuti
 
 ## Guide pratiche
-- Come scrivere un'email di sollecito pagamento cortese ma ferma
+- Come scrivere le condizioni generali di vendita in modo chiaro (con il supporto di un legale)
+- Come gestire un reclamo del cliente per email: struttura e tono
 - Come preparare un rapporto di sopralluogo che il cliente capisce
 - Checklist: 10 cose da controllare nella presenza online della tua azienda
 - Come scrivere la pagina "Chi siamo" di un'azienda tecnica
@@ -121,3 +134,5 @@
 - Manutenzione cappe e impianti di aspirazione nelle cucine professionali: come proporla [fatto 2026-11-21]
 - Laboratori odontotecnici: come presentarsi agli studi dentistici [fatto 2026-11-22]
 - Margine per commessa: come capire quali lavori ti fanno davvero guadagnare [fatto 2026-11-22]
+- Installatori di cucine industriali: sito e pagine servizio che portano richieste [fatto 2026-11-23]
+- Come scrivere un'email di sollecito pagamento cortese ma ferma [fatto 2026-11-23]
