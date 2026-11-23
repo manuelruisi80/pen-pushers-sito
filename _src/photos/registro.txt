@@ -1,5 +1,1 @@
-  email-sollecito-pagamento-cortese-ma-ferma-modelli: 200 https://images.unsplash.com/photo-1772588627342-5ec373e236d8?w=2000&q=85&fm=jpg image/jpeg
-OK email-sollecito-pagamento-cortese-ma-ferma-modelli (2000, 1333)
-  installatori-cucine-industriali-sito-pagine-servizio-richieste: 200 https://images.unsplash.com/photo-1663790776711-9283bf614ac2?w=2000&q=85&fm=jpg image/jpeg
-OK installatori-cucine-industriali-sito-pagine-servizio-richieste (1333, 2000)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
