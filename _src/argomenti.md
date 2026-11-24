@@ -1,12 +1,9 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Distributori di attrezzature Ho.Re.Ca.: come trovare nuovi rivenditori nella propria regione
-- Aziende di refrigerazione industriale: come costruire una lista di supermercati e magazzini da contattare
 - Ristoranti in apertura in centri commerciali: come intercettare i progetti in anticipo
 
 ## Siti web & SEO
-- Pagina "Marchi trattati" per rivenditori tecnici: come scriverla senza copiare le schede dei produttori
 - Sito in più lingue per aziende tecniche: quando serve davvero e come organizzarlo
 - Video sul sito di un'azienda tecnica: quali girare e dove inserirli
 
@@ -136,3 +133,5 @@
 - Margine per commessa: come capire quali lavori ti fanno davvero guadagnare [fatto 2026-11-22]
 - Installatori di cucine industriali: sito e pagine servizio che portano richieste [fatto 2026-11-23]
 - Come scrivere un'email di sollecito pagamento cortese ma ferma [fatto 2026-11-23]
+- Aziende di refrigerazione industriale: come costruire una lista di supermercati e magazzini da contattare [fatto 2026-11-24]
+- Pagina "Marchi trattati" per rivenditori tecnici: come scriverla senza copiare le schede dei produttori [fatto 2026-11-24]
