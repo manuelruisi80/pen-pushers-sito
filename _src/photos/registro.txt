@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  pagina-marchi-trattati-rivenditori-tecnici-senza-copiare-schede: 200 https://images.unsplash.com/photo-1631856954913-c751a44490ec?w=2000&q=85&fm=jpg image/jpeg
+OK pagina-marchi-trattati-rivenditori-tecnici-senza-copiare-schede (2000, 1334)
+  refrigerazione-industriale-lista-supermercati-magazzini-da-contattare: 200 https://images.unsplash.com/photo-1668890977311-f9d1cbac9cb5?w=2000&q=85&fm=jpg image/jpeg
+OK refrigerazione-industriale-lista-supermercati-magazzini-da-contattare (2000, 1337)
+foto scaricate: 2, errori: 0
