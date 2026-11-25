@@ -1,5 +1,1 @@
-  cartellonistica-cantiere-pubblicita-ordinata-impresa: 200 https://images.unsplash.com/photo-1753223386004-6485ef89db5e?w=2000&q=85&fm=jpg image/jpeg
-OK cartellonistica-cantiere-pubblicita-ordinata-impresa (2000, 1352)
-  scadenzario-incassi-automatico-chi-deve-pagarti: 200 https://images.unsplash.com/photo-1772588627327-1eeddcf73c11?w=2000&q=85&fm=jpg image/jpeg
-OK scadenzario-incassi-automatico-chi-deve-pagarti (2000, 1333)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
