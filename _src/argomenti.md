@@ -8,11 +8,9 @@
 - Video sul sito di un'azienda tecnica: quali girare e dove inserirli
 
 ## Brand identity
-- Cartellonistica di cantiere: come trasformarla in pubblicità ordinata
 - Presentare l'azienda in 30 secondi: la frase che tutti in azienda dovrebbero saper dire
 
 ## AI & automazioni
-- Scadenzario incassi automatico: come sapere ogni lunedì chi deve pagarti
 - AI per preparare schede tecniche e manuali d'uso: cosa controllare prima di pubblicarli
 - Magazzino ricambi e furgoni: come tenere traccia dei pezzi con strumenti semplici
 
@@ -135,3 +133,5 @@
 - Come scrivere un'email di sollecito pagamento cortese ma ferma [fatto 2026-11-23]
 - Aziende di refrigerazione industriale: come costruire una lista di supermercati e magazzini da contattare [fatto 2026-11-24]
 - Pagina "Marchi trattati" per rivenditori tecnici: come scriverla senza copiare le schede dei produttori [fatto 2026-11-24]
+- Cartellonistica di cantiere: come trasformarla in pubblicità ordinata [fatto 2026-11-25]
+- Scadenzario incassi automatico: come sapere ogni lunedì chi deve pagarti [fatto 2026-11-25]
