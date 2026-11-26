@@ -1,10 +1,8 @@
 # Argomenti da scrivere (si parte dall'alto; quando un tema è usato si sposta in fondo con [fatto AAAA-MM-GG])
 
 ## Lead generation B2B
-- Ristoranti in apertura in centri commerciali: come intercettare i progetti in anticipo
 
 ## Siti web & SEO
-- Sito in più lingue per aziende tecniche: quando serve davvero e come organizzarlo
 - Video sul sito di un'azienda tecnica: quali girare e dove inserirli
 
 ## Brand identity
@@ -135,3 +133,5 @@
 - Pagina "Marchi trattati" per rivenditori tecnici: come scriverla senza copiare le schede dei produttori [fatto 2026-11-24]
 - Cartellonistica di cantiere: come trasformarla in pubblicità ordinata [fatto 2026-11-25]
 - Scadenzario incassi automatico: come sapere ogni lunedì chi deve pagarti [fatto 2026-11-25]
+- Ristoranti in apertura in centri commerciali: come intercettare i progetti in anticipo [fatto 2026-11-26]
+- Sito in più lingue per aziende tecniche: quando serve davvero e come organizzarlo [fatto 2026-11-26]
