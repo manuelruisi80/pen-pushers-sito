@@ -1,1 +1,5 @@
-foto scaricate: 0, errori: 0
+  ai-schede-tecniche-manuali-uso-cosa-controllare-prima-di-pubblicarli: 200 https://images.unsplash.com/photo-1581091226033-d5c48150dbaa?w=2000&q=85&fm=jpg image/jpeg
+OK ai-schede-tecniche-manuali-uso-cosa-controllare-prima-di-pubblicarli (2000, 1334)
+  presentare-azienda-in-30-secondi-frase-che-tutti-devono-saper-dire: 200 https://images.unsplash.com/photo-1758520144427-ddb02ac74e9d?w=2000&q=85&fm=jpg image/jpeg
+OK presentare-azienda-in-30-secondi-frase-che-tutti-devono-saper-dire (2000, 1125)
+foto scaricate: 2, errori: 0
