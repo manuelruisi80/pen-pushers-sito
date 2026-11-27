@@ -6,10 +6,8 @@
 - Video sul sito di un'azienda tecnica: quali girare e dove inserirli
 
 ## Brand identity
-- Presentare l'azienda in 30 secondi: la frase che tutti in azienda dovrebbero saper dire
 
 ## AI & automazioni
-- AI per preparare schede tecniche e manuali d'uso: cosa controllare prima di pubblicarli
 - Magazzino ricambi e furgoni: come tenere traccia dei pezzi con strumenti semplici
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
@@ -135,3 +133,5 @@
 - Scadenzario incassi automatico: come sapere ogni lunedì chi deve pagarti [fatto 2026-11-25]
 - Ristoranti in apertura in centri commerciali: come intercettare i progetti in anticipo [fatto 2026-11-26]
 - Sito in più lingue per aziende tecniche: quando serve davvero e come organizzarlo [fatto 2026-11-26]
+- Presentare l'azienda in 30 secondi: la frase che tutti in azienda dovrebbero saper dire [fatto 2026-11-27]
+- AI per preparare schede tecniche e manuali d'uso: cosa controllare prima di pubblicarli [fatto 2026-11-27]
