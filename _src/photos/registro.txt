@@ -1,5 +1,1 @@
-  catering-mense-lista-potenziali-clienti-provincia: 200 https://images.unsplash.com/photo-1762330018258-2cf9b8f80618?w=2000&q=85&fm=jpg image/jpeg
-OK catering-mense-lista-potenziali-clienti-provincia (2000, 1125)
-  video-sito-azienda-tecnica-quali-girare-dove-inserirli: 200 https://images.unsplash.com/photo-1775559052522-2f7a4abbce8e?w=2000&q=85&fm=jpg image/jpeg
-OK video-sito-azienda-tecnica-quali-girare-dove-inserirli (1500, 2000)
-foto scaricate: 2, errori: 0
+foto scaricate: 0, errori: 0
