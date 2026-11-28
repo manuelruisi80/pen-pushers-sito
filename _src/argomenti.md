@@ -3,7 +3,6 @@
 ## Lead generation B2B
 
 ## Siti web & SEO
-- Video sul sito di un'azienda tecnica: quali girare e dove inserirli
 
 ## Brand identity
 
@@ -11,7 +10,6 @@
 - Magazzino ricambi e furgoni: come tenere traccia dei pezzi con strumenti semplici
 
 ## Settori · Ho.Re.Ca. tecnico e PMI tecniche
-- Catering e mense: come costruire una lista di potenziali clienti nella propria provincia
 - Assistenza forni professionali: come proporre la manutenzione a ristoranti e panifici
 - Trattamento acqua per ristoranti e bar: come spiegare il servizio al cliente
 
@@ -135,3 +133,5 @@
 - Sito in più lingue per aziende tecniche: quando serve davvero e come organizzarlo [fatto 2026-11-26]
 - Presentare l'azienda in 30 secondi: la frase che tutti in azienda dovrebbero saper dire [fatto 2026-11-27]
 - AI per preparare schede tecniche e manuali d'uso: cosa controllare prima di pubblicarli [fatto 2026-11-27]
+- Video sul sito di un'azienda tecnica: quali girare e dove inserirli [fatto 2026-11-28]
+- Catering e mense: come costruire una lista di potenziali clienti nella propria provincia [fatto 2026-11-28]
